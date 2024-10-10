@@ -1,0 +1,1000 @@
+Maria Jimenez	Operador de Montacargas	36423.63
+Roberto Fernandez	Repartidor	20937.76
+Maria Jimenez	Gerente de Almacen	50008.7
+Ricardo Diaz	Auxiliar Administrativo	65597.03
+Luis Sanchez	Operador de Montacargas	30203.76
+Maria Jimenez	Jefe de Compras	49400.07
+Carla Gomez	Coordinador de Logistica	30401.78
+Lucia Martinez	Auxiliar Administrativo	35504.63
+Juan Lopez	Cajero	21264.15
+Ana Rodriguez	Auxiliar Administrativo	32892.0
+Carla Gomez	Supervisor de Inventario	38583.45
+Maria Jimenez	Asistente de Ventas	27975.86
+Lucia Martinez	Repartidor	40893.67
+Pedro Garcia	Cajero	47775.99
+Lucia Martinez	Auxiliar Administrativo	35444.58
+Roberto Fernandez	Cajero	82582.1
+Luis Sanchez	Coordinador de Logistica	45349.58
+Maria Jimenez	Supervisor de Inventario	45421.51
+Juan Lopez	Operador de Montacargas	34148.09
+Sofia Morales	Jefe de Compras	29287.92
+Juan Lopez	Cajero	46234.1
+Maria Jimenez	Supervisor de Inventario	23674.25
+Carla Gomez	Gerente de Almacen	27426.27
+Pedro Garcia	Asistente de Ventas	37547.32
+Luis Sanchez	Operador de Montacargas	70227.73
+Ana Rodriguez	Operador de Montacargas	51173.91
+Roberto Fernandez	Coordinador de Logistica	67786.73
+Ana Rodriguez	Asistente de Ventas	45056.33
+Maria Jimenez	Operador de Montacargas	61698.97
+Juan Lopez	Supervisor de Inventario	79474.48
+Sofia Morales	Asistente de Ventas	55086.98
+Ricardo Diaz	Repartidor	56901.33
+Lucia Martinez	Operador de Montacargas	73196.29
+Luis Sanchez	Auxiliar Administrativo	75096.26
+Roberto Fernandez	Cajero	18919.26
+Ricardo Diaz	Jefe de Compras	59332.36
+Ana Rodriguez	Jefe de Compras	43393.87
+Lucia Martinez	Coordinador de Logistica	29642.49
+Pedro Garcia	Operador de Montacargas	77820.75
+Maria Jimenez	Jefe de Compras	82131.37
+Sofia Morales	Operador de Montacargas	55728.18
+Juan Lopez	Asistente de Ventas	54634.11
+Sofia Morales	Operador de Montacargas	40168.02
+Maria Jimenez	Coordinador de Logistica	29188.94
+Carla Gomez	Supervisor de Inventario	55736.04
+Juan Lopez	Operador de Montacargas	53682.93
+Sofia Morales	Cajero	43392.68
+Pedro Garcia	Asistente de Ventas	59827.42
+Ana Rodriguez	Cajero	39834.74
+Maria Jimenez	Supervisor de Inventario	31662.66
+Pedro Garcia	Supervisor de Inventario	28195.77
+Pedro Garcia	Operador de Montacargas	18617.14
+Juan Lopez	Auxiliar Administrativo	37901.25
+Ana Rodriguez	Repartidor	45067.52
+Ana Rodriguez	Asistente de Ventas	47900.25
+Ana Rodriguez	Supervisor de Inventario	26105.52
+Pedro Garcia	Empleado de Limpieza	79011.81
+Sofia Morales	Operador de Montacargas	77217.07
+Sofia Morales	Coordinador de Logistica	33634.7
+Ricardo Diaz	Asistente de Ventas	72458.6
+Pedro Garcia	Coordinador de Logistica	40729.34
+Ricardo Diaz	Asistente de Ventas	55036.54
+Sofia Morales	Empleado de Limpieza	32125.92
+Carla Gomez	Cajero	77848.45
+Carla Gomez	Operador de Montacargas	36280.29
+Sofia Morales	Jefe de Compras	33468.81
+Lucia Martinez	Cajero	66502.8
+Sofia Morales	Gerente de Almacen	40982.81
+Juan Lopez	Gerente de Almacen	55161.93
+Roberto Fernandez	Operador de Montacargas	52750.31
+Juan Lopez	Asistente de Ventas	59794.95
+Juan Lopez	Operador de Montacargas	71703.15
+Luis Sanchez	Cajero	29015.68
+Maria Jimenez	Empleado de Limpieza	59401.73
+Pedro Garcia	Jefe de Compras	49755.93
+Luis Sanchez	Gerente de Almacen	81294.23
+Ricardo Diaz	Auxiliar Administrativo	54073.09
+Ricardo Diaz	Operador de Montacargas	71097.33
+Pedro Garcia	Asistente de Ventas	42105.65
+Lucia Martinez	Empleado de Limpieza	47619.44
+Carla Gomez	Auxiliar Administrativo	52235.71
+Lucia Martinez	Repartidor	36865.62
+Lucia Martinez	Jefe de Compras	23131.42
+Sofia Morales	Empleado de Limpieza	56783.17
+Roberto Fernandez	Auxiliar Administrativo	64281.56
+Lucia Martinez	Empleado de Limpieza	54813.93
+Sofia Morales	Empleado de Limpieza	54975.78
+Juan Lopez	Empleado de Limpieza	46025.03
+Maria Jimenez	Coordinador de Logistica	80246.89
+Maria Jimenez	Gerente de Almacen	50165.65
+Roberto Fernandez	Coordinador de Logistica	41807.34
+Pedro Garcia	Repartidor	31061.27
+Sofia Morales	Cajero	79845.63
+Pedro Garcia	Empleado de Limpieza	68060.4
+Luis Sanchez	Cajero	68382.0
+Juan Lopez	Auxiliar Administrativo	72653.61
+Lucia Martinez	Coordinador de Logistica	47512.45
+Roberto Fernandez	Jefe de Compras	41541.9
+Pedro Garcia	Jefe de Compras	25943.28
+Juan Lopez	Repartidor	24386.74
+Ricardo Diaz	Coordinador de Logistica	48045.63
+Maria Jimenez	Gerente de Almacen	23430.1
+Lucia Martinez	Asistente de Ventas	81709.75
+Ricardo Diaz	Gerente de Almacen	24837.19
+Carla Gomez	Repartidor	18577.86
+Roberto Fernandez	Asistente de Ventas	80256.67
+Carla Gomez	Empleado de Limpieza	70348.02
+Juan Lopez	Auxiliar Administrativo	20113.41
+Ricardo Diaz	Gerente de Almacen	30717.21
+Pedro Garcia	Cajero	42004.62
+Maria Jimenez	Cajero	83876.06
+Luis Sanchez	Repartidor	59365.26
+Ana Rodriguez	Jefe de Compras	65022.83
+Juan Lopez	Repartidor	68229.81
+Luis Sanchez	Auxiliar Administrativo	80539.23
+Ana Rodriguez	Supervisor de Inventario	39321.71
+Ricardo Diaz	Jefe de Compras	69754.3
+Carla Gomez	Supervisor de Inventario	34640.45
+Ricardo Diaz	Gerente de Almacen	80866.77
+Pedro Garcia	Repartidor	49484.06
+Juan Lopez	Repartidor	48199.08
+Lucia Martinez	Auxiliar Administrativo	32733.2
+Lucia Martinez	Repartidor	55390.57
+Sofia Morales	Empleado de Limpieza	24491.28
+Maria Jimenez	Asistente de Ventas	31592.74
+Roberto Fernandez	Empleado de Limpieza	80714.02
+Juan Lopez	Operador de Montacargas	65999.42
+Juan Lopez	Jefe de Compras	51231.42
+Lucia Martinez	Operador de Montacargas	82701.36
+Carla Gomez	Empleado de Limpieza	34449.01
+Ricardo Diaz	Jefe de Compras	31903.5
+Ana Rodriguez	Coordinador de Logistica	30736.94
+Juan Lopez	Jefe de Compras	40823.7
+Roberto Fernandez	Jefe de Compras	75272.18
+Roberto Fernandez	Asistente de Ventas	33090.24
+Ana Rodriguez	Repartidor	68583.03
+Ana Rodriguez	Repartidor	41589.75
+Pedro Garcia	Coordinador de Logistica	30133.15
+Maria Jimenez	Operador de Montacargas	83058.04
+Ana Rodriguez	Auxiliar Administrativo	74723.84
+Juan Lopez	Jefe de Compras	31405.6
+Juan Lopez	Cajero	23066.12
+Carla Gomez	Coordinador de Logistica	61612.81
+Ricardo Diaz	Operador de Montacargas	35373.85
+Pedro Garcia	Repartidor	27392.03
+Roberto Fernandez	Empleado de Limpieza	53695.41
+Lucia Martinez	Gerente de Almacen	38266.78
+Maria Jimenez	Asistente de Ventas	84448.81
+Sofia Morales	Auxiliar Administrativo	33491.6
+Sofia Morales	Coordinador de Logistica	60715.48
+Maria Jimenez	Supervisor de Inventario	46232.15
+Roberto Fernandez	Repartidor	78285.33
+Lucia Martinez	Cajero	45100.62
+Juan Lopez	Coordinador de Logistica	70695.35
+Carla Gomez	Coordinador de Logistica	45648.64
+Lucia Martinez	Supervisor de Inventario	56642.67
+Maria Jimenez	Asistente de Ventas	71757.4
+Carla Gomez	Repartidor	26453.01
+Ana Rodriguez	Jefe de Compras	59431.68
+Lucia Martinez	Operador de Montacargas	53501.25
+Roberto Fernandez	Repartidor	59040.2
+Lucia Martinez	Auxiliar Administrativo	21556.66
+Sofia Morales	Asistente de Ventas	60135.44
+Pedro Garcia	Jefe de Compras	28683.0
+Lucia Martinez	Auxiliar Administrativo	80790.78
+Ana Rodriguez	Operador de Montacargas	40577.6
+Ricardo Diaz	Asistente de Ventas	58884.58
+Juan Lopez	Repartidor	77988.91
+Lucia Martinez	Auxiliar Administrativo	72218.81
+Carla Gomez	Auxiliar Administrativo	36096.29
+Ana Rodriguez	Cajero	30638.67
+Juan Lopez	Empleado de Limpieza	68279.26
+Pedro Garcia	Jefe de Compras	66748.07
+Roberto Fernandez	Cajero	81429.42
+Roberto Fernandez	Asistente de Ventas	78543.3
+Ana Rodriguez	Coordinador de Logistica	57970.18
+Maria Jimenez	Auxiliar Administrativo	68479.3
+Ana Rodriguez	Asistente de Ventas	22796.48
+Carla Gomez	Supervisor de Inventario	70377.51
+Ricardo Diaz	Cajero	64435.25
+Luis Sanchez	Empleado de Limpieza	33239.87
+Juan Lopez	Coordinador de Logistica	54723.11
+Carla Gomez	Auxiliar Administrativo	56825.05
+Ricardo Diaz	Repartidor	32712.62
+Juan Lopez	Empleado de Limpieza	54542.84
+Lucia Martinez	Supervisor de Inventario	56595.17
+Carla Gomez	Repartidor	35359.68
+Maria Jimenez	Coordinador de Logistica	53794.33
+Pedro Garcia	Repartidor	57568.62
+Sofia Morales	Gerente de Almacen	35000.28
+Ricardo Diaz	Cajero	31498.2
+Lucia Martinez	Asistente de Ventas	30910.01
+Roberto Fernandez	Operador de Montacargas	40525.39
+Lucia Martinez	Cajero	74340.32
+Lucia Martinez	Jefe de Compras	62985.19
+Juan Lopez	Empleado de Limpieza	57047.95
+Pedro Garcia	Operador de Montacargas	54499.5
+Ana Rodriguez	Empleado de Limpieza	59123.27
+Maria Jimenez	Coordinador de Logistica	38265.29
+Roberto Fernandez	Cajero	35804.94
+Ana Rodriguez	Empleado de Limpieza	67732.38
+Luis Sanchez	Empleado de Limpieza	26008.68
+Roberto Fernandez	Empleado de Limpieza	22569.79
+Ana Rodriguez	Gerente de Almacen	47933.7
+Ana Rodriguez	Cajero	31551.78
+Roberto Fernandez	Asistente de Ventas	41387.49
+Carla Gomez	Repartidor	84023.95
+Ana Rodriguez	Jefe de Compras	31590.2
+Sofia Morales	Supervisor de Inventario	42014.12
+Roberto Fernandez	Cajero	48564.69
+Carla Gomez	Repartidor	19957.09
+Pedro Garcia	Supervisor de Inventario	30171.98
+Ana Rodriguez	Asistente de Ventas	73459.29
+Roberto Fernandez	Auxiliar Administrativo	18743.88
+Lucia Martinez	Empleado de Limpieza	65013.28
+Roberto Fernandez	Empleado de Limpieza	74789.97
+Sofia Morales	Cajero	81275.72
+Roberto Fernandez	Operador de Montacargas	43490.51
+Lucia Martinez	Auxiliar Administrativo	64507.65
+Maria Jimenez	Jefe de Compras	21277.89
+Carla Gomez	Asistente de Ventas	75303.67
+Pedro Garcia	Gerente de Almacen	18690.58
+Maria Jimenez	Cajero	79240.07
+Ana Rodriguez	Asistente de Ventas	30615.53
+Pedro Garcia	Asistente de Ventas	37989.77
+Juan Lopez	Repartidor	66843.86
+Roberto Fernandez	Asistente de Ventas	47930.25
+Roberto Fernandez	Asistente de Ventas	81414.85
+Ricardo Diaz	Supervisor de Inventario	52377.81
+Luis Sanchez	Supervisor de Inventario	50666.25
+Juan Lopez	Jefe de Compras	46231.74
+Pedro Garcia	Jefe de Compras	64215.55
+Pedro Garcia	Repartidor	25848.9
+Pedro Garcia	Auxiliar Administrativo	53973.07
+Ana Rodriguez	Gerente de Almacen	49695.93
+Roberto Fernandez	Repartidor	77394.71
+Pedro Garcia	Auxiliar Administrativo	72412.52
+Pedro Garcia	Asistente de Ventas	78980.02
+Ana Rodriguez	Coordinador de Logistica	31194.02
+Roberto Fernandez	Empleado de Limpieza	30122.19
+Ricardo Diaz	Operador de Montacargas	32935.61
+Ana Rodriguez	Asistente de Ventas	23186.51
+Sofia Morales	Coordinador de Logistica	80546.78
+Lucia Martinez	Repartidor	63292.61
+Juan Lopez	Operador de Montacargas	71099.89
+Ana Rodriguez	Cajero	32468.32
+Luis Sanchez	Auxiliar Administrativo	83936.57
+Ana Rodriguez	Cajero	78060.81
+Roberto Fernandez	Coordinador de Logistica	61580.63
+Maria Jimenez	Empleado de Limpieza	68643.32
+Carla Gomez	Jefe de Compras	48424.73
+Pedro Garcia	Jefe de Compras	70794.05
+Maria Jimenez	Supervisor de Inventario	84376.95
+Sofia Morales	Supervisor de Inventario	58311.35
+Ricardo Diaz	Operador de Montacargas	56671.45
+Carla Gomez	Jefe de Compras	33056.38
+Ricardo Diaz	Auxiliar Administrativo	41589.85
+Ricardo Diaz	Asistente de Ventas	55396.35
+Ricardo Diaz	Supervisor de Inventario	35252.06
+Lucia Martinez	Auxiliar Administrativo	38336.53
+Ricardo Diaz	Empleado de Limpieza	28887.26
+Roberto Fernandez	Auxiliar Administrativo	43345.56
+Pedro Garcia	Supervisor de Inventario	41103.4
+Pedro Garcia	Repartidor	60311.2
+Juan Lopez	Supervisor de Inventario	65095.49
+Ricardo Diaz	Coordinador de Logistica	27306.45
+Roberto Fernandez	Supervisor de Inventario	74478.12
+Ana Rodriguez	Coordinador de Logistica	32580.27
+Ana Rodriguez	Asistente de Ventas	54369.33
+Ana Rodriguez	Asistente de Ventas	65050.87
+Maria Jimenez	Coordinador de Logistica	42128.0
+Roberto Fernandez	Asistente de Ventas	59875.21
+Maria Jimenez	Auxiliar Administrativo	74093.17
+Juan Lopez	Gerente de Almacen	35334.13
+Juan Lopez	Jefe de Compras	38341.37
+Ana Rodriguez	Coordinador de Logistica	49460.5
+Luis Sanchez	Repartidor	71011.45
+Luis Sanchez	Jefe de Compras	61816.18
+Ricardo Diaz	Repartidor	75057.21
+Pedro Garcia	Jefe de Compras	69066.92
+Ana Rodriguez	Supervisor de Inventario	59430.83
+Juan Lopez	Gerente de Almacen	24965.12
+Sofia Morales	Operador de Montacargas	42443.28
+Luis Sanchez	Repartidor	82169.54
+Ana Rodriguez	Auxiliar Administrativo	33171.26
+Maria Jimenez	Operador de Montacargas	79760.46
+Lucia Martinez	Coordinador de Logistica	74247.79
+Juan Lopez	Gerente de Almacen	69830.84
+Sofia Morales	Gerente de Almacen	31282.69
+Luis Sanchez	Supervisor de Inventario	21083.79
+Carla Gomez	Auxiliar Administrativo	46722.76
+Ricardo Diaz	Repartidor	39031.69
+Ricardo Diaz	Operador de Montacargas	21223.18
+Ana Rodriguez	Jefe de Compras	60098.44
+Roberto Fernandez	Operador de Montacargas	42100.12
+Luis Sanchez	Operador de Montacargas	29273.66
+Pedro Garcia	Jefe de Compras	43543.06
+Ana Rodriguez	Auxiliar Administrativo	48678.31
+Maria Jimenez	Coordinador de Logistica	57303.4
+Ricardo Diaz	Jefe de Compras	38733.87
+Pedro Garcia	Gerente de Almacen	53251.98
+Sofia Morales	Cajero	27397.67
+Roberto Fernandez	Supervisor de Inventario	19845.83
+Lucia Martinez	Asistente de Ventas	18827.03
+Carla Gomez	Repartidor	23400.86
+Luis Sanchez	Supervisor de Inventario	50405.04
+Sofia Morales	Coordinador de Logistica	44287.77
+Roberto Fernandez	Asistente de Ventas	69908.18
+Ricardo Diaz	Empleado de Limpieza	55341.72
+Luis Sanchez	Asistente de Ventas	58066.62
+Roberto Fernandez	Gerente de Almacen	42518.89
+Pedro Garcia	Jefe de Compras	35678.22
+Lucia Martinez	Gerente de Almacen	79215.18
+Roberto Fernandez	Supervisor de Inventario	84525.25
+Luis Sanchez	Auxiliar Administrativo	82918.12
+Sofia Morales	Gerente de Almacen	54405.05
+Maria Jimenez	Gerente de Almacen	70261.06
+Sofia Morales	Empleado de Limpieza	50239.84
+Carla Gomez	Jefe de Compras	54406.61
+Ana Rodriguez	Operador de Montacargas	59788.38
+Ricardo Diaz	Cajero	83456.71
+Sofia Morales	Repartidor	71205.59
+Maria Jimenez	Auxiliar Administrativo	19401.29
+Luis Sanchez	Repartidor	74257.49
+Roberto Fernandez	Coordinador de Logistica	54103.48
+Sofia Morales	Asistente de Ventas	68089.05
+Lucia Martinez	Coordinador de Logistica	76019.73
+Roberto Fernandez	Empleado de Limpieza	24812.43
+Ricardo Diaz	Cajero	32255.85
+Carla Gomez	Coordinador de Logistica	22475.12
+Lucia Martinez	Gerente de Almacen	35882.95
+Roberto Fernandez	Auxiliar Administrativo	22305.78
+Ricardo Diaz	Coordinador de Logistica	65688.76
+Sofia Morales	Repartidor	39366.93
+Roberto Fernandez	Repartidor	40087.12
+Maria Jimenez	Repartidor	27395.06
+Roberto Fernandez	Auxiliar Administrativo	59790.66
+Sofia Morales	Cajero	49726.74
+Ricardo Diaz	Repartidor	77041.81
+Ana Rodriguez	Cajero	35291.08
+Pedro Garcia	Asistente de Ventas	65425.61
+Luis Sanchez	Jefe de Compras	42646.16
+Sofia Morales	Operador de Montacargas	29732.71
+Maria Jimenez	Repartidor	55850.37
+Pedro Garcia	Auxiliar Administrativo	57738.97
+Ana Rodriguez	Auxiliar Administrativo	50794.86
+Ricardo Diaz	Repartidor	60521.63
+Carla Gomez	Gerente de Almacen	44193.1
+Lucia Martinez	Supervisor de Inventario	79287.57
+Luis Sanchez	Operador de Montacargas	66389.05
+Luis Sanchez	Asistente de Ventas	83568.95
+Sofia Morales	Repartidor	61325.14
+Roberto Fernandez	Operador de Montacargas	54095.6
+Luis Sanchez	Gerente de Almacen	30115.96
+Carla Gomez	Supervisor de Inventario	74715.64
+Sofia Morales	Jefe de Compras	59631.85
+Luis Sanchez	Repartidor	69403.82
+Ricardo Diaz	Operador de Montacargas	24949.48
+Lucia Martinez	Operador de Montacargas	41077.85
+Luis Sanchez	Repartidor	31663.41
+Roberto Fernandez	Auxiliar Administrativo	56459.72
+Roberto Fernandez	Empleado de Limpieza	37697.47
+Pedro Garcia	Cajero	83167.85
+Lucia Martinez	Operador de Montacargas	61113.88
+Sofia Morales	Cajero	73661.74
+Pedro Garcia	Asistente de Ventas	41380.89
+Luis Sanchez	Supervisor de Inventario	27848.94
+Juan Lopez	Empleado de Limpieza	18042.97
+Luis Sanchez	Cajero	61347.61
+Juan Lopez	Coordinador de Logistica	49986.88
+Maria Jimenez	Asistente de Ventas	67295.01
+Ana Rodriguez	Cajero	36991.98
+Lucia Martinez	Gerente de Almacen	37913.91
+Pedro Garcia	Supervisor de Inventario	23499.54
+Ana Rodriguez	Supervisor de Inventario	64112.4
+Maria Jimenez	Coordinador de Logistica	64764.48
+Sofia Morales	Cajero	46166.44
+Ana Rodriguez	Gerente de Almacen	61873.18
+Luis Sanchez	Cajero	55613.58
+Roberto Fernandez	Coordinador de Logistica	41008.24
+Sofia Morales	Auxiliar Administrativo	40339.46
+Juan Lopez	Repartidor	29949.94
+Maria Jimenez	Auxiliar Administrativo	26656.96
+Carla Gomez	Coordinador de Logistica	32179.31
+Maria Jimenez	Repartidor	62888.61
+Luis Sanchez	Operador de Montacargas	46935.48
+Ricardo Diaz	Jefe de Compras	45290.18
+Juan Lopez	Gerente de Almacen	63164.17
+Juan Lopez	Supervisor de Inventario	65970.55
+Luis Sanchez	Operador de Montacargas	27339.56
+Lucia Martinez	Repartidor	41003.62
+Carla Gomez	Empleado de Limpieza	45135.1
+Carla Gomez	Empleado de Limpieza	43932.62
+Carla Gomez	Cajero	55308.0
+Luis Sanchez	Auxiliar Administrativo	43461.06
+Ricardo Diaz	Supervisor de Inventario	71854.45
+Juan Lopez	Operador de Montacargas	19319.47
+Carla Gomez	Asistente de Ventas	71425.43
+Juan Lopez	Empleado de Limpieza	37329.29
+Sofia Morales	Jefe de Compras	32474.41
+Juan Lopez	Asistente de Ventas	35507.73
+Maria Jimenez	Empleado de Limpieza	73843.4
+Luis Sanchez	Supervisor de Inventario	39638.01
+Maria Jimenez	Repartidor	66714.21
+Carla Gomez	Operador de Montacargas	78902.55
+Luis Sanchez	Empleado de Limpieza	47393.15
+Ana Rodriguez	Jefe de Compras	59230.2
+Pedro Garcia	Repartidor	27668.61
+Lucia Martinez	Jefe de Compras	19773.65
+Pedro Garcia	Operador de Montacargas	69344.58
+Sofia Morales	Cajero	26701.24
+Roberto Fernandez	Cajero	77046.14
+Ricardo Diaz	Repartidor	75650.36
+Luis Sanchez	Jefe de Compras	69114.87
+Juan Lopez	Repartidor	80818.65
+Luis Sanchez	Jefe de Compras	33102.53
+Carla Gomez	Coordinador de Logistica	18082.02
+Roberto Fernandez	Empleado de Limpieza	74226.38
+Maria Jimenez	Asistente de Ventas	63322.59
+Ricardo Diaz	Supervisor de Inventario	84278.84
+Lucia Martinez	Operador de Montacargas	39884.47
+Sofia Morales	Auxiliar Administrativo	29563.97
+Pedro Garcia	Cajero	78512.14
+Ricardo Diaz	Jefe de Compras	41303.78
+Roberto Fernandez	Gerente de Almacen	37369.7
+Sofia Morales	Operador de Montacargas	43272.12
+Sofia Morales	Supervisor de Inventario	26824.44
+Ana Rodriguez	Coordinador de Logistica	46715.34
+Pedro Garcia	Jefe de Compras	51724.49
+Luis Sanchez	Cajero	30773.77
+Carla Gomez	Jefe de Compras	48451.24
+Maria Jimenez	Empleado de Limpieza	68711.01
+Luis Sanchez	Empleado de Limpieza	26626.94
+Lucia Martinez	Coordinador de Logistica	52266.11
+Ricardo Diaz	Jefe de Compras	33564.65
+Juan Lopez	Jefe de Compras	76667.28
+Pedro Garcia	Operador de Montacargas	23260.24
+Carla Gomez	Jefe de Compras	56838.73
+Lucia Martinez	Gerente de Almacen	65363.5
+Juan Lopez	Repartidor	64465.93
+Maria Jimenez	Jefe de Compras	59311.46
+Lucia Martinez	Operador de Montacargas	44853.23
+Maria Jimenez	Operador de Montacargas	57559.07
+Roberto Fernandez	Repartidor	77084.45
+Ana Rodriguez	Empleado de Limpieza	73914.2
+Pedro Garcia	Empleado de Limpieza	57635.6
+Roberto Fernandez	Asistente de Ventas	68968.51
+Ana Rodriguez	Cajero	42115.58
+Carla Gomez	Jefe de Compras	70454.46
+Maria Jimenez	Gerente de Almacen	39264.41
+Ana Rodriguez	Auxiliar Administrativo	51829.92
+Sofia Morales	Cajero	35445.9
+Lucia Martinez	Operador de Montacargas	39578.2
+Ana Rodriguez	Auxiliar Administrativo	26894.24
+Ana Rodriguez	Operador de Montacargas	84446.48
+Carla Gomez	Supervisor de Inventario	44963.94
+Ana Rodriguez	Cajero	77340.86
+Lucia Martinez	Empleado de Limpieza	71295.95
+Maria Jimenez	Supervisor de Inventario	64300.29
+Ricardo Diaz	Cajero	76455.01
+Lucia Martinez	Gerente de Almacen	44446.95
+Pedro Garcia	Auxiliar Administrativo	33615.1
+Maria Jimenez	Auxiliar Administrativo	37759.12
+Pedro Garcia	Asistente de Ventas	84801.09
+Ricardo Diaz	Coordinador de Logistica	63068.81
+Roberto Fernandez	Empleado de Limpieza	83193.71
+Sofia Morales	Repartidor	21479.92
+Roberto Fernandez	Operador de Montacargas	31304.47
+Ricardo Diaz	Empleado de Limpieza	52600.46
+Lucia Martinez	Auxiliar Administrativo	29447.31
+Lucia Martinez	Coordinador de Logistica	80609.42
+Lucia Martinez	Asistente de Ventas	24998.25
+Luis Sanchez	Supervisor de Inventario	34818.07
+Luis Sanchez	Empleado de Limpieza	18289.87
+Sofia Morales	Auxiliar Administrativo	19307.85
+Roberto Fernandez	Repartidor	68697.2
+Juan Lopez	Auxiliar Administrativo	43117.13
+Sofia Morales	Asistente de Ventas	79160.11
+Maria Jimenez	Supervisor de Inventario	44610.36
+Ana Rodriguez	Coordinador de Logistica	55583.57
+Ana Rodriguez	Operador de Montacargas	65613.98
+Lucia Martinez	Auxiliar Administrativo	55458.68
+Maria Jimenez	Coordinador de Logistica	38070.09
+Lucia Martinez	Auxiliar Administrativo	66502.62
+Luis Sanchez	Auxiliar Administrativo	25615.01
+Pedro Garcia	Gerente de Almacen	29882.17
+Sofia Morales	Auxiliar Administrativo	25688.75
+Sofia Morales	Empleado de Limpieza	68448.39
+Ana Rodriguez	Auxiliar Administrativo	20489.21
+Juan Lopez	Supervisor de Inventario	49289.34
+Lucia Martinez	Operador de Montacargas	46015.4
+Juan Lopez	Jefe de Compras	80154.68
+Sofia Morales	Jefe de Compras	84012.39
+Sofia Morales	Coordinador de Logistica	79964.8
+Juan Lopez	Asistente de Ventas	52586.85
+Lucia Martinez	Gerente de Almacen	80412.48
+Luis Sanchez	Supervisor de Inventario	55189.03
+Roberto Fernandez	Empleado de Limpieza	76042.99
+Sofia Morales	Repartidor	18400.47
+Maria Jimenez	Supervisor de Inventario	32168.08
+Carla Gomez	Gerente de Almacen	73067.17
+Ricardo Diaz	Coordinador de Logistica	60412.88
+Lucia Martinez	Gerente de Almacen	58783.69
+Ana Rodriguez	Asistente de Ventas	34599.54
+Carla Gomez	Supervisor de Inventario	71084.0
+Maria Jimenez	Gerente de Almacen	31891.73
+Roberto Fernandez	Jefe de Compras	40592.61
+Luis Sanchez	Repartidor	56865.85
+Lucia Martinez	Empleado de Limpieza	80966.87
+Lucia Martinez	Repartidor	53828.58
+Lucia Martinez	Supervisor de Inventario	39655.21
+Luis Sanchez	Asistente de Ventas	19507.02
+Carla Gomez	Supervisor de Inventario	46431.05
+Roberto Fernandez	Repartidor	43475.86
+Sofia Morales	Jefe de Compras	35680.8
+Ricardo Diaz	Auxiliar Administrativo	22842.19
+Sofia Morales	Cajero	19912.84
+Roberto Fernandez	Auxiliar Administrativo	80396.17
+Carla Gomez	Auxiliar Administrativo	28239.65
+Luis Sanchez	Cajero	31118.06
+Ricardo Diaz	Jefe de Compras	55586.04
+Ricardo Diaz	Gerente de Almacen	60513.59
+Roberto Fernandez	Empleado de Limpieza	68420.48
+Luis Sanchez	Supervisor de Inventario	20115.97
+Ana Rodriguez	Auxiliar Administrativo	66605.99
+Maria Jimenez	Cajero	84477.96
+Carla Gomez	Jefe de Compras	29472.25
+Roberto Fernandez	Auxiliar Administrativo	49352.26
+Ana Rodriguez	Jefe de Compras	22672.76
+Ricardo Diaz	Asistente de Ventas	26648.64
+Ana Rodriguez	Coordinador de Logistica	58553.29
+Lucia Martinez	Supervisor de Inventario	49156.9
+Lucia Martinez	Coordinador de Logistica	80252.43
+Luis Sanchez	Supervisor de Inventario	38551.42
+Roberto Fernandez	Supervisor de Inventario	19308.24
+Carla Gomez	Gerente de Almacen	19165.39
+Ricardo Diaz	Operador de Montacargas	23355.85
+Sofia Morales	Auxiliar Administrativo	55860.81
+Pedro Garcia	Auxiliar Administrativo	69036.24
+Luis Sanchez	Auxiliar Administrativo	31456.51
+Lucia Martinez	Cajero	75386.03
+Lucia Martinez	Auxiliar Administrativo	65601.92
+Lucia Martinez	Cajero	47567.02
+Ricardo Diaz	Jefe de Compras	37283.79
+Luis Sanchez	Empleado de Limpieza	58121.98
+Ricardo Diaz	Supervisor de Inventario	41639.87
+Sofia Morales	Operador de Montacargas	37382.24
+Maria Jimenez	Repartidor	43443.23
+Roberto Fernandez	Empleado de Limpieza	65637.05
+Maria Jimenez	Jefe de Compras	69024.24
+Luis Sanchez	Cajero	68195.19
+Ricardo Diaz	Auxiliar Administrativo	43013.11
+Sofia Morales	Auxiliar Administrativo	41478.94
+Roberto Fernandez	Empleado de Limpieza	19931.07
+Pedro Garcia	Asistente de Ventas	68810.17
+Carla Gomez	Auxiliar Administrativo	41244.66
+Ana Rodriguez	Operador de Montacargas	56446.95
+Lucia Martinez	Supervisor de Inventario	84782.67
+Lucia Martinez	Supervisor de Inventario	37270.47
+Lucia Martinez	Gerente de Almacen	39210.98
+Maria Jimenez	Gerente de Almacen	43543.54
+Ricardo Diaz	Coordinador de Logistica	44385.85
+Lucia Martinez	Asistente de Ventas	31415.26
+Maria Jimenez	Operador de Montacargas	69358.48
+Sofia Morales	Asistente de Ventas	26016.08
+Luis Sanchez	Coordinador de Logistica	40149.34
+Juan Lopez	Cajero	67400.86
+Sofia Morales	Auxiliar Administrativo	51685.64
+Ricardo Diaz	Jefe de Compras	20861.1
+Juan Lopez	Empleado de Limpieza	62485.59
+Lucia Martinez	Supervisor de Inventario	29936.26
+Carla Gomez	Jefe de Compras	61752.21
+Luis Sanchez	Asistente de Ventas	27734.17
+Ana Rodriguez	Gerente de Almacen	24336.87
+Ricardo Diaz	Auxiliar Administrativo	45775.36
+Pedro Garcia	Empleado de Limpieza	66542.66
+Pedro Garcia	Repartidor	80003.86
+Maria Jimenez	Gerente de Almacen	28499.35
+Roberto Fernandez	Supervisor de Inventario	58840.13
+Juan Lopez	Cajero	51686.01
+Ana Rodriguez	Gerente de Almacen	27309.92
+Roberto Fernandez	Empleado de Limpieza	76042.65
+Sofia Morales	Jefe de Compras	84186.28
+Carla Gomez	Jefe de Compras	45766.49
+Ana Rodriguez	Gerente de Almacen	77295.53
+Lucia Martinez	Repartidor	21485.38
+Ana Rodriguez	Empleado de Limpieza	80321.27
+Pedro Garcia	Repartidor	26887.38
+Maria Jimenez	Operador de Montacargas	47373.0
+Lucia Martinez	Auxiliar Administrativo	34789.38
+Maria Jimenez	Cajero	82848.38
+Juan Lopez	Asistente de Ventas	44525.12
+Carla Gomez	Supervisor de Inventario	37763.46
+Ana Rodriguez	Supervisor de Inventario	32619.94
+Carla Gomez	Jefe de Compras	33985.41
+Carla Gomez	Coordinador de Logistica	19025.53
+Carla Gomez	Auxiliar Administrativo	53930.55
+Ana Rodriguez	Asistente de Ventas	25573.93
+Roberto Fernandez	Auxiliar Administrativo	19903.64
+Carla Gomez	Gerente de Almacen	80413.99
+Sofia Morales	Repartidor	45704.03
+Pedro Garcia	Asistente de Ventas	24743.75
+Lucia Martinez	Jefe de Compras	81568.1
+Ana Rodriguez	Jefe de Compras	60861.14
+Pedro Garcia	Repartidor	74288.27
+Luis Sanchez	Operador de Montacargas	64187.37
+Maria Jimenez	Coordinador de Logistica	29353.02
+Lucia Martinez	Supervisor de Inventario	60079.99
+Lucia Martinez	Empleado de Limpieza	39612.31
+Carla Gomez	Jefe de Compras	74397.8
+Ana Rodriguez	Repartidor	74340.95
+Juan Lopez	Repartidor	40621.18
+Maria Jimenez	Operador de Montacargas	36909.02
+Roberto Fernandez	Coordinador de Logistica	23462.8
+Juan Lopez	Coordinador de Logistica	73049.61
+Pedro Garcia	Cajero	37939.03
+Maria Jimenez	Cajero	31076.92
+Pedro Garcia	Asistente de Ventas	44405.44
+Ricardo Diaz	Supervisor de Inventario	28786.37
+Ricardo Diaz	Gerente de Almacen	33709.27
+Lucia Martinez	Jefe de Compras	63043.45
+Sofia Morales	Cajero	31521.03
+Sofia Morales	Cajero	21261.2
+Carla Gomez	Coordinador de Logistica	79555.24
+Ana Rodriguez	Asistente de Ventas	44151.55
+Juan Lopez	Empleado de Limpieza	58099.81
+Juan Lopez	Gerente de Almacen	84733.12
+Lucia Martinez	Supervisor de Inventario	58053.4
+Maria Jimenez	Cajero	24387.66
+Juan Lopez	Operador de Montacargas	66595.3
+Ana Rodriguez	Auxiliar Administrativo	44813.26
+Ana Rodriguez	Cajero	58625.12
+Ana Rodriguez	Operador de Montacargas	77062.74
+Sofia Morales	Coordinador de Logistica	56196.64
+Ana Rodriguez	Repartidor	28803.82
+Carla Gomez	Operador de Montacargas	63521.53
+Sofia Morales	Gerente de Almacen	80402.2
+Lucia Martinez	Supervisor de Inventario	34382.37
+Pedro Garcia	Gerente de Almacen	66216.12
+Ricardo Diaz	Coordinador de Logistica	84272.2
+Sofia Morales	Auxiliar Administrativo	83630.67
+Ana Rodriguez	Asistente de Ventas	71826.51
+Maria Jimenez	Coordinador de Logistica	18465.38
+Luis Sanchez	Gerente de Almacen	77773.55
+Lucia Martinez	Jefe de Compras	76321.56
+Lucia Martinez	Cajero	70623.85
+Sofia Morales	Supervisor de Inventario	37423.39
+Ricardo Diaz	Operador de Montacargas	61587.07
+Ana Rodriguez	Repartidor	81501.56
+Luis Sanchez	Gerente de Almacen	77699.14
+Maria Jimenez	Asistente de Ventas	79759.04
+Roberto Fernandez	Supervisor de Inventario	62824.06
+Ana Rodriguez	Supervisor de Inventario	78014.98
+Carla Gomez	Auxiliar Administrativo	50890.0
+Ricardo Diaz	Coordinador de Logistica	75042.21
+Lucia Martinez	Gerente de Almacen	77428.26
+Maria Jimenez	Cajero	66907.25
+Sofia Morales	Cajero	20881.4
+Luis Sanchez	Gerente de Almacen	63465.44
+Sofia Morales	Empleado de Limpieza	44107.9
+Luis Sanchez	Supervisor de Inventario	68454.69
+Maria Jimenez	Empleado de Limpieza	30998.81
+Luis Sanchez	Auxiliar Administrativo	63782.75
+Roberto Fernandez	Supervisor de Inventario	64035.45
+Pedro Garcia	Operador de Montacargas	42196.11
+Roberto Fernandez	Repartidor	67523.26
+Ana Rodriguez	Supervisor de Inventario	80511.11
+Roberto Fernandez	Supervisor de Inventario	40880.61
+Luis Sanchez	Gerente de Almacen	29333.65
+Roberto Fernandez	Gerente de Almacen	50438.78
+Pedro Garcia	Cajero	28745.14
+Pedro Garcia	Supervisor de Inventario	71108.72
+Carla Gomez	Asistente de Ventas	51715.88
+Sofia Morales	Operador de Montacargas	28546.98
+Lucia Martinez	Jefe de Compras	37799.25
+Ricardo Diaz	Operador de Montacargas	30593.26
+Juan Lopez	Asistente de Ventas	37314.12
+Sofia Morales	Empleado de Limpieza	73408.56
+Juan Lopez	Jefe de Compras	78492.92
+Maria Jimenez	Coordinador de Logistica	32851.85
+Juan Lopez	Jefe de Compras	78779.35
+Roberto Fernandez	Coordinador de Logistica	65700.04
+Luis Sanchez	Asistente de Ventas	67852.18
+Roberto Fernandez	Gerente de Almacen	67883.46
+Maria Jimenez	Repartidor	76076.8
+Sofia Morales	Gerente de Almacen	77515.9
+Juan Lopez	Jefe de Compras	83383.11
+Lucia Martinez	Operador de Montacargas	30102.1
+Carla Gomez	Asistente de Ventas	36083.35
+Pedro Garcia	Repartidor	25413.08
+Pedro Garcia	Auxiliar Administrativo	35197.75
+Sofia Morales	Supervisor de Inventario	28970.61
+Juan Lopez	Repartidor	19202.67
+Roberto Fernandez	Coordinador de Logistica	25053.47
+Roberto Fernandez	Auxiliar Administrativo	24077.69
+Sofia Morales	Gerente de Almacen	33000.45
+Juan Lopez	Operador de Montacargas	78541.97
+Ana Rodriguez	Cajero	54534.42
+Luis Sanchez	Empleado de Limpieza	32925.79
+Sofia Morales	Coordinador de Logistica	69713.49
+Roberto Fernandez	Jefe de Compras	75157.38
+Carla Gomez	Repartidor	71508.85
+Roberto Fernandez	Jefe de Compras	40975.25
+Ricardo Diaz	Repartidor	30638.63
+Lucia Martinez	Empleado de Limpieza	43730.11
+Ana Rodriguez	Coordinador de Logistica	34708.52
+Roberto Fernandez	Supervisor de Inventario	60013.83
+Roberto Fernandez	Asistente de Ventas	78611.42
+Ricardo Diaz	Coordinador de Logistica	71763.32
+Maria Jimenez	Coordinador de Logistica	70561.03
+Juan Lopez	Repartidor	39355.79
+Carla Gomez	Cajero	56943.68
+Sofia Morales	Operador de Montacargas	71409.58
+Juan Lopez	Asistente de Ventas	37532.32
+Luis Sanchez	Repartidor	20271.39
+Pedro Garcia	Jefe de Compras	35573.18
+Sofia Morales	Supervisor de Inventario	60884.22
+Maria Jimenez	Coordinador de Logistica	43066.18
+Carla Gomez	Supervisor de Inventario	41008.04
+Roberto Fernandez	Auxiliar Administrativo	49731.64
+Ricardo Diaz	Asistente de Ventas	73180.59
+Luis Sanchez	Jefe de Compras	60798.27
+Carla Gomez	Cajero	52559.66
+Ana Rodriguez	Cajero	56066.98
+Luis Sanchez	Repartidor	73618.35
+Ana Rodriguez	Coordinador de Logistica	49308.67
+Roberto Fernandez	Auxiliar Administrativo	75030.12
+Juan Lopez	Gerente de Almacen	53188.53
+Juan Lopez	Empleado de Limpieza	37484.38
+Sofia Morales	Asistente de Ventas	56697.8
+Roberto Fernandez	Operador de Montacargas	73191.48
+Sofia Morales	Empleado de Limpieza	72471.12
+Ana Rodriguez	Coordinador de Logistica	48239.54
+Roberto Fernandez	Supervisor de Inventario	21518.81
+Roberto Fernandez	Repartidor	57859.67
+Ricardo Diaz	Repartidor	75383.77
+Lucia Martinez	Cajero	42496.71
+Pedro Garcia	Auxiliar Administrativo	18989.2
+Maria Jimenez	Operador de Montacargas	31050.11
+Ana Rodriguez	Empleado de Limpieza	30412.18
+Roberto Fernandez	Operador de Montacargas	39599.79
+Carla Gomez	Asistente de Ventas	33913.78
+Sofia Morales	Empleado de Limpieza	38452.36
+Luis Sanchez	Cajero	28661.01
+Ricardo Diaz	Coordinador de Logistica	45229.26
+Lucia Martinez	Auxiliar Administrativo	79770.66
+Sofia Morales	Jefe de Compras	18225.52
+Sofia Morales	Supervisor de Inventario	76380.38
+Ana Rodriguez	Empleado de Limpieza	39307.36
+Ricardo Diaz	Asistente de Ventas	41985.77
+Sofia Morales	Operador de Montacargas	77479.94
+Roberto Fernandez	Supervisor de Inventario	62763.21
+Ana Rodriguez	Gerente de Almacen	23736.49
+Carla Gomez	Operador de Montacargas	46949.67
+Pedro Garcia	Asistente de Ventas	58227.21
+Ana Rodriguez	Asistente de Ventas	77886.87
+Sofia Morales	Cajero	59273.43
+Carla Gomez	Cajero	49958.87
+Lucia Martinez	Jefe de Compras	75215.24
+Pedro Garcia	Auxiliar Administrativo	61556.89
+Sofia Morales	Supervisor de Inventario	47617.82
+Sofia Morales	Cajero	75809.13
+Ana Rodriguez	Auxiliar Administrativo	52482.26
+Luis Sanchez	Cajero	32478.93
+Juan Lopez	Coordinador de Logistica	53985.87
+Carla Gomez	Gerente de Almacen	45792.86
+Ricardo Diaz	Asistente de Ventas	50689.51
+Juan Lopez	Supervisor de Inventario	65647.62
+Ana Rodriguez	Operador de Montacargas	79637.51
+Carla Gomez	Coordinador de Logistica	42802.96
+Luis Sanchez	Cajero	45040.68
+Ricardo Diaz	Auxiliar Administrativo	35575.36
+Maria Jimenez	Empleado de Limpieza	69559.06
+Juan Lopez	Supervisor de Inventario	75061.06
+Ana Rodriguez	Coordinador de Logistica	51139.64
+Sofia Morales	Coordinador de Logistica	74073.48
+Juan Lopez	Cajero	71277.94
+Luis Sanchez	Supervisor de Inventario	45558.9
+Ricardo Diaz	Cajero	34969.06
+Ricardo Diaz	Cajero	64022.92
+Pedro Garcia	Jefe de Compras	50201.07
+Pedro Garcia	Operador de Montacargas	58655.34
+Luis Sanchez	Supervisor de Inventario	82703.8
+Ricardo Diaz	Gerente de Almacen	77418.79
+Pedro Garcia	Asistente de Ventas	70537.29
+Pedro Garcia	Cajero	78605.45
+Lucia Martinez	Operador de Montacargas	35339.03
+Carla Gomez	Repartidor	56158.85
+Ricardo Diaz	Coordinador de Logistica	60623.4
+Lucia Martinez	Asistente de Ventas	32033.95
+Ricardo Diaz	Cajero	44548.11
+Pedro Garcia	Asistente de Ventas	44553.54
+Pedro Garcia	Jefe de Compras	78611.51
+Roberto Fernandez	Coordinador de Logistica	21683.2
+Roberto Fernandez	Supervisor de Inventario	34898.73
+Maria Jimenez	Operador de Montacargas	26576.21
+Roberto Fernandez	Asistente de Ventas	50872.97
+Pedro Garcia	Auxiliar Administrativo	69886.01
+Pedro Garcia	Repartidor	35012.16
+Luis Sanchez	Cajero	58408.64
+Carla Gomez	Auxiliar Administrativo	42607.56
+Sofia Morales	Operador de Montacargas	58374.67
+Luis Sanchez	Gerente de Almacen	70037.78
+Lucia Martinez	Auxiliar Administrativo	30453.51
+Carla Gomez	Gerente de Almacen	46690.02
+Luis Sanchez	Asistente de Ventas	59994.68
+Maria Jimenez	Repartidor	37917.14
+Juan Lopez	Asistente de Ventas	25685.83
+Ana Rodriguez	Operador de Montacargas	67934.79
+Sofia Morales	Operador de Montacargas	31481.58
+Juan Lopez	Empleado de Limpieza	30803.06
+Sofia Morales	Empleado de Limpieza	57708.55
+Maria Jimenez	Coordinador de Logistica	43466.9
+Maria Jimenez	Coordinador de Logistica	33887.33
+Ana Rodriguez	Cajero	60194.9
+Ricardo Diaz	Coordinador de Logistica	30784.29
+Carla Gomez	Supervisor de Inventario	53073.04
+Luis Sanchez	Supervisor de Inventario	35250.85
+Carla Gomez	Jefe de Compras	42876.21
+Pedro Garcia	Asistente de Ventas	48158.04
+Roberto Fernandez	Cajero	26316.32
+Pedro Garcia	Empleado de Limpieza	54089.12
+Maria Jimenez	Repartidor	63362.74
+Ricardo Diaz	Asistente de Ventas	84607.03
+Maria Jimenez	Auxiliar Administrativo	78040.93
+Ana Rodriguez	Auxiliar Administrativo	27717.9
+Roberto Fernandez	Cajero	19522.08
+Roberto Fernandez	Supervisor de Inventario	72586.27
+Roberto Fernandez	Jefe de Compras	59715.57
+Carla Gomez	Jefe de Compras	49126.82
+Carla Gomez	Supervisor de Inventario	56742.13
+Luis Sanchez	Gerente de Almacen	18785.21
+Lucia Martinez	Auxiliar Administrativo	54190.66
+Pedro Garcia	Jefe de Compras	50528.34
+Maria Jimenez	Empleado de Limpieza	46296.23
+Lucia Martinez	Jefe de Compras	43638.85
+Ana Rodriguez	Gerente de Almacen	80301.6
+Lucia Martinez	Cajero	63369.07
+Lucia Martinez	Cajero	52276.96
+Carla Gomez	Repartidor	81325.53
+Carla Gomez	Empleado de Limpieza	81980.23
+Juan Lopez	Empleado de Limpieza	24543.43
+Ricardo Diaz	Jefe de Compras	49546.64
+Maria Jimenez	Cajero	24659.62
+Luis Sanchez	Auxiliar Administrativo	22949.68
+Ana Rodriguez	Coordinador de Logistica	57562.53
+Lucia Martinez	Empleado de Limpieza	47672.51
+Ana Rodriguez	Cajero	29813.54
+Sofia Morales	Asistente de Ventas	43581.87
+Pedro Garcia	Empleado de Limpieza	49645.36
+Pedro Garcia	Repartidor	52275.45
+Sofia Morales	Auxiliar Administrativo	54646.6
+Ana Rodriguez	Jefe de Compras	50838.78
+Ana Rodriguez	Auxiliar Administrativo	50079.39
+Roberto Fernandez	Operador de Montacargas	80375.97
+Carla Gomez	Jefe de Compras	24093.22
+Ana Rodriguez	Cajero	26625.98
+Maria Jimenez	Empleado de Limpieza	77355.81
+Ana Rodriguez	Auxiliar Administrativo	45702.03
+Carla Gomez	Repartidor	49815.05
+Carla Gomez	Empleado de Limpieza	48617.6
+Luis Sanchez	Supervisor de Inventario	40192.07
+Juan Lopez	Repartidor	42279.84
+Ricardo Diaz	Empleado de Limpieza	33385.29
+Pedro Garcia	Supervisor de Inventario	19267.71
+Pedro Garcia	Coordinador de Logistica	66003.5
+Ana Rodriguez	Supervisor de Inventario	41960.8
+Luis Sanchez	Empleado de Limpieza	82731.38
+Luis Sanchez	Cajero	66593.54
+Pedro Garcia	Jefe de Compras	70339.74
+Luis Sanchez	Auxiliar Administrativo	27943.52
+Ricardo Diaz	Cajero	42618.06
+Luis Sanchez	Auxiliar Administrativo	65429.58
+Lucia Martinez	Repartidor	84565.13
+Roberto Fernandez	Cajero	76801.76
+Sofia Morales	Supervisor de Inventario	72415.59
+Sofia Morales	Cajero	45132.36
+Ricardo Diaz	Auxiliar Administrativo	65639.66
+Roberto Fernandez	Supervisor de Inventario	52001.58
+Ricardo Diaz	Coordinador de Logistica	75973.55
+Ricardo Diaz	Coordinador de Logistica	28959.3
+Maria Jimenez	Auxiliar Administrativo	66016.68
+Maria Jimenez	Operador de Montacargas	38709.74
+Luis Sanchez	Cajero	21488.87
+Luis Sanchez	Supervisor de Inventario	46611.87
+Ricardo Diaz	Coordinador de Logistica	76346.42
+Roberto Fernandez	Empleado de Limpieza	49332.62
+Lucia Martinez	Asistente de Ventas	45646.51
+Juan Lopez	Cajero	72292.16
+Ricardo Diaz	Repartidor	25796.99
+Sofia Morales	Empleado de Limpieza	36526.63
+Lucia Martinez	Repartidor	68012.39
+Juan Lopez	Empleado de Limpieza	62188.38
+Ana Rodriguez	Repartidor	72933.38
+Ana Rodriguez	Empleado de Limpieza	63388.63
+Ricardo Diaz	Supervisor de Inventario	49611.93
+Carla Gomez	Gerente de Almacen	47325.01
+Ana Rodriguez	Gerente de Almacen	30968.83
+Juan Lopez	Jefe de Compras	58302.88
+Sofia Morales	Operador de Montacargas	51194.79
+Roberto Fernandez	Operador de Montacargas	40832.07
+Maria Jimenez	Jefe de Compras	47916.45
+Luis Sanchez	Empleado de Limpieza	23704.48
+Roberto Fernandez	Jefe de Compras	34366.05
+Luis Sanchez	Operador de Montacargas	81616.0
+Roberto Fernandez	Repartidor	24210.68
+Maria Jimenez	Empleado de Limpieza	37408.51
+Ricardo Diaz	Gerente de Almacen	69284.04
+Ana Rodriguez	Jefe de Compras	66718.04
+Sofia Morales	Coordinador de Logistica	45205.41
+Luis Sanchez	Supervisor de Inventario	65408.77
+Luis Sanchez	Gerente de Almacen	34342.06
+Juan Lopez	Operador de Montacargas	31181.55
+Juan Lopez	Jefe de Compras	60303.51
+Juan Lopez	Gerente de Almacen	21942.5
+Carla Gomez	Auxiliar Administrativo	23484.64
+Maria Jimenez	Cajero	71055.06
+Maria Jimenez	Repartidor	77496.69
+Juan Lopez	Gerente de Almacen	64999.18
+Sofia Morales	Asistente de Ventas	32450.39
+Sofia Morales	Operador de Montacargas	78809.87
+Ana Rodriguez	Cajero	56058.72
+Pedro Garcia	Supervisor de Inventario	51202.77
+Pedro Garcia	Coordinador de Logistica	62606.47
+Lucia Martinez	Repartidor	48599.19
+Lucia Martinez	Operador de Montacargas	38913.72
+Juan Lopez	Repartidor	22666.48
+Carla Gomez	Empleado de Limpieza	21736.35
+Ricardo Diaz	Coordinador de Logistica	33269.45
+Lucia Martinez	Jefe de Compras	72732.65
+Lucia Martinez	Supervisor de Inventario	20913.04
+Lucia Martinez	Coordinador de Logistica	38082.27
+Ricardo Diaz	Asistente de Ventas	31044.47
+Ricardo Diaz	Gerente de Almacen	33986.15
+Lucia Martinez	Coordinador de Logistica	39377.45
+Juan Lopez	Asistente de Ventas	32581.18
+Juan Lopez	Auxiliar Administrativo	53536.59
+Luis Sanchez	Operador de Montacargas	82300.45
+Sofia Morales	Auxiliar Administrativo	39440.53
+Sofia Morales	Operador de Montacargas	81201.96
+Ricardo Diaz	Operador de Montacargas	41824.21
+Ricardo Diaz	Jefe de Compras	59286.86
+Sofia Morales	Coordinador de Logistica	50996.58
+Pedro Garcia	Cajero	84851.88
+Maria Jimenez	Coordinador de Logistica	26578.81
+Ricardo Diaz	Gerente de Almacen	33067.43
+Maria Jimenez	Gerente de Almacen	64870.89
+Ricardo Diaz	Auxiliar Administrativo	83373.28
+Luis Sanchez	Empleado de Limpieza	35106.68
+Pedro Garcia	Empleado de Limpieza	31879.36
+Ana Rodriguez	Cajero	33359.11
+Maria Jimenez	Asistente de Ventas	57762.33
+Juan Lopez	Supervisor de Inventario	49256.8
+Roberto Fernandez	Jefe de Compras	66375.75
+Luis Sanchez	Operador de Montacargas	72624.22
+Ricardo Diaz	Jefe de Compras	80367.27
+Lucia Martinez	Operador de Montacargas	82359.33
+Sofia Morales	Asistente de Ventas	29855.92
+Lucia Martinez	Asistente de Ventas	34019.47
+Carla Gomez	Supervisor de Inventario	57778.2
+Sofia Morales	Cajero	38464.96
+Carla Gomez	Asistente de Ventas	30922.57
+Ricardo Diaz	Cajero	44494.27
+Maria Jimenez	Coordinador de Logistica	68269.14
+Maria Jimenez	Supervisor de Inventario	26931.33
+Luis Sanchez	Cajero	33519.69
+Ricardo Diaz	Asistente de Ventas	81390.75
+Maria Jimenez	Coordinador de Logistica	40551.69
+Luis Sanchez	Repartidor	59005.71
+Luis Sanchez	Jefe de Compras	40709.38
+Sofia Morales	Asistente de Ventas	31813.75
+Lucia Martinez	Empleado de Limpieza	49843.26
+Ricardo Diaz	Jefe de Compras	56928.07
+Pedro Garcia	Jefe de Compras	27167.28
+Pedro Garcia	Cajero	47169.4
+Ana Rodriguez	Supervisor de Inventario	36444.46
+Lucia Martinez	Gerente de Almacen	68038.0
+Carla Gomez	Supervisor de Inventario	60302.78
+Pedro Garcia	Supervisor de Inventario	66393.28
+Maria Jimenez	Asistente de Ventas	40268.53
+Luis Sanchez	Asistente de Ventas	35004.29
+Luis Sanchez	Gerente de Almacen	23172.92
+Sofia Morales	Coordinador de Logistica	51588.05
+Ricardo Diaz	Jefe de Compras	24358.41
+Lucia Martinez	Auxiliar Administrativo	37888.8
+Roberto Fernandez	Coordinador de Logistica	44810.97
+Pedro Garcia	Auxiliar Administrativo	23722.43
+Roberto Fernandez	Asistente de Ventas	33433.56
+Pedro Garcia	Empleado de Limpieza	45238.79
+Sofia Morales	Cajero	34298.83
+Carla Gomez	Repartidor	75862.53
+Juan Lopez	Jefe de Compras	72611.22
+Pedro Garcia	Repartidor	39120.33
+Maria Jimenez	Operador de Montacargas	35027.52
+Roberto Fernandez	Auxiliar Administrativo	68872.56
+Roberto Fernandez	Repartidor	22935.01
+Ana Rodriguez	Jefe de Compras	61092.7
+Maria Jimenez	Auxiliar Administrativo	28673.42
+Sofia Morales	Repartidor	36625.06
+Ana Rodriguez	Repartidor	72877.93
