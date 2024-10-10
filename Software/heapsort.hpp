@@ -36,3 +36,24 @@ void MonticuloMax::maxHeapify(Cliente *array, int i, int tamano) {
         maxHeapify(array, mayor, tamano); 
     } 
 } 
+
+// Funcion principal de ordenamiento
+void MonticuloMax::ordenarMonticulo(Cliente *arr, int n) { 
+    int tamano_monticulo = n; 
+    construirMonticuloMax(arr, tamano_monticulo); 
+    // Extrae los elementos uno a uno del MonticuloMax
+    for (int i = n - 1; i > 0; i--) { 
+        swap(arr[0], arr[i]); // Intercambia el mayor elemento a la posicion final
+        tamano_monticulo--; 
+        maxHeapify(arr, 0, tamano_monticulo); // Llama a maxHeapify en el monticulo reducido
+    } 
+} 
+
+// Funciones para obtener los indices de los hijos en el MonticuloMax
+int MonticuloMax::izquierda(int i) { 
+    return 2 * i + 1; 
+} 
+
+int MonticuloMax::derecha(int i) { 
+    return 2 * i + 2; 
+}
