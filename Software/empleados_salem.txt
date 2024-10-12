@@ -1,1000 +1,2000 @@
-Maria Jimenez	Operador de Montacargas	36423.63
-Roberto Fernandez	Repartidor	20937.76
-Maria Jimenez	Gerente de Almacen	50008.7
-Ricardo Diaz	Auxiliar Administrativo	65597.03
-Luis Sanchez	Operador de Montacargas	30203.76
-Maria Jimenez	Jefe de Compras	49400.07
-Carla Gomez	Coordinador de Logistica	30401.78
-Lucia Martinez	Auxiliar Administrativo	35504.63
-Juan Lopez	Cajero	21264.15
-Ana Rodriguez	Auxiliar Administrativo	32892.0
-Carla Gomez	Supervisor de Inventario	38583.45
-Maria Jimenez	Asistente de Ventas	27975.86
-Lucia Martinez	Repartidor	40893.67
-Pedro Garcia	Cajero	47775.99
-Lucia Martinez	Auxiliar Administrativo	35444.58
-Roberto Fernandez	Cajero	82582.1
-Luis Sanchez	Coordinador de Logistica	45349.58
-Maria Jimenez	Supervisor de Inventario	45421.51
-Juan Lopez	Operador de Montacargas	34148.09
-Sofia Morales	Jefe de Compras	29287.92
-Juan Lopez	Cajero	46234.1
-Maria Jimenez	Supervisor de Inventario	23674.25
-Carla Gomez	Gerente de Almacen	27426.27
-Pedro Garcia	Asistente de Ventas	37547.32
-Luis Sanchez	Operador de Montacargas	70227.73
-Ana Rodriguez	Operador de Montacargas	51173.91
-Roberto Fernandez	Coordinador de Logistica	67786.73
-Ana Rodriguez	Asistente de Ventas	45056.33
-Maria Jimenez	Operador de Montacargas	61698.97
-Juan Lopez	Supervisor de Inventario	79474.48
-Sofia Morales	Asistente de Ventas	55086.98
-Ricardo Diaz	Repartidor	56901.33
-Lucia Martinez	Operador de Montacargas	73196.29
-Luis Sanchez	Auxiliar Administrativo	75096.26
-Roberto Fernandez	Cajero	18919.26
-Ricardo Diaz	Jefe de Compras	59332.36
-Ana Rodriguez	Jefe de Compras	43393.87
-Lucia Martinez	Coordinador de Logistica	29642.49
-Pedro Garcia	Operador de Montacargas	77820.75
-Maria Jimenez	Jefe de Compras	82131.37
-Sofia Morales	Operador de Montacargas	55728.18
-Juan Lopez	Asistente de Ventas	54634.11
-Sofia Morales	Operador de Montacargas	40168.02
-Maria Jimenez	Coordinador de Logistica	29188.94
-Carla Gomez	Supervisor de Inventario	55736.04
-Juan Lopez	Operador de Montacargas	53682.93
-Sofia Morales	Cajero	43392.68
-Pedro Garcia	Asistente de Ventas	59827.42
-Ana Rodriguez	Cajero	39834.74
-Maria Jimenez	Supervisor de Inventario	31662.66
-Pedro Garcia	Supervisor de Inventario	28195.77
-Pedro Garcia	Operador de Montacargas	18617.14
-Juan Lopez	Auxiliar Administrativo	37901.25
-Ana Rodriguez	Repartidor	45067.52
-Ana Rodriguez	Asistente de Ventas	47900.25
-Ana Rodriguez	Supervisor de Inventario	26105.52
-Pedro Garcia	Empleado de Limpieza	79011.81
-Sofia Morales	Operador de Montacargas	77217.07
-Sofia Morales	Coordinador de Logistica	33634.7
-Ricardo Diaz	Asistente de Ventas	72458.6
-Pedro Garcia	Coordinador de Logistica	40729.34
-Ricardo Diaz	Asistente de Ventas	55036.54
-Sofia Morales	Empleado de Limpieza	32125.92
-Carla Gomez	Cajero	77848.45
-Carla Gomez	Operador de Montacargas	36280.29
-Sofia Morales	Jefe de Compras	33468.81
-Lucia Martinez	Cajero	66502.8
-Sofia Morales	Gerente de Almacen	40982.81
-Juan Lopez	Gerente de Almacen	55161.93
-Roberto Fernandez	Operador de Montacargas	52750.31
-Juan Lopez	Asistente de Ventas	59794.95
-Juan Lopez	Operador de Montacargas	71703.15
-Luis Sanchez	Cajero	29015.68
-Maria Jimenez	Empleado de Limpieza	59401.73
-Pedro Garcia	Jefe de Compras	49755.93
-Luis Sanchez	Gerente de Almacen	81294.23
-Ricardo Diaz	Auxiliar Administrativo	54073.09
-Ricardo Diaz	Operador de Montacargas	71097.33
-Pedro Garcia	Asistente de Ventas	42105.65
-Lucia Martinez	Empleado de Limpieza	47619.44
-Carla Gomez	Auxiliar Administrativo	52235.71
-Lucia Martinez	Repartidor	36865.62
-Lucia Martinez	Jefe de Compras	23131.42
-Sofia Morales	Empleado de Limpieza	56783.17
-Roberto Fernandez	Auxiliar Administrativo	64281.56
-Lucia Martinez	Empleado de Limpieza	54813.93
-Sofia Morales	Empleado de Limpieza	54975.78
-Juan Lopez	Empleado de Limpieza	46025.03
-Maria Jimenez	Coordinador de Logistica	80246.89
-Maria Jimenez	Gerente de Almacen	50165.65
-Roberto Fernandez	Coordinador de Logistica	41807.34
-Pedro Garcia	Repartidor	31061.27
-Sofia Morales	Cajero	79845.63
-Pedro Garcia	Empleado de Limpieza	68060.4
-Luis Sanchez	Cajero	68382.0
-Juan Lopez	Auxiliar Administrativo	72653.61
-Lucia Martinez	Coordinador de Logistica	47512.45
-Roberto Fernandez	Jefe de Compras	41541.9
-Pedro Garcia	Jefe de Compras	25943.28
-Juan Lopez	Repartidor	24386.74
-Ricardo Diaz	Coordinador de Logistica	48045.63
-Maria Jimenez	Gerente de Almacen	23430.1
-Lucia Martinez	Asistente de Ventas	81709.75
-Ricardo Diaz	Gerente de Almacen	24837.19
-Carla Gomez	Repartidor	18577.86
-Roberto Fernandez	Asistente de Ventas	80256.67
-Carla Gomez	Empleado de Limpieza	70348.02
-Juan Lopez	Auxiliar Administrativo	20113.41
-Ricardo Diaz	Gerente de Almacen	30717.21
-Pedro Garcia	Cajero	42004.62
-Maria Jimenez	Cajero	83876.06
-Luis Sanchez	Repartidor	59365.26
-Ana Rodriguez	Jefe de Compras	65022.83
-Juan Lopez	Repartidor	68229.81
-Luis Sanchez	Auxiliar Administrativo	80539.23
-Ana Rodriguez	Supervisor de Inventario	39321.71
-Ricardo Diaz	Jefe de Compras	69754.3
-Carla Gomez	Supervisor de Inventario	34640.45
-Ricardo Diaz	Gerente de Almacen	80866.77
-Pedro Garcia	Repartidor	49484.06
-Juan Lopez	Repartidor	48199.08
-Lucia Martinez	Auxiliar Administrativo	32733.2
-Lucia Martinez	Repartidor	55390.57
-Sofia Morales	Empleado de Limpieza	24491.28
-Maria Jimenez	Asistente de Ventas	31592.74
-Roberto Fernandez	Empleado de Limpieza	80714.02
-Juan Lopez	Operador de Montacargas	65999.42
-Juan Lopez	Jefe de Compras	51231.42
-Lucia Martinez	Operador de Montacargas	82701.36
-Carla Gomez	Empleado de Limpieza	34449.01
-Ricardo Diaz	Jefe de Compras	31903.5
-Ana Rodriguez	Coordinador de Logistica	30736.94
-Juan Lopez	Jefe de Compras	40823.7
-Roberto Fernandez	Jefe de Compras	75272.18
-Roberto Fernandez	Asistente de Ventas	33090.24
-Ana Rodriguez	Repartidor	68583.03
-Ana Rodriguez	Repartidor	41589.75
-Pedro Garcia	Coordinador de Logistica	30133.15
-Maria Jimenez	Operador de Montacargas	83058.04
-Ana Rodriguez	Auxiliar Administrativo	74723.84
-Juan Lopez	Jefe de Compras	31405.6
-Juan Lopez	Cajero	23066.12
-Carla Gomez	Coordinador de Logistica	61612.81
-Ricardo Diaz	Operador de Montacargas	35373.85
-Pedro Garcia	Repartidor	27392.03
-Roberto Fernandez	Empleado de Limpieza	53695.41
-Lucia Martinez	Gerente de Almacen	38266.78
-Maria Jimenez	Asistente de Ventas	84448.81
-Sofia Morales	Auxiliar Administrativo	33491.6
-Sofia Morales	Coordinador de Logistica	60715.48
-Maria Jimenez	Supervisor de Inventario	46232.15
-Roberto Fernandez	Repartidor	78285.33
-Lucia Martinez	Cajero	45100.62
-Juan Lopez	Coordinador de Logistica	70695.35
-Carla Gomez	Coordinador de Logistica	45648.64
-Lucia Martinez	Supervisor de Inventario	56642.67
-Maria Jimenez	Asistente de Ventas	71757.4
-Carla Gomez	Repartidor	26453.01
-Ana Rodriguez	Jefe de Compras	59431.68
-Lucia Martinez	Operador de Montacargas	53501.25
-Roberto Fernandez	Repartidor	59040.2
-Lucia Martinez	Auxiliar Administrativo	21556.66
-Sofia Morales	Asistente de Ventas	60135.44
-Pedro Garcia	Jefe de Compras	28683.0
-Lucia Martinez	Auxiliar Administrativo	80790.78
-Ana Rodriguez	Operador de Montacargas	40577.6
-Ricardo Diaz	Asistente de Ventas	58884.58
-Juan Lopez	Repartidor	77988.91
-Lucia Martinez	Auxiliar Administrativo	72218.81
-Carla Gomez	Auxiliar Administrativo	36096.29
-Ana Rodriguez	Cajero	30638.67
-Juan Lopez	Empleado de Limpieza	68279.26
-Pedro Garcia	Jefe de Compras	66748.07
-Roberto Fernandez	Cajero	81429.42
-Roberto Fernandez	Asistente de Ventas	78543.3
-Ana Rodriguez	Coordinador de Logistica	57970.18
-Maria Jimenez	Auxiliar Administrativo	68479.3
-Ana Rodriguez	Asistente de Ventas	22796.48
-Carla Gomez	Supervisor de Inventario	70377.51
-Ricardo Diaz	Cajero	64435.25
-Luis Sanchez	Empleado de Limpieza	33239.87
-Juan Lopez	Coordinador de Logistica	54723.11
-Carla Gomez	Auxiliar Administrativo	56825.05
-Ricardo Diaz	Repartidor	32712.62
-Juan Lopez	Empleado de Limpieza	54542.84
-Lucia Martinez	Supervisor de Inventario	56595.17
-Carla Gomez	Repartidor	35359.68
-Maria Jimenez	Coordinador de Logistica	53794.33
-Pedro Garcia	Repartidor	57568.62
-Sofia Morales	Gerente de Almacen	35000.28
-Ricardo Diaz	Cajero	31498.2
-Lucia Martinez	Asistente de Ventas	30910.01
-Roberto Fernandez	Operador de Montacargas	40525.39
-Lucia Martinez	Cajero	74340.32
-Lucia Martinez	Jefe de Compras	62985.19
-Juan Lopez	Empleado de Limpieza	57047.95
-Pedro Garcia	Operador de Montacargas	54499.5
-Ana Rodriguez	Empleado de Limpieza	59123.27
-Maria Jimenez	Coordinador de Logistica	38265.29
-Roberto Fernandez	Cajero	35804.94
-Ana Rodriguez	Empleado de Limpieza	67732.38
-Luis Sanchez	Empleado de Limpieza	26008.68
-Roberto Fernandez	Empleado de Limpieza	22569.79
-Ana Rodriguez	Gerente de Almacen	47933.7
-Ana Rodriguez	Cajero	31551.78
-Roberto Fernandez	Asistente de Ventas	41387.49
-Carla Gomez	Repartidor	84023.95
-Ana Rodriguez	Jefe de Compras	31590.2
-Sofia Morales	Supervisor de Inventario	42014.12
-Roberto Fernandez	Cajero	48564.69
-Carla Gomez	Repartidor	19957.09
-Pedro Garcia	Supervisor de Inventario	30171.98
-Ana Rodriguez	Asistente de Ventas	73459.29
-Roberto Fernandez	Auxiliar Administrativo	18743.88
-Lucia Martinez	Empleado de Limpieza	65013.28
-Roberto Fernandez	Empleado de Limpieza	74789.97
-Sofia Morales	Cajero	81275.72
-Roberto Fernandez	Operador de Montacargas	43490.51
-Lucia Martinez	Auxiliar Administrativo	64507.65
-Maria Jimenez	Jefe de Compras	21277.89
-Carla Gomez	Asistente de Ventas	75303.67
-Pedro Garcia	Gerente de Almacen	18690.58
-Maria Jimenez	Cajero	79240.07
-Ana Rodriguez	Asistente de Ventas	30615.53
-Pedro Garcia	Asistente de Ventas	37989.77
-Juan Lopez	Repartidor	66843.86
-Roberto Fernandez	Asistente de Ventas	47930.25
-Roberto Fernandez	Asistente de Ventas	81414.85
-Ricardo Diaz	Supervisor de Inventario	52377.81
-Luis Sanchez	Supervisor de Inventario	50666.25
-Juan Lopez	Jefe de Compras	46231.74
-Pedro Garcia	Jefe de Compras	64215.55
-Pedro Garcia	Repartidor	25848.9
-Pedro Garcia	Auxiliar Administrativo	53973.07
-Ana Rodriguez	Gerente de Almacen	49695.93
-Roberto Fernandez	Repartidor	77394.71
-Pedro Garcia	Auxiliar Administrativo	72412.52
-Pedro Garcia	Asistente de Ventas	78980.02
-Ana Rodriguez	Coordinador de Logistica	31194.02
-Roberto Fernandez	Empleado de Limpieza	30122.19
-Ricardo Diaz	Operador de Montacargas	32935.61
-Ana Rodriguez	Asistente de Ventas	23186.51
-Sofia Morales	Coordinador de Logistica	80546.78
-Lucia Martinez	Repartidor	63292.61
-Juan Lopez	Operador de Montacargas	71099.89
-Ana Rodriguez	Cajero	32468.32
-Luis Sanchez	Auxiliar Administrativo	83936.57
-Ana Rodriguez	Cajero	78060.81
-Roberto Fernandez	Coordinador de Logistica	61580.63
-Maria Jimenez	Empleado de Limpieza	68643.32
-Carla Gomez	Jefe de Compras	48424.73
-Pedro Garcia	Jefe de Compras	70794.05
-Maria Jimenez	Supervisor de Inventario	84376.95
-Sofia Morales	Supervisor de Inventario	58311.35
-Ricardo Diaz	Operador de Montacargas	56671.45
-Carla Gomez	Jefe de Compras	33056.38
-Ricardo Diaz	Auxiliar Administrativo	41589.85
-Ricardo Diaz	Asistente de Ventas	55396.35
-Ricardo Diaz	Supervisor de Inventario	35252.06
-Lucia Martinez	Auxiliar Administrativo	38336.53
-Ricardo Diaz	Empleado de Limpieza	28887.26
-Roberto Fernandez	Auxiliar Administrativo	43345.56
-Pedro Garcia	Supervisor de Inventario	41103.4
-Pedro Garcia	Repartidor	60311.2
-Juan Lopez	Supervisor de Inventario	65095.49
-Ricardo Diaz	Coordinador de Logistica	27306.45
-Roberto Fernandez	Supervisor de Inventario	74478.12
-Ana Rodriguez	Coordinador de Logistica	32580.27
-Ana Rodriguez	Asistente de Ventas	54369.33
-Ana Rodriguez	Asistente de Ventas	65050.87
-Maria Jimenez	Coordinador de Logistica	42128.0
-Roberto Fernandez	Asistente de Ventas	59875.21
-Maria Jimenez	Auxiliar Administrativo	74093.17
-Juan Lopez	Gerente de Almacen	35334.13
-Juan Lopez	Jefe de Compras	38341.37
-Ana Rodriguez	Coordinador de Logistica	49460.5
-Luis Sanchez	Repartidor	71011.45
-Luis Sanchez	Jefe de Compras	61816.18
-Ricardo Diaz	Repartidor	75057.21
-Pedro Garcia	Jefe de Compras	69066.92
-Ana Rodriguez	Supervisor de Inventario	59430.83
-Juan Lopez	Gerente de Almacen	24965.12
-Sofia Morales	Operador de Montacargas	42443.28
-Luis Sanchez	Repartidor	82169.54
-Ana Rodriguez	Auxiliar Administrativo	33171.26
-Maria Jimenez	Operador de Montacargas	79760.46
-Lucia Martinez	Coordinador de Logistica	74247.79
-Juan Lopez	Gerente de Almacen	69830.84
-Sofia Morales	Gerente de Almacen	31282.69
-Luis Sanchez	Supervisor de Inventario	21083.79
-Carla Gomez	Auxiliar Administrativo	46722.76
-Ricardo Diaz	Repartidor	39031.69
-Ricardo Diaz	Operador de Montacargas	21223.18
-Ana Rodriguez	Jefe de Compras	60098.44
-Roberto Fernandez	Operador de Montacargas	42100.12
-Luis Sanchez	Operador de Montacargas	29273.66
-Pedro Garcia	Jefe de Compras	43543.06
-Ana Rodriguez	Auxiliar Administrativo	48678.31
-Maria Jimenez	Coordinador de Logistica	57303.4
-Ricardo Diaz	Jefe de Compras	38733.87
-Pedro Garcia	Gerente de Almacen	53251.98
-Sofia Morales	Cajero	27397.67
-Roberto Fernandez	Supervisor de Inventario	19845.83
-Lucia Martinez	Asistente de Ventas	18827.03
-Carla Gomez	Repartidor	23400.86
-Luis Sanchez	Supervisor de Inventario	50405.04
-Sofia Morales	Coordinador de Logistica	44287.77
-Roberto Fernandez	Asistente de Ventas	69908.18
-Ricardo Diaz	Empleado de Limpieza	55341.72
-Luis Sanchez	Asistente de Ventas	58066.62
-Roberto Fernandez	Gerente de Almacen	42518.89
-Pedro Garcia	Jefe de Compras	35678.22
-Lucia Martinez	Gerente de Almacen	79215.18
-Roberto Fernandez	Supervisor de Inventario	84525.25
-Luis Sanchez	Auxiliar Administrativo	82918.12
-Sofia Morales	Gerente de Almacen	54405.05
-Maria Jimenez	Gerente de Almacen	70261.06
-Sofia Morales	Empleado de Limpieza	50239.84
-Carla Gomez	Jefe de Compras	54406.61
-Ana Rodriguez	Operador de Montacargas	59788.38
-Ricardo Diaz	Cajero	83456.71
-Sofia Morales	Repartidor	71205.59
-Maria Jimenez	Auxiliar Administrativo	19401.29
-Luis Sanchez	Repartidor	74257.49
-Roberto Fernandez	Coordinador de Logistica	54103.48
-Sofia Morales	Asistente de Ventas	68089.05
-Lucia Martinez	Coordinador de Logistica	76019.73
-Roberto Fernandez	Empleado de Limpieza	24812.43
-Ricardo Diaz	Cajero	32255.85
-Carla Gomez	Coordinador de Logistica	22475.12
-Lucia Martinez	Gerente de Almacen	35882.95
-Roberto Fernandez	Auxiliar Administrativo	22305.78
-Ricardo Diaz	Coordinador de Logistica	65688.76
-Sofia Morales	Repartidor	39366.93
-Roberto Fernandez	Repartidor	40087.12
-Maria Jimenez	Repartidor	27395.06
-Roberto Fernandez	Auxiliar Administrativo	59790.66
-Sofia Morales	Cajero	49726.74
-Ricardo Diaz	Repartidor	77041.81
-Ana Rodriguez	Cajero	35291.08
-Pedro Garcia	Asistente de Ventas	65425.61
-Luis Sanchez	Jefe de Compras	42646.16
-Sofia Morales	Operador de Montacargas	29732.71
-Maria Jimenez	Repartidor	55850.37
-Pedro Garcia	Auxiliar Administrativo	57738.97
-Ana Rodriguez	Auxiliar Administrativo	50794.86
-Ricardo Diaz	Repartidor	60521.63
-Carla Gomez	Gerente de Almacen	44193.1
-Lucia Martinez	Supervisor de Inventario	79287.57
-Luis Sanchez	Operador de Montacargas	66389.05
-Luis Sanchez	Asistente de Ventas	83568.95
-Sofia Morales	Repartidor	61325.14
-Roberto Fernandez	Operador de Montacargas	54095.6
-Luis Sanchez	Gerente de Almacen	30115.96
-Carla Gomez	Supervisor de Inventario	74715.64
-Sofia Morales	Jefe de Compras	59631.85
-Luis Sanchez	Repartidor	69403.82
-Ricardo Diaz	Operador de Montacargas	24949.48
-Lucia Martinez	Operador de Montacargas	41077.85
-Luis Sanchez	Repartidor	31663.41
-Roberto Fernandez	Auxiliar Administrativo	56459.72
-Roberto Fernandez	Empleado de Limpieza	37697.47
-Pedro Garcia	Cajero	83167.85
-Lucia Martinez	Operador de Montacargas	61113.88
-Sofia Morales	Cajero	73661.74
-Pedro Garcia	Asistente de Ventas	41380.89
-Luis Sanchez	Supervisor de Inventario	27848.94
-Juan Lopez	Empleado de Limpieza	18042.97
-Luis Sanchez	Cajero	61347.61
-Juan Lopez	Coordinador de Logistica	49986.88
-Maria Jimenez	Asistente de Ventas	67295.01
-Ana Rodriguez	Cajero	36991.98
-Lucia Martinez	Gerente de Almacen	37913.91
-Pedro Garcia	Supervisor de Inventario	23499.54
-Ana Rodriguez	Supervisor de Inventario	64112.4
-Maria Jimenez	Coordinador de Logistica	64764.48
-Sofia Morales	Cajero	46166.44
-Ana Rodriguez	Gerente de Almacen	61873.18
-Luis Sanchez	Cajero	55613.58
-Roberto Fernandez	Coordinador de Logistica	41008.24
-Sofia Morales	Auxiliar Administrativo	40339.46
-Juan Lopez	Repartidor	29949.94
-Maria Jimenez	Auxiliar Administrativo	26656.96
-Carla Gomez	Coordinador de Logistica	32179.31
-Maria Jimenez	Repartidor	62888.61
-Luis Sanchez	Operador de Montacargas	46935.48
-Ricardo Diaz	Jefe de Compras	45290.18
-Juan Lopez	Gerente de Almacen	63164.17
-Juan Lopez	Supervisor de Inventario	65970.55
-Luis Sanchez	Operador de Montacargas	27339.56
-Lucia Martinez	Repartidor	41003.62
-Carla Gomez	Empleado de Limpieza	45135.1
-Carla Gomez	Empleado de Limpieza	43932.62
-Carla Gomez	Cajero	55308.0
-Luis Sanchez	Auxiliar Administrativo	43461.06
-Ricardo Diaz	Supervisor de Inventario	71854.45
-Juan Lopez	Operador de Montacargas	19319.47
-Carla Gomez	Asistente de Ventas	71425.43
-Juan Lopez	Empleado de Limpieza	37329.29
-Sofia Morales	Jefe de Compras	32474.41
-Juan Lopez	Asistente de Ventas	35507.73
-Maria Jimenez	Empleado de Limpieza	73843.4
-Luis Sanchez	Supervisor de Inventario	39638.01
-Maria Jimenez	Repartidor	66714.21
-Carla Gomez	Operador de Montacargas	78902.55
-Luis Sanchez	Empleado de Limpieza	47393.15
-Ana Rodriguez	Jefe de Compras	59230.2
-Pedro Garcia	Repartidor	27668.61
-Lucia Martinez	Jefe de Compras	19773.65
-Pedro Garcia	Operador de Montacargas	69344.58
-Sofia Morales	Cajero	26701.24
-Roberto Fernandez	Cajero	77046.14
-Ricardo Diaz	Repartidor	75650.36
-Luis Sanchez	Jefe de Compras	69114.87
-Juan Lopez	Repartidor	80818.65
-Luis Sanchez	Jefe de Compras	33102.53
-Carla Gomez	Coordinador de Logistica	18082.02
-Roberto Fernandez	Empleado de Limpieza	74226.38
-Maria Jimenez	Asistente de Ventas	63322.59
-Ricardo Diaz	Supervisor de Inventario	84278.84
-Lucia Martinez	Operador de Montacargas	39884.47
-Sofia Morales	Auxiliar Administrativo	29563.97
-Pedro Garcia	Cajero	78512.14
-Ricardo Diaz	Jefe de Compras	41303.78
-Roberto Fernandez	Gerente de Almacen	37369.7
-Sofia Morales	Operador de Montacargas	43272.12
-Sofia Morales	Supervisor de Inventario	26824.44
-Ana Rodriguez	Coordinador de Logistica	46715.34
-Pedro Garcia	Jefe de Compras	51724.49
-Luis Sanchez	Cajero	30773.77
-Carla Gomez	Jefe de Compras	48451.24
-Maria Jimenez	Empleado de Limpieza	68711.01
-Luis Sanchez	Empleado de Limpieza	26626.94
-Lucia Martinez	Coordinador de Logistica	52266.11
-Ricardo Diaz	Jefe de Compras	33564.65
-Juan Lopez	Jefe de Compras	76667.28
-Pedro Garcia	Operador de Montacargas	23260.24
-Carla Gomez	Jefe de Compras	56838.73
-Lucia Martinez	Gerente de Almacen	65363.5
-Juan Lopez	Repartidor	64465.93
-Maria Jimenez	Jefe de Compras	59311.46
-Lucia Martinez	Operador de Montacargas	44853.23
-Maria Jimenez	Operador de Montacargas	57559.07
-Roberto Fernandez	Repartidor	77084.45
-Ana Rodriguez	Empleado de Limpieza	73914.2
-Pedro Garcia	Empleado de Limpieza	57635.6
-Roberto Fernandez	Asistente de Ventas	68968.51
-Ana Rodriguez	Cajero	42115.58
-Carla Gomez	Jefe de Compras	70454.46
-Maria Jimenez	Gerente de Almacen	39264.41
-Ana Rodriguez	Auxiliar Administrativo	51829.92
-Sofia Morales	Cajero	35445.9
-Lucia Martinez	Operador de Montacargas	39578.2
-Ana Rodriguez	Auxiliar Administrativo	26894.24
-Ana Rodriguez	Operador de Montacargas	84446.48
-Carla Gomez	Supervisor de Inventario	44963.94
-Ana Rodriguez	Cajero	77340.86
-Lucia Martinez	Empleado de Limpieza	71295.95
-Maria Jimenez	Supervisor de Inventario	64300.29
-Ricardo Diaz	Cajero	76455.01
-Lucia Martinez	Gerente de Almacen	44446.95
-Pedro Garcia	Auxiliar Administrativo	33615.1
-Maria Jimenez	Auxiliar Administrativo	37759.12
-Pedro Garcia	Asistente de Ventas	84801.09
-Ricardo Diaz	Coordinador de Logistica	63068.81
-Roberto Fernandez	Empleado de Limpieza	83193.71
-Sofia Morales	Repartidor	21479.92
-Roberto Fernandez	Operador de Montacargas	31304.47
-Ricardo Diaz	Empleado de Limpieza	52600.46
-Lucia Martinez	Auxiliar Administrativo	29447.31
-Lucia Martinez	Coordinador de Logistica	80609.42
-Lucia Martinez	Asistente de Ventas	24998.25
-Luis Sanchez	Supervisor de Inventario	34818.07
-Luis Sanchez	Empleado de Limpieza	18289.87
-Sofia Morales	Auxiliar Administrativo	19307.85
-Roberto Fernandez	Repartidor	68697.2
-Juan Lopez	Auxiliar Administrativo	43117.13
-Sofia Morales	Asistente de Ventas	79160.11
-Maria Jimenez	Supervisor de Inventario	44610.36
-Ana Rodriguez	Coordinador de Logistica	55583.57
-Ana Rodriguez	Operador de Montacargas	65613.98
-Lucia Martinez	Auxiliar Administrativo	55458.68
-Maria Jimenez	Coordinador de Logistica	38070.09
-Lucia Martinez	Auxiliar Administrativo	66502.62
-Luis Sanchez	Auxiliar Administrativo	25615.01
-Pedro Garcia	Gerente de Almacen	29882.17
-Sofia Morales	Auxiliar Administrativo	25688.75
-Sofia Morales	Empleado de Limpieza	68448.39
-Ana Rodriguez	Auxiliar Administrativo	20489.21
-Juan Lopez	Supervisor de Inventario	49289.34
-Lucia Martinez	Operador de Montacargas	46015.4
-Juan Lopez	Jefe de Compras	80154.68
-Sofia Morales	Jefe de Compras	84012.39
-Sofia Morales	Coordinador de Logistica	79964.8
-Juan Lopez	Asistente de Ventas	52586.85
-Lucia Martinez	Gerente de Almacen	80412.48
-Luis Sanchez	Supervisor de Inventario	55189.03
-Roberto Fernandez	Empleado de Limpieza	76042.99
-Sofia Morales	Repartidor	18400.47
-Maria Jimenez	Supervisor de Inventario	32168.08
-Carla Gomez	Gerente de Almacen	73067.17
-Ricardo Diaz	Coordinador de Logistica	60412.88
-Lucia Martinez	Gerente de Almacen	58783.69
-Ana Rodriguez	Asistente de Ventas	34599.54
-Carla Gomez	Supervisor de Inventario	71084.0
-Maria Jimenez	Gerente de Almacen	31891.73
-Roberto Fernandez	Jefe de Compras	40592.61
-Luis Sanchez	Repartidor	56865.85
-Lucia Martinez	Empleado de Limpieza	80966.87
-Lucia Martinez	Repartidor	53828.58
-Lucia Martinez	Supervisor de Inventario	39655.21
-Luis Sanchez	Asistente de Ventas	19507.02
-Carla Gomez	Supervisor de Inventario	46431.05
-Roberto Fernandez	Repartidor	43475.86
-Sofia Morales	Jefe de Compras	35680.8
-Ricardo Diaz	Auxiliar Administrativo	22842.19
-Sofia Morales	Cajero	19912.84
-Roberto Fernandez	Auxiliar Administrativo	80396.17
-Carla Gomez	Auxiliar Administrativo	28239.65
-Luis Sanchez	Cajero	31118.06
-Ricardo Diaz	Jefe de Compras	55586.04
-Ricardo Diaz	Gerente de Almacen	60513.59
-Roberto Fernandez	Empleado de Limpieza	68420.48
-Luis Sanchez	Supervisor de Inventario	20115.97
-Ana Rodriguez	Auxiliar Administrativo	66605.99
-Maria Jimenez	Cajero	84477.96
-Carla Gomez	Jefe de Compras	29472.25
-Roberto Fernandez	Auxiliar Administrativo	49352.26
-Ana Rodriguez	Jefe de Compras	22672.76
-Ricardo Diaz	Asistente de Ventas	26648.64
-Ana Rodriguez	Coordinador de Logistica	58553.29
-Lucia Martinez	Supervisor de Inventario	49156.9
-Lucia Martinez	Coordinador de Logistica	80252.43
-Luis Sanchez	Supervisor de Inventario	38551.42
-Roberto Fernandez	Supervisor de Inventario	19308.24
-Carla Gomez	Gerente de Almacen	19165.39
-Ricardo Diaz	Operador de Montacargas	23355.85
-Sofia Morales	Auxiliar Administrativo	55860.81
-Pedro Garcia	Auxiliar Administrativo	69036.24
-Luis Sanchez	Auxiliar Administrativo	31456.51
-Lucia Martinez	Cajero	75386.03
-Lucia Martinez	Auxiliar Administrativo	65601.92
-Lucia Martinez	Cajero	47567.02
-Ricardo Diaz	Jefe de Compras	37283.79
-Luis Sanchez	Empleado de Limpieza	58121.98
-Ricardo Diaz	Supervisor de Inventario	41639.87
-Sofia Morales	Operador de Montacargas	37382.24
-Maria Jimenez	Repartidor	43443.23
-Roberto Fernandez	Empleado de Limpieza	65637.05
-Maria Jimenez	Jefe de Compras	69024.24
-Luis Sanchez	Cajero	68195.19
-Ricardo Diaz	Auxiliar Administrativo	43013.11
-Sofia Morales	Auxiliar Administrativo	41478.94
-Roberto Fernandez	Empleado de Limpieza	19931.07
-Pedro Garcia	Asistente de Ventas	68810.17
-Carla Gomez	Auxiliar Administrativo	41244.66
-Ana Rodriguez	Operador de Montacargas	56446.95
-Lucia Martinez	Supervisor de Inventario	84782.67
-Lucia Martinez	Supervisor de Inventario	37270.47
-Lucia Martinez	Gerente de Almacen	39210.98
-Maria Jimenez	Gerente de Almacen	43543.54
-Ricardo Diaz	Coordinador de Logistica	44385.85
-Lucia Martinez	Asistente de Ventas	31415.26
-Maria Jimenez	Operador de Montacargas	69358.48
-Sofia Morales	Asistente de Ventas	26016.08
-Luis Sanchez	Coordinador de Logistica	40149.34
-Juan Lopez	Cajero	67400.86
-Sofia Morales	Auxiliar Administrativo	51685.64
-Ricardo Diaz	Jefe de Compras	20861.1
-Juan Lopez	Empleado de Limpieza	62485.59
-Lucia Martinez	Supervisor de Inventario	29936.26
-Carla Gomez	Jefe de Compras	61752.21
-Luis Sanchez	Asistente de Ventas	27734.17
-Ana Rodriguez	Gerente de Almacen	24336.87
-Ricardo Diaz	Auxiliar Administrativo	45775.36
-Pedro Garcia	Empleado de Limpieza	66542.66
-Pedro Garcia	Repartidor	80003.86
-Maria Jimenez	Gerente de Almacen	28499.35
-Roberto Fernandez	Supervisor de Inventario	58840.13
-Juan Lopez	Cajero	51686.01
-Ana Rodriguez	Gerente de Almacen	27309.92
-Roberto Fernandez	Empleado de Limpieza	76042.65
-Sofia Morales	Jefe de Compras	84186.28
-Carla Gomez	Jefe de Compras	45766.49
-Ana Rodriguez	Gerente de Almacen	77295.53
-Lucia Martinez	Repartidor	21485.38
-Ana Rodriguez	Empleado de Limpieza	80321.27
-Pedro Garcia	Repartidor	26887.38
-Maria Jimenez	Operador de Montacargas	47373.0
-Lucia Martinez	Auxiliar Administrativo	34789.38
-Maria Jimenez	Cajero	82848.38
-Juan Lopez	Asistente de Ventas	44525.12
-Carla Gomez	Supervisor de Inventario	37763.46
-Ana Rodriguez	Supervisor de Inventario	32619.94
-Carla Gomez	Jefe de Compras	33985.41
-Carla Gomez	Coordinador de Logistica	19025.53
-Carla Gomez	Auxiliar Administrativo	53930.55
-Ana Rodriguez	Asistente de Ventas	25573.93
-Roberto Fernandez	Auxiliar Administrativo	19903.64
-Carla Gomez	Gerente de Almacen	80413.99
-Sofia Morales	Repartidor	45704.03
-Pedro Garcia	Asistente de Ventas	24743.75
-Lucia Martinez	Jefe de Compras	81568.1
-Ana Rodriguez	Jefe de Compras	60861.14
-Pedro Garcia	Repartidor	74288.27
-Luis Sanchez	Operador de Montacargas	64187.37
-Maria Jimenez	Coordinador de Logistica	29353.02
-Lucia Martinez	Supervisor de Inventario	60079.99
-Lucia Martinez	Empleado de Limpieza	39612.31
-Carla Gomez	Jefe de Compras	74397.8
-Ana Rodriguez	Repartidor	74340.95
-Juan Lopez	Repartidor	40621.18
-Maria Jimenez	Operador de Montacargas	36909.02
-Roberto Fernandez	Coordinador de Logistica	23462.8
-Juan Lopez	Coordinador de Logistica	73049.61
-Pedro Garcia	Cajero	37939.03
-Maria Jimenez	Cajero	31076.92
-Pedro Garcia	Asistente de Ventas	44405.44
-Ricardo Diaz	Supervisor de Inventario	28786.37
-Ricardo Diaz	Gerente de Almacen	33709.27
-Lucia Martinez	Jefe de Compras	63043.45
-Sofia Morales	Cajero	31521.03
-Sofia Morales	Cajero	21261.2
-Carla Gomez	Coordinador de Logistica	79555.24
-Ana Rodriguez	Asistente de Ventas	44151.55
-Juan Lopez	Empleado de Limpieza	58099.81
-Juan Lopez	Gerente de Almacen	84733.12
-Lucia Martinez	Supervisor de Inventario	58053.4
-Maria Jimenez	Cajero	24387.66
-Juan Lopez	Operador de Montacargas	66595.3
-Ana Rodriguez	Auxiliar Administrativo	44813.26
-Ana Rodriguez	Cajero	58625.12
-Ana Rodriguez	Operador de Montacargas	77062.74
-Sofia Morales	Coordinador de Logistica	56196.64
-Ana Rodriguez	Repartidor	28803.82
-Carla Gomez	Operador de Montacargas	63521.53
-Sofia Morales	Gerente de Almacen	80402.2
-Lucia Martinez	Supervisor de Inventario	34382.37
-Pedro Garcia	Gerente de Almacen	66216.12
-Ricardo Diaz	Coordinador de Logistica	84272.2
-Sofia Morales	Auxiliar Administrativo	83630.67
-Ana Rodriguez	Asistente de Ventas	71826.51
-Maria Jimenez	Coordinador de Logistica	18465.38
-Luis Sanchez	Gerente de Almacen	77773.55
-Lucia Martinez	Jefe de Compras	76321.56
-Lucia Martinez	Cajero	70623.85
-Sofia Morales	Supervisor de Inventario	37423.39
-Ricardo Diaz	Operador de Montacargas	61587.07
-Ana Rodriguez	Repartidor	81501.56
-Luis Sanchez	Gerente de Almacen	77699.14
-Maria Jimenez	Asistente de Ventas	79759.04
-Roberto Fernandez	Supervisor de Inventario	62824.06
-Ana Rodriguez	Supervisor de Inventario	78014.98
-Carla Gomez	Auxiliar Administrativo	50890.0
-Ricardo Diaz	Coordinador de Logistica	75042.21
-Lucia Martinez	Gerente de Almacen	77428.26
-Maria Jimenez	Cajero	66907.25
-Sofia Morales	Cajero	20881.4
-Luis Sanchez	Gerente de Almacen	63465.44
-Sofia Morales	Empleado de Limpieza	44107.9
-Luis Sanchez	Supervisor de Inventario	68454.69
-Maria Jimenez	Empleado de Limpieza	30998.81
-Luis Sanchez	Auxiliar Administrativo	63782.75
-Roberto Fernandez	Supervisor de Inventario	64035.45
-Pedro Garcia	Operador de Montacargas	42196.11
-Roberto Fernandez	Repartidor	67523.26
-Ana Rodriguez	Supervisor de Inventario	80511.11
-Roberto Fernandez	Supervisor de Inventario	40880.61
-Luis Sanchez	Gerente de Almacen	29333.65
-Roberto Fernandez	Gerente de Almacen	50438.78
-Pedro Garcia	Cajero	28745.14
-Pedro Garcia	Supervisor de Inventario	71108.72
-Carla Gomez	Asistente de Ventas	51715.88
-Sofia Morales	Operador de Montacargas	28546.98
-Lucia Martinez	Jefe de Compras	37799.25
-Ricardo Diaz	Operador de Montacargas	30593.26
-Juan Lopez	Asistente de Ventas	37314.12
-Sofia Morales	Empleado de Limpieza	73408.56
-Juan Lopez	Jefe de Compras	78492.92
-Maria Jimenez	Coordinador de Logistica	32851.85
-Juan Lopez	Jefe de Compras	78779.35
-Roberto Fernandez	Coordinador de Logistica	65700.04
-Luis Sanchez	Asistente de Ventas	67852.18
-Roberto Fernandez	Gerente de Almacen	67883.46
-Maria Jimenez	Repartidor	76076.8
-Sofia Morales	Gerente de Almacen	77515.9
-Juan Lopez	Jefe de Compras	83383.11
-Lucia Martinez	Operador de Montacargas	30102.1
-Carla Gomez	Asistente de Ventas	36083.35
-Pedro Garcia	Repartidor	25413.08
-Pedro Garcia	Auxiliar Administrativo	35197.75
-Sofia Morales	Supervisor de Inventario	28970.61
-Juan Lopez	Repartidor	19202.67
-Roberto Fernandez	Coordinador de Logistica	25053.47
-Roberto Fernandez	Auxiliar Administrativo	24077.69
-Sofia Morales	Gerente de Almacen	33000.45
-Juan Lopez	Operador de Montacargas	78541.97
-Ana Rodriguez	Cajero	54534.42
-Luis Sanchez	Empleado de Limpieza	32925.79
-Sofia Morales	Coordinador de Logistica	69713.49
-Roberto Fernandez	Jefe de Compras	75157.38
-Carla Gomez	Repartidor	71508.85
-Roberto Fernandez	Jefe de Compras	40975.25
-Ricardo Diaz	Repartidor	30638.63
-Lucia Martinez	Empleado de Limpieza	43730.11
-Ana Rodriguez	Coordinador de Logistica	34708.52
-Roberto Fernandez	Supervisor de Inventario	60013.83
-Roberto Fernandez	Asistente de Ventas	78611.42
-Ricardo Diaz	Coordinador de Logistica	71763.32
-Maria Jimenez	Coordinador de Logistica	70561.03
-Juan Lopez	Repartidor	39355.79
-Carla Gomez	Cajero	56943.68
-Sofia Morales	Operador de Montacargas	71409.58
-Juan Lopez	Asistente de Ventas	37532.32
-Luis Sanchez	Repartidor	20271.39
-Pedro Garcia	Jefe de Compras	35573.18
-Sofia Morales	Supervisor de Inventario	60884.22
-Maria Jimenez	Coordinador de Logistica	43066.18
-Carla Gomez	Supervisor de Inventario	41008.04
-Roberto Fernandez	Auxiliar Administrativo	49731.64
-Ricardo Diaz	Asistente de Ventas	73180.59
-Luis Sanchez	Jefe de Compras	60798.27
-Carla Gomez	Cajero	52559.66
-Ana Rodriguez	Cajero	56066.98
-Luis Sanchez	Repartidor	73618.35
-Ana Rodriguez	Coordinador de Logistica	49308.67
-Roberto Fernandez	Auxiliar Administrativo	75030.12
-Juan Lopez	Gerente de Almacen	53188.53
-Juan Lopez	Empleado de Limpieza	37484.38
-Sofia Morales	Asistente de Ventas	56697.8
-Roberto Fernandez	Operador de Montacargas	73191.48
-Sofia Morales	Empleado de Limpieza	72471.12
-Ana Rodriguez	Coordinador de Logistica	48239.54
-Roberto Fernandez	Supervisor de Inventario	21518.81
-Roberto Fernandez	Repartidor	57859.67
-Ricardo Diaz	Repartidor	75383.77
-Lucia Martinez	Cajero	42496.71
-Pedro Garcia	Auxiliar Administrativo	18989.2
-Maria Jimenez	Operador de Montacargas	31050.11
-Ana Rodriguez	Empleado de Limpieza	30412.18
-Roberto Fernandez	Operador de Montacargas	39599.79
-Carla Gomez	Asistente de Ventas	33913.78
-Sofia Morales	Empleado de Limpieza	38452.36
-Luis Sanchez	Cajero	28661.01
-Ricardo Diaz	Coordinador de Logistica	45229.26
-Lucia Martinez	Auxiliar Administrativo	79770.66
-Sofia Morales	Jefe de Compras	18225.52
-Sofia Morales	Supervisor de Inventario	76380.38
-Ana Rodriguez	Empleado de Limpieza	39307.36
-Ricardo Diaz	Asistente de Ventas	41985.77
-Sofia Morales	Operador de Montacargas	77479.94
-Roberto Fernandez	Supervisor de Inventario	62763.21
-Ana Rodriguez	Gerente de Almacen	23736.49
-Carla Gomez	Operador de Montacargas	46949.67
-Pedro Garcia	Asistente de Ventas	58227.21
-Ana Rodriguez	Asistente de Ventas	77886.87
-Sofia Morales	Cajero	59273.43
-Carla Gomez	Cajero	49958.87
-Lucia Martinez	Jefe de Compras	75215.24
-Pedro Garcia	Auxiliar Administrativo	61556.89
-Sofia Morales	Supervisor de Inventario	47617.82
-Sofia Morales	Cajero	75809.13
-Ana Rodriguez	Auxiliar Administrativo	52482.26
-Luis Sanchez	Cajero	32478.93
-Juan Lopez	Coordinador de Logistica	53985.87
-Carla Gomez	Gerente de Almacen	45792.86
-Ricardo Diaz	Asistente de Ventas	50689.51
-Juan Lopez	Supervisor de Inventario	65647.62
-Ana Rodriguez	Operador de Montacargas	79637.51
-Carla Gomez	Coordinador de Logistica	42802.96
-Luis Sanchez	Cajero	45040.68
-Ricardo Diaz	Auxiliar Administrativo	35575.36
-Maria Jimenez	Empleado de Limpieza	69559.06
-Juan Lopez	Supervisor de Inventario	75061.06
-Ana Rodriguez	Coordinador de Logistica	51139.64
-Sofia Morales	Coordinador de Logistica	74073.48
-Juan Lopez	Cajero	71277.94
-Luis Sanchez	Supervisor de Inventario	45558.9
-Ricardo Diaz	Cajero	34969.06
-Ricardo Diaz	Cajero	64022.92
-Pedro Garcia	Jefe de Compras	50201.07
-Pedro Garcia	Operador de Montacargas	58655.34
-Luis Sanchez	Supervisor de Inventario	82703.8
-Ricardo Diaz	Gerente de Almacen	77418.79
-Pedro Garcia	Asistente de Ventas	70537.29
-Pedro Garcia	Cajero	78605.45
-Lucia Martinez	Operador de Montacargas	35339.03
-Carla Gomez	Repartidor	56158.85
-Ricardo Diaz	Coordinador de Logistica	60623.4
-Lucia Martinez	Asistente de Ventas	32033.95
-Ricardo Diaz	Cajero	44548.11
-Pedro Garcia	Asistente de Ventas	44553.54
-Pedro Garcia	Jefe de Compras	78611.51
-Roberto Fernandez	Coordinador de Logistica	21683.2
-Roberto Fernandez	Supervisor de Inventario	34898.73
-Maria Jimenez	Operador de Montacargas	26576.21
-Roberto Fernandez	Asistente de Ventas	50872.97
-Pedro Garcia	Auxiliar Administrativo	69886.01
-Pedro Garcia	Repartidor	35012.16
-Luis Sanchez	Cajero	58408.64
-Carla Gomez	Auxiliar Administrativo	42607.56
-Sofia Morales	Operador de Montacargas	58374.67
-Luis Sanchez	Gerente de Almacen	70037.78
-Lucia Martinez	Auxiliar Administrativo	30453.51
-Carla Gomez	Gerente de Almacen	46690.02
-Luis Sanchez	Asistente de Ventas	59994.68
-Maria Jimenez	Repartidor	37917.14
-Juan Lopez	Asistente de Ventas	25685.83
-Ana Rodriguez	Operador de Montacargas	67934.79
-Sofia Morales	Operador de Montacargas	31481.58
-Juan Lopez	Empleado de Limpieza	30803.06
-Sofia Morales	Empleado de Limpieza	57708.55
-Maria Jimenez	Coordinador de Logistica	43466.9
-Maria Jimenez	Coordinador de Logistica	33887.33
-Ana Rodriguez	Cajero	60194.9
-Ricardo Diaz	Coordinador de Logistica	30784.29
-Carla Gomez	Supervisor de Inventario	53073.04
-Luis Sanchez	Supervisor de Inventario	35250.85
-Carla Gomez	Jefe de Compras	42876.21
-Pedro Garcia	Asistente de Ventas	48158.04
-Roberto Fernandez	Cajero	26316.32
-Pedro Garcia	Empleado de Limpieza	54089.12
-Maria Jimenez	Repartidor	63362.74
-Ricardo Diaz	Asistente de Ventas	84607.03
-Maria Jimenez	Auxiliar Administrativo	78040.93
-Ana Rodriguez	Auxiliar Administrativo	27717.9
-Roberto Fernandez	Cajero	19522.08
-Roberto Fernandez	Supervisor de Inventario	72586.27
-Roberto Fernandez	Jefe de Compras	59715.57
-Carla Gomez	Jefe de Compras	49126.82
-Carla Gomez	Supervisor de Inventario	56742.13
-Luis Sanchez	Gerente de Almacen	18785.21
-Lucia Martinez	Auxiliar Administrativo	54190.66
-Pedro Garcia	Jefe de Compras	50528.34
-Maria Jimenez	Empleado de Limpieza	46296.23
-Lucia Martinez	Jefe de Compras	43638.85
-Ana Rodriguez	Gerente de Almacen	80301.6
-Lucia Martinez	Cajero	63369.07
-Lucia Martinez	Cajero	52276.96
-Carla Gomez	Repartidor	81325.53
-Carla Gomez	Empleado de Limpieza	81980.23
-Juan Lopez	Empleado de Limpieza	24543.43
-Ricardo Diaz	Jefe de Compras	49546.64
-Maria Jimenez	Cajero	24659.62
-Luis Sanchez	Auxiliar Administrativo	22949.68
-Ana Rodriguez	Coordinador de Logistica	57562.53
-Lucia Martinez	Empleado de Limpieza	47672.51
-Ana Rodriguez	Cajero	29813.54
-Sofia Morales	Asistente de Ventas	43581.87
-Pedro Garcia	Empleado de Limpieza	49645.36
-Pedro Garcia	Repartidor	52275.45
-Sofia Morales	Auxiliar Administrativo	54646.6
-Ana Rodriguez	Jefe de Compras	50838.78
-Ana Rodriguez	Auxiliar Administrativo	50079.39
-Roberto Fernandez	Operador de Montacargas	80375.97
-Carla Gomez	Jefe de Compras	24093.22
-Ana Rodriguez	Cajero	26625.98
-Maria Jimenez	Empleado de Limpieza	77355.81
-Ana Rodriguez	Auxiliar Administrativo	45702.03
-Carla Gomez	Repartidor	49815.05
-Carla Gomez	Empleado de Limpieza	48617.6
-Luis Sanchez	Supervisor de Inventario	40192.07
-Juan Lopez	Repartidor	42279.84
-Ricardo Diaz	Empleado de Limpieza	33385.29
-Pedro Garcia	Supervisor de Inventario	19267.71
-Pedro Garcia	Coordinador de Logistica	66003.5
-Ana Rodriguez	Supervisor de Inventario	41960.8
-Luis Sanchez	Empleado de Limpieza	82731.38
-Luis Sanchez	Cajero	66593.54
-Pedro Garcia	Jefe de Compras	70339.74
-Luis Sanchez	Auxiliar Administrativo	27943.52
-Ricardo Diaz	Cajero	42618.06
-Luis Sanchez	Auxiliar Administrativo	65429.58
-Lucia Martinez	Repartidor	84565.13
-Roberto Fernandez	Cajero	76801.76
-Sofia Morales	Supervisor de Inventario	72415.59
-Sofia Morales	Cajero	45132.36
-Ricardo Diaz	Auxiliar Administrativo	65639.66
-Roberto Fernandez	Supervisor de Inventario	52001.58
-Ricardo Diaz	Coordinador de Logistica	75973.55
-Ricardo Diaz	Coordinador de Logistica	28959.3
-Maria Jimenez	Auxiliar Administrativo	66016.68
-Maria Jimenez	Operador de Montacargas	38709.74
-Luis Sanchez	Cajero	21488.87
-Luis Sanchez	Supervisor de Inventario	46611.87
-Ricardo Diaz	Coordinador de Logistica	76346.42
-Roberto Fernandez	Empleado de Limpieza	49332.62
-Lucia Martinez	Asistente de Ventas	45646.51
-Juan Lopez	Cajero	72292.16
-Ricardo Diaz	Repartidor	25796.99
-Sofia Morales	Empleado de Limpieza	36526.63
-Lucia Martinez	Repartidor	68012.39
-Juan Lopez	Empleado de Limpieza	62188.38
-Ana Rodriguez	Repartidor	72933.38
-Ana Rodriguez	Empleado de Limpieza	63388.63
-Ricardo Diaz	Supervisor de Inventario	49611.93
-Carla Gomez	Gerente de Almacen	47325.01
-Ana Rodriguez	Gerente de Almacen	30968.83
-Juan Lopez	Jefe de Compras	58302.88
-Sofia Morales	Operador de Montacargas	51194.79
-Roberto Fernandez	Operador de Montacargas	40832.07
-Maria Jimenez	Jefe de Compras	47916.45
-Luis Sanchez	Empleado de Limpieza	23704.48
-Roberto Fernandez	Jefe de Compras	34366.05
-Luis Sanchez	Operador de Montacargas	81616.0
-Roberto Fernandez	Repartidor	24210.68
-Maria Jimenez	Empleado de Limpieza	37408.51
-Ricardo Diaz	Gerente de Almacen	69284.04
-Ana Rodriguez	Jefe de Compras	66718.04
-Sofia Morales	Coordinador de Logistica	45205.41
-Luis Sanchez	Supervisor de Inventario	65408.77
-Luis Sanchez	Gerente de Almacen	34342.06
-Juan Lopez	Operador de Montacargas	31181.55
-Juan Lopez	Jefe de Compras	60303.51
-Juan Lopez	Gerente de Almacen	21942.5
-Carla Gomez	Auxiliar Administrativo	23484.64
-Maria Jimenez	Cajero	71055.06
-Maria Jimenez	Repartidor	77496.69
-Juan Lopez	Gerente de Almacen	64999.18
-Sofia Morales	Asistente de Ventas	32450.39
-Sofia Morales	Operador de Montacargas	78809.87
-Ana Rodriguez	Cajero	56058.72
-Pedro Garcia	Supervisor de Inventario	51202.77
-Pedro Garcia	Coordinador de Logistica	62606.47
-Lucia Martinez	Repartidor	48599.19
-Lucia Martinez	Operador de Montacargas	38913.72
-Juan Lopez	Repartidor	22666.48
-Carla Gomez	Empleado de Limpieza	21736.35
-Ricardo Diaz	Coordinador de Logistica	33269.45
-Lucia Martinez	Jefe de Compras	72732.65
-Lucia Martinez	Supervisor de Inventario	20913.04
-Lucia Martinez	Coordinador de Logistica	38082.27
-Ricardo Diaz	Asistente de Ventas	31044.47
-Ricardo Diaz	Gerente de Almacen	33986.15
-Lucia Martinez	Coordinador de Logistica	39377.45
-Juan Lopez	Asistente de Ventas	32581.18
-Juan Lopez	Auxiliar Administrativo	53536.59
-Luis Sanchez	Operador de Montacargas	82300.45
-Sofia Morales	Auxiliar Administrativo	39440.53
-Sofia Morales	Operador de Montacargas	81201.96
-Ricardo Diaz	Operador de Montacargas	41824.21
-Ricardo Diaz	Jefe de Compras	59286.86
-Sofia Morales	Coordinador de Logistica	50996.58
-Pedro Garcia	Cajero	84851.88
-Maria Jimenez	Coordinador de Logistica	26578.81
-Ricardo Diaz	Gerente de Almacen	33067.43
-Maria Jimenez	Gerente de Almacen	64870.89
-Ricardo Diaz	Auxiliar Administrativo	83373.28
-Luis Sanchez	Empleado de Limpieza	35106.68
-Pedro Garcia	Empleado de Limpieza	31879.36
-Ana Rodriguez	Cajero	33359.11
-Maria Jimenez	Asistente de Ventas	57762.33
-Juan Lopez	Supervisor de Inventario	49256.8
-Roberto Fernandez	Jefe de Compras	66375.75
-Luis Sanchez	Operador de Montacargas	72624.22
-Ricardo Diaz	Jefe de Compras	80367.27
-Lucia Martinez	Operador de Montacargas	82359.33
-Sofia Morales	Asistente de Ventas	29855.92
-Lucia Martinez	Asistente de Ventas	34019.47
-Carla Gomez	Supervisor de Inventario	57778.2
-Sofia Morales	Cajero	38464.96
-Carla Gomez	Asistente de Ventas	30922.57
-Ricardo Diaz	Cajero	44494.27
-Maria Jimenez	Coordinador de Logistica	68269.14
-Maria Jimenez	Supervisor de Inventario	26931.33
-Luis Sanchez	Cajero	33519.69
-Ricardo Diaz	Asistente de Ventas	81390.75
-Maria Jimenez	Coordinador de Logistica	40551.69
-Luis Sanchez	Repartidor	59005.71
-Luis Sanchez	Jefe de Compras	40709.38
-Sofia Morales	Asistente de Ventas	31813.75
-Lucia Martinez	Empleado de Limpieza	49843.26
-Ricardo Diaz	Jefe de Compras	56928.07
-Pedro Garcia	Jefe de Compras	27167.28
-Pedro Garcia	Cajero	47169.4
-Ana Rodriguez	Supervisor de Inventario	36444.46
-Lucia Martinez	Gerente de Almacen	68038.0
-Carla Gomez	Supervisor de Inventario	60302.78
-Pedro Garcia	Supervisor de Inventario	66393.28
-Maria Jimenez	Asistente de Ventas	40268.53
-Luis Sanchez	Asistente de Ventas	35004.29
-Luis Sanchez	Gerente de Almacen	23172.92
-Sofia Morales	Coordinador de Logistica	51588.05
-Ricardo Diaz	Jefe de Compras	24358.41
-Lucia Martinez	Auxiliar Administrativo	37888.8
-Roberto Fernandez	Coordinador de Logistica	44810.97
-Pedro Garcia	Auxiliar Administrativo	23722.43
-Roberto Fernandez	Asistente de Ventas	33433.56
-Pedro Garcia	Empleado de Limpieza	45238.79
-Sofia Morales	Cajero	34298.83
-Carla Gomez	Repartidor	75862.53
-Juan Lopez	Jefe de Compras	72611.22
-Pedro Garcia	Repartidor	39120.33
-Maria Jimenez	Operador de Montacargas	35027.52
-Roberto Fernandez	Auxiliar Administrativo	68872.56
-Roberto Fernandez	Repartidor	22935.01
-Ana Rodriguez	Jefe de Compras	61092.7
-Maria Jimenez	Auxiliar Administrativo	28673.42
-Sofia Morales	Repartidor	36625.06
-Ana Rodriguez	Repartidor	72877.93
+Carlos Ruiz	Supervisor de Inventarios	645.52
+Elena Fernandez	Jefe de Almacen	909.2
+Maria Gomez	Gerente de Logistica	1393.44
+Carlos Perez	Chofer de Carga	451.97
+Luis Fernandez	Supervisor de Inventarios	642.37
+Carmen Jimenez	Inspector de Calidad	418.76
+Ana Fernandez	Operador de Montacargas	449.49
+Carlos Jimenez	Inspector de Calidad	664.99
+Maria Perez	Repartidor	476.1
+Carmen Ruiz	Operador de Empaque	396.55
+Ana Hernandez	Encargado de Despacho	635.24
+Carlos Lopez	Inspector de Calidad	565.78
+Luis Rodriguez	Operador de Empaque	409.55
+Elena Perez	Encargado de Despacho	526.1
+Pedro Fernandez	Operador de Montacargas	535.56
+Carmen Hernandez	Operador de Empaque	373.79
+Pedro Perez	Inspector de Calidad	577.7
+Ana Gomez	Gerente de Logistica	1157.74
+Carlos Rodriguez	Operador de Empaque	254.22
+Jorge Perez	Operador de Empaque	431.49
+Ana Perez	Auxiliar de Bodega	290.03
+Pedro Vasquez	Chofer de Carga	471.03
+Sofia Gomez	Chofer de Carga	323.77
+Pedro Fernandez	Supervisor de Inventarios	794.82
+Sofia Perez	Supervisor de Inventarios	662.58
+Sofia Fernandez	Operador de Empaque	355.93
+Carlos Ruiz	Chofer de Carga	383.43
+Carmen Gomez	Operador de Empaque	272.87
+Maria Perez	Gerente de Logistica	1255.82
+Roberto Vasquez	Jefe de Almacen	926.66
+Carlos Vasquez	Chofer de Carga	549.93
+Carlos Ruiz	Auxiliar de Bodega	255.16
+Luis Fernandez	Repartidor	402.34
+Sofia Vasquez	Operador de Montacargas	354.01
+Jorge Lopez	Inspector de Calidad	471.03
+Elena Hernandez	Operador de Montacargas	590.96
+Sofia Jimenez	Gerente de Logistica	1144.96
+Ana Perez	Operador de Empaque	438.12
+Sofia Lopez	Auxiliar de Bodega	256.02
+Roberto Perez	Operador de Montacargas	436.59
+Pedro Fernandez	Encargado de Despacho	403.32
+Pedro Jimenez	Chofer de Carga	454.66
+Carlos Martinez	Encargado de Despacho	430.68
+Carmen Rodriguez	Operador de Montacargas	346.47
+Ana Hernandez	Jefe de Almacen	820.78
+Luis Rodriguez	Jefe de Almacen	769.01
+Luis Fernandez	Supervisor de Inventarios	666.01
+Luis Rodriguez	Supervisor de Inventarios	547.92
+Elena Martinez	Operador de Empaque	360.87
+Ana Ruiz	Auxiliar de Bodega	407.32
+Sofia Fernandez	Auxiliar de Bodega	438.22
+Sofia Martinez	Gerente de Logistica	1058.97
+Ana Vasquez	Inspector de Calidad	560.86
+Luis Hernandez	Supervisor de Inventarios	724.63
+Pedro Lopez	Operador de Montacargas	358.37
+Maria Hernandez	Encargado de Despacho	493.71
+Elena Lopez	Encargado de Despacho	697.55
+Carlos Lopez	Chofer de Carga	414.85
+Jorge Jimenez	Repartidor	307.58
+Luis Jimenez	Operador de Empaque	327.63
+Sofia Jimenez	Repartidor	361.89
+Jorge Jimenez	Chofer de Carga	313.85
+Ana Perez	Encargado de Despacho	643.71
+Pedro Jimenez	Repartidor	428.35
+Sofia Martinez	Chofer de Carga	481.84
+Luis Perez	Operador de Empaque	295.41
+Jorge Martinez	Encargado de Despacho	646.26
+Jorge Gomez	Encargado de Despacho	550.34
+Carlos Rodriguez	Inspector de Calidad	657.13
+Elena Ruiz	Encargado de Despacho	650.4
+Elena Ruiz	Operador de Montacargas	442.42
+Carlos Fernandez	Auxiliar de Bodega	251.99
+Pedro Jimenez	Repartidor	459.9
+Roberto Fernandez	Operador de Montacargas	320.22
+Luis Hernandez	Chofer de Carga	544.89
+Jorge Rodriguez	Operador de Empaque	308.52
+Sofia Perez	Repartidor	370.96
+Carmen Rodriguez	Operador de Empaque	425.33
+Sofia Rodriguez	Inspector de Calidad	609.33
+Luis Hernandez	Operador de Montacargas	516.34
+Elena Gomez	Inspector de Calidad	482.85
+Carlos Jimenez	Gerente de Logistica	1174.28
+Sofia Vasquez	Repartidor	359.75
+Roberto Hernandez	Chofer de Carga	376.95
+Elena Vasquez	Inspector de Calidad	614.49
+Carlos Jimenez	Inspector de Calidad	614.2
+Roberto Gomez	Repartidor	310.0
+Roberto Ruiz	Auxiliar de Bodega	416.31
+Ana Vasquez	Chofer de Carga	370.03
+Sofia Rodriguez	Operador de Montacargas	404.45
+Carmen Perez	Operador de Empaque	306.78
+Luis Fernandez	Encargado de Despacho	606.34
+Elena Rodriguez	Jefe de Almacen	767.69
+Maria Fernandez	Encargado de Despacho	507.29
+Ana Gomez	Chofer de Carga	401.42
+Pedro Gomez	Encargado de Despacho	681.77
+Carmen Ruiz	Encargado de Despacho	427.26
+Carlos Perez	Operador de Empaque	308.45
+Pedro Gomez	Supervisor de Inventarios	697.06
+Carlos Rodriguez	Gerente de Logistica	1304.16
+Luis Vasquez	Jefe de Almacen	969.12
+Ana Lopez	Inspector de Calidad	402.39
+Ana Vasquez	Jefe de Almacen	943.46
+Carmen Vasquez	Operador de Montacargas	451.37
+Maria Lopez	Encargado de Despacho	432.7
+Sofia Ruiz	Supervisor de Inventarios	635.03
+Elena Perez	Operador de Montacargas	462.97
+Maria Martinez	Inspector de Calidad	622.97
+Sofia Jimenez	Encargado de Despacho	667.53
+Sofia Ruiz	Operador de Montacargas	400.01
+Jorge Gomez	Chofer de Carga	514.22
+Maria Ruiz	Encargado de Despacho	544.25
+Roberto Lopez	Repartidor	346.32
+Elena Hernandez	Operador de Montacargas	501.82
+Sofia Jimenez	Inspector de Calidad	600.81
+Ana Gomez	Repartidor	462.85
+Elena Vasquez	Supervisor de Inventarios	701.51
+Ana Martinez	Gerente de Logistica	1215.08
+Ana Rodriguez	Gerente de Logistica	1083.87
+Elena Perez	Gerente de Logistica	1239.21
+Pedro Vasquez	Operador de Montacargas	323.93
+Elena Rodriguez	Auxiliar de Bodega	291.69
+Maria Martinez	Supervisor de Inventarios	744.85
+Roberto Fernandez	Operador de Montacargas	413.92
+Carlos Vasquez	Operador de Montacargas	500.15
+Sofia Fernandez	Operador de Montacargas	455.7
+Luis Martinez	Supervisor de Inventarios	733.35
+Elena Jimenez	Chofer de Carga	539.41
+Luis Lopez	Inspector de Calidad	550.99
+Ana Ruiz	Chofer de Carga	497.48
+Carlos Rodriguez	Chofer de Carga	469.82
+Jorge Perez	Jefe de Almacen	681.38
+Carlos Lopez	Supervisor de Inventarios	785.36
+Roberto Jimenez	Chofer de Carga	404.82
+Sofia Perez	Repartidor	270.25
+Luis Vasquez	Supervisor de Inventarios	665.6
+Pedro Fernandez	Jefe de Almacen	882.37
+Carmen Jimenez	Repartidor	274.43
+Ana Perez	Repartidor	499.98
+Elena Perez	Repartidor	435.17
+Roberto Martinez	Inspector de Calidad	477.85
+Sofia Vasquez	Chofer de Carga	527.77
+Ana Hernandez	Operador de Empaque	338.74
+Elena Martinez	Encargado de Despacho	546.04
+Jorge Rodriguez	Jefe de Almacen	809.67
+Maria Lopez	Supervisor de Inventarios	665.7
+Luis Gomez	Operador de Montacargas	390.95
+Luis Gomez	Chofer de Carga	493.2
+Carlos Martinez	Repartidor	250.27
+Elena Rodriguez	Chofer de Carga	329.09
+Carmen Hernandez	Operador de Montacargas	453.07
+Ana Vasquez	Encargado de Despacho	654.37
+Pedro Fernandez	Chofer de Carga	475.63
+Sofia Ruiz	Repartidor	347.96
+Carlos Perez	Auxiliar de Bodega	315.1
+Elena Fernandez	Gerente de Logistica	1071.37
+Sofia Fernandez	Gerente de Logistica	1443.21
+Luis Ruiz	Operador de Empaque	269.04
+Elena Lopez	Jefe de Almacen	658.55
+Elena Ruiz	Operador de Empaque	262.51
+Maria Fernandez	Gerente de Logistica	1118.96
+Jorge Lopez	Jefe de Almacen	969.66
+Carmen Perez	Auxiliar de Bodega	269.83
+Elena Perez	Inspector de Calidad	464.02
+Carmen Jimenez	Operador de Montacargas	336.16
+Jorge Vasquez	Operador de Montacargas	446.85
+Jorge Martinez	Chofer de Carga	533.7
+Maria Lopez	Inspector de Calidad	463.21
+Roberto Ruiz	Supervisor de Inventarios	666.44
+Pedro Jimenez	Supervisor de Inventarios	527.33
+Sofia Hernandez	Encargado de Despacho	660.45
+Maria Vasquez	Auxiliar de Bodega	386.9
+Jorge Gomez	Jefe de Almacen	843.4
+Maria Rodriguez	Supervisor de Inventarios	783.06
+Sofia Martinez	Operador de Montacargas	411.64
+Luis Perez	Chofer de Carga	348.11
+Roberto Gomez	Gerente de Logistica	1022.84
+Sofia Jimenez	Operador de Empaque	295.2
+Carmen Lopez	Gerente de Logistica	1104.23
+Luis Gomez	Supervisor de Inventarios	662.6
+Elena Martinez	Operador de Empaque	376.67
+Roberto Perez	Supervisor de Inventarios	687.82
+Sofia Martinez	Gerente de Logistica	1399.82
+Jorge Rodriguez	Auxiliar de Bodega	256.75
+Maria Vasquez	Encargado de Despacho	565.59
+Pedro Ruiz	Auxiliar de Bodega	281.4
+Ana Ruiz	Chofer de Carga	358.46
+Luis Gomez	Repartidor	493.56
+Maria Hernandez	Supervisor de Inventarios	792.99
+Roberto Rodriguez	Repartidor	303.53
+Jorge Jimenez	Operador de Empaque	379.67
+Sofia Vasquez	Encargado de Despacho	442.52
+Ana Martinez	Jefe de Almacen	979.27
+Roberto Gomez	Auxiliar de Bodega	299.52
+Pedro Ruiz	Gerente de Logistica	1188.7
+Ana Fernandez	Jefe de Almacen	717.32
+Carlos Jimenez	Operador de Empaque	444.38
+Carmen Fernandez	Supervisor de Inventarios	592.01
+Carlos Perez	Auxiliar de Bodega	352.01
+Luis Fernandez	Inspector de Calidad	492.22
+Sofia Fernandez	Supervisor de Inventarios	565.14
+Elena Hernandez	Inspector de Calidad	656.08
+Roberto Perez	Supervisor de Inventarios	714.69
+Roberto Rodriguez	Gerente de Logistica	1393.65
+Roberto Rodriguez	Jefe de Almacen	938.84
+Carlos Perez	Encargado de Despacho	639.23
+Pedro Gomez	Encargado de Despacho	448.99
+Sofia Jimenez	Encargado de Despacho	663.38
+Roberto Lopez	Encargado de Despacho	470.93
+Roberto Jimenez	Jefe de Almacen	673.67
+Elena Martinez	Encargado de Despacho	578.4
+Roberto Hernandez	Chofer de Carga	395.32
+Pedro Vasquez	Inspector de Calidad	473.6
+Luis Martinez	Auxiliar de Bodega	313.41
+Carmen Martinez	Gerente de Logistica	1037.62
+Sofia Rodriguez	Auxiliar de Bodega	423.23
+Sofia Martinez	Auxiliar de Bodega	355.27
+Maria Ruiz	Operador de Montacargas	486.27
+Carmen Ruiz	Operador de Empaque	430.19
+Luis Gomez	Gerente de Logistica	1016.34
+Pedro Vasquez	Inspector de Calidad	611.67
+Maria Vasquez	Operador de Montacargas	366.99
+Carlos Hernandez	Operador de Empaque	334.88
+Sofia Rodriguez	Encargado de Despacho	501.53
+Pedro Perez	Operador de Empaque	445.34
+Elena Ruiz	Supervisor de Inventarios	629.62
+Carlos Vasquez	Auxiliar de Bodega	351.76
+Carmen Vasquez	Operador de Empaque	408.52
+Sofia Gomez	Supervisor de Inventarios	775.09
+Ana Hernandez	Repartidor	343.72
+Ana Lopez	Auxiliar de Bodega	340.44
+Luis Perez	Jefe de Almacen	888.76
+Carlos Lopez	Gerente de Logistica	1419.82
+Elena Fernandez	Repartidor	256.73
+Ana Gomez	Auxiliar de Bodega	342.54
+Carlos Jimenez	Operador de Montacargas	397.02
+Carlos Jimenez	Encargado de Despacho	580.13
+Roberto Perez	Operador de Empaque	289.47
+Roberto Vasquez	Repartidor	302.64
+Sofia Gomez	Encargado de Despacho	473.67
+Elena Martinez	Inspector de Calidad	502.6
+Ana Vasquez	Repartidor	411.88
+Luis Vasquez	Gerente de Logistica	1461.93
+Luis Vasquez	Gerente de Logistica	1090.38
+Pedro Vasquez	Supervisor de Inventarios	772.43
+Carlos Vasquez	Operador de Empaque	413.83
+Elena Fernandez	Gerente de Logistica	1371.05
+Elena Martinez	Inspector de Calidad	624.87
+Sofia Gomez	Supervisor de Inventarios	700.1
+Roberto Martinez	Jefe de Almacen	967.39
+Carmen Martinez	Repartidor	447.82
+Maria Gomez	Gerente de Logistica	1272.29
+Carlos Lopez	Operador de Montacargas	310.03
+Elena Lopez	Auxiliar de Bodega	434.48
+Carmen Martinez	Operador de Empaque	258.18
+Carmen Gomez	Repartidor	375.5
+Roberto Gomez	Operador de Empaque	323.78
+Elena Ruiz	Repartidor	401.14
+Roberto Ruiz	Operador de Montacargas	476.07
+Carlos Gomez	Repartidor	304.31
+Carlos Gomez	Operador de Empaque	314.25
+Jorge Perez	Operador de Empaque	360.79
+Maria Martinez	Jefe de Almacen	721.95
+Ana Hernandez	Supervisor de Inventarios	549.29
+Carlos Martinez	Auxiliar de Bodega	343.1
+Jorge Ruiz	Operador de Montacargas	580.44
+Luis Lopez	Encargado de Despacho	470.59
+Carlos Rodriguez	Gerente de Logistica	1313.39
+Sofia Ruiz	Encargado de Despacho	525.37
+Pedro Martinez	Inspector de Calidad	531.14
+Ana Jimenez	Encargado de Despacho	670.87
+Sofia Ruiz	Repartidor	366.83
+Luis Martinez	Inspector de Calidad	423.24
+Ana Perez	Gerente de Logistica	1153.57
+Carlos Perez	Supervisor de Inventarios	738.9
+Sofia Ruiz	Inspector de Calidad	635.36
+Jorge Lopez	Auxiliar de Bodega	363.85
+Maria Fernandez	Chofer de Carga	439.83
+Roberto Vasquez	Operador de Empaque	448.63
+Pedro Fernandez	Gerente de Logistica	1430.33
+Elena Fernandez	Inspector de Calidad	513.93
+Roberto Gomez	Encargado de Despacho	600.95
+Jorge Lopez	Auxiliar de Bodega	334.24
+Pedro Vasquez	Chofer de Carga	362.01
+Elena Vasquez	Jefe de Almacen	780.77
+Ana Ruiz	Auxiliar de Bodega	325.15
+Sofia Lopez	Chofer de Carga	482.35
+Ana Gomez	Supervisor de Inventarios	660.8
+Roberto Vasquez	Operador de Empaque	303.71
+Jorge Hernandez	Encargado de Despacho	531.81
+Pedro Perez	Supervisor de Inventarios	521.3
+Ana Ruiz	Repartidor	303.31
+Luis Perez	Inspector de Calidad	428.8
+Jorge Gomez	Chofer de Carga	517.54
+Maria Perez	Operador de Empaque	418.64
+Elena Perez	Inspector de Calidad	599.72
+Sofia Gomez	Gerente de Logistica	1391.77
+Luis Hernandez	Auxiliar de Bodega	339.73
+Ana Fernandez	Operador de Empaque	439.85
+Jorge Lopez	Auxiliar de Bodega	268.51
+Elena Rodriguez	Inspector de Calidad	554.64
+Pedro Perez	Operador de Montacargas	494.98
+Maria Martinez	Jefe de Almacen	719.46
+Maria Hernandez	Gerente de Logistica	1130.55
+Roberto Jimenez	Supervisor de Inventarios	777.04
+Jorge Gomez	Chofer de Carga	387.47
+Roberto Hernandez	Repartidor	287.34
+Roberto Ruiz	Jefe de Almacen	821.23
+Jorge Vasquez	Operador de Empaque	254.66
+Pedro Martinez	Supervisor de Inventarios	749.18
+Sofia Hernandez	Supervisor de Inventarios	788.79
+Carlos Gomez	Gerente de Logistica	1286.26
+Ana Vasquez	Supervisor de Inventarios	733.15
+Carmen Lopez	Auxiliar de Bodega	358.55
+Luis Ruiz	Chofer de Carga	360.01
+Pedro Ruiz	Gerente de Logistica	1155.22
+Sofia Jimenez	Encargado de Despacho	477.62
+Luis Fernandez	Auxiliar de Bodega	332.28
+Carmen Hernandez	Gerente de Logistica	1023.05
+Maria Martinez	Auxiliar de Bodega	293.41
+Sofia Fernandez	Auxiliar de Bodega	261.55
+Carmen Vasquez	Gerente de Logistica	1175.09
+Elena Rodriguez	Jefe de Almacen	904.14
+Maria Martinez	Supervisor de Inventarios	627.81
+Carmen Fernandez	Jefe de Almacen	966.13
+Pedro Hernandez	Operador de Montacargas	327.67
+Sofia Hernandez	Gerente de Logistica	1365.85
+Sofia Gomez	Repartidor	482.9
+Roberto Jimenez	Inspector de Calidad	699.34
+Roberto Martinez	Operador de Empaque	308.71
+Elena Gomez	Chofer de Carga	492.13
+Luis Perez	Jefe de Almacen	957.78
+Luis Ruiz	Auxiliar de Bodega	394.49
+Carmen Fernandez	Inspector de Calidad	505.21
+Ana Perez	Operador de Empaque	314.43
+Maria Martinez	Auxiliar de Bodega	280.82
+Roberto Rodriguez	Inspector de Calidad	664.28
+Ana Vasquez	Operador de Empaque	376.09
+Pedro Vasquez	Repartidor	448.91
+Roberto Hernandez	Chofer de Carga	436.81
+Sofia Lopez	Auxiliar de Bodega	403.86
+Sofia Gomez	Encargado de Despacho	426.39
+Maria Rodriguez	Operador de Empaque	286.2
+Elena Hernandez	Operador de Montacargas	586.81
+Sofia Rodriguez	Repartidor	252.54
+Carmen Jimenez	Chofer de Carga	488.52
+Elena Ruiz	Auxiliar de Bodega	376.27
+Ana Fernandez	Repartidor	447.11
+Elena Lopez	Repartidor	356.44
+Pedro Martinez	Supervisor de Inventarios	784.96
+Carlos Perez	Gerente de Logistica	1247.18
+Sofia Fernandez	Gerente de Logistica	1309.54
+Roberto Jimenez	Operador de Montacargas	320.3
+Luis Gomez	Encargado de Despacho	464.52
+Carlos Fernandez	Operador de Empaque	440.08
+Sofia Fernandez	Jefe de Almacen	819.9
+Maria Hernandez	Repartidor	441.67
+Roberto Gomez	Jefe de Almacen	715.43
+Elena Lopez	Repartidor	470.76
+Ana Perez	Operador de Empaque	400.25
+Jorge Vasquez	Operador de Empaque	306.21
+Carlos Hernandez	Jefe de Almacen	680.83
+Carmen Ruiz	Jefe de Almacen	932.22
+Sofia Martinez	Repartidor	489.84
+Luis Ruiz	Gerente de Logistica	1028.17
+Maria Jimenez	Chofer de Carga	376.17
+Ana Ruiz	Auxiliar de Bodega	379.93
+Luis Rodriguez	Repartidor	326.27
+Luis Vasquez	Inspector de Calidad	419.5
+Sofia Fernandez	Encargado de Despacho	658.84
+Jorge Jimenez	Operador de Montacargas	598.82
+Carmen Ruiz	Auxiliar de Bodega	377.8
+Maria Lopez	Operador de Montacargas	415.52
+Luis Vasquez	Jefe de Almacen	709.56
+Maria Martinez	Auxiliar de Bodega	415.81
+Pedro Lopez	Supervisor de Inventarios	636.24
+Luis Rodriguez	Repartidor	469.86
+Ana Martinez	Encargado de Despacho	693.41
+Luis Hernandez	Auxiliar de Bodega	318.9
+Roberto Perez	Chofer de Carga	453.11
+Roberto Jimenez	Chofer de Carga	493.96
+Roberto Lopez	Supervisor de Inventarios	631.67
+Pedro Hernandez	Chofer de Carga	425.27
+Ana Lopez	Inspector de Calidad	540.4
+Carmen Hernandez	Jefe de Almacen	954.21
+Sofia Rodriguez	Operador de Empaque	272.55
+Maria Perez	Jefe de Almacen	918.17
+Maria Jimenez	Repartidor	414.53
+Roberto Vasquez	Supervisor de Inventarios	538.89
+Carmen Vasquez	Repartidor	287.98
+Carlos Lopez	Encargado de Despacho	677.32
+Carlos Lopez	Encargado de Despacho	488.46
+Carmen Fernandez	Repartidor	257.03
+Elena Rodriguez	Chofer de Carga	531.56
+Pedro Gomez	Operador de Empaque	265.97
+Carmen Gomez	Gerente de Logistica	1256.18
+Jorge Perez	Chofer de Carga	479.96
+Elena Perez	Repartidor	373.55
+Sofia Gomez	Supervisor de Inventarios	765.87
+Elena Rodriguez	Gerente de Logistica	1019.61
+Maria Lopez	Supervisor de Inventarios	742.19
+Sofia Gomez	Inspector de Calidad	532.87
+Sofia Rodriguez	Chofer de Carga	530.18
+Ana Fernandez	Supervisor de Inventarios	714.87
+Pedro Hernandez	Supervisor de Inventarios	774.47
+Maria Lopez	Repartidor	282.66
+Ana Rodriguez	Encargado de Despacho	609.44
+Ana Hernandez	Encargado de Despacho	510.82
+Elena Rodriguez	Encargado de Despacho	690.77
+Elena Martinez	Gerente de Logistica	1474.93
+Carlos Jimenez	Auxiliar de Bodega	408.13
+Carmen Hernandez	Repartidor	437.78
+Carmen Vasquez	Operador de Montacargas	536.97
+Maria Hernandez	Gerente de Logistica	1072.47
+Roberto Perez	Operador de Montacargas	459.22
+Maria Vasquez	Repartidor	494.64
+Maria Lopez	Repartidor	426.0
+Luis Rodriguez	Auxiliar de Bodega	439.94
+Carlos Vasquez	Auxiliar de Bodega	407.99
+Carmen Fernandez	Operador de Empaque	439.41
+Carmen Rodriguez	Gerente de Logistica	1340.26
+Jorge Perez	Auxiliar de Bodega	338.82
+Elena Gomez	Auxiliar de Bodega	317.71
+Sofia Lopez	Inspector de Calidad	633.25
+Carmen Jimenez	Repartidor	461.2
+Roberto Martinez	Jefe de Almacen	650.94
+Carlos Ruiz	Inspector de Calidad	403.69
+Luis Gomez	Supervisor de Inventarios	506.68
+Sofia Ruiz	Inspector de Calidad	565.39
+Elena Hernandez	Auxiliar de Bodega	293.64
+Luis Martinez	Auxiliar de Bodega	419.41
+Ana Martinez	Supervisor de Inventarios	660.78
+Ana Lopez	Supervisor de Inventarios	647.72
+Luis Hernandez	Operador de Empaque	266.16
+Sofia Gomez	Encargado de Despacho	479.13
+Maria Hernandez	Operador de Montacargas	442.85
+Roberto Gomez	Jefe de Almacen	824.45
+Sofia Vasquez	Inspector de Calidad	566.33
+Roberto Gomez	Encargado de Despacho	483.92
+Maria Vasquez	Repartidor	390.35
+Sofia Ruiz	Repartidor	432.2
+Elena Martinez	Chofer de Carga	402.78
+Roberto Lopez	Operador de Montacargas	482.84
+Pedro Gomez	Operador de Empaque	331.04
+Jorge Vasquez	Auxiliar de Bodega	274.62
+Maria Lopez	Supervisor de Inventarios	797.64
+Ana Vasquez	Repartidor	479.38
+Luis Hernandez	Jefe de Almacen	981.99
+Jorge Vasquez	Inspector de Calidad	533.23
+Carmen Ruiz	Repartidor	384.12
+Sofia Jimenez	Operador de Empaque	360.46
+Jorge Rodriguez	Operador de Empaque	250.24
+Roberto Hernandez	Encargado de Despacho	422.02
+Carlos Jimenez	Supervisor de Inventarios	654.13
+Sofia Hernandez	Operador de Empaque	288.38
+Pedro Jimenez	Chofer de Carga	476.19
+Pedro Jimenez	Encargado de Despacho	495.89
+Carlos Lopez	Supervisor de Inventarios	638.41
+Elena Hernandez	Operador de Empaque	449.06
+Maria Lopez	Encargado de Despacho	506.8
+Elena Gomez	Repartidor	422.2
+Sofia Ruiz	Supervisor de Inventarios	587.53
+Carlos Martinez	Repartidor	473.07
+Ana Fernandez	Jefe de Almacen	984.1
+Sofia Ruiz	Encargado de Despacho	510.5
+Carmen Fernandez	Encargado de Despacho	428.74
+Sofia Hernandez	Operador de Montacargas	460.17
+Jorge Hernandez	Supervisor de Inventarios	616.17
+Carmen Perez	Chofer de Carga	417.04
+Elena Gomez	Encargado de Despacho	475.26
+Carlos Vasquez	Chofer de Carga	525.53
+Jorge Jimenez	Gerente de Logistica	1161.98
+Carmen Vasquez	Supervisor de Inventarios	713.16
+Pedro Vasquez	Repartidor	354.61
+Carlos Fernandez	Gerente de Logistica	1043.91
+Roberto Fernandez	Inspector de Calidad	665.32
+Sofia Vasquez	Repartidor	391.3
+Carlos Lopez	Jefe de Almacen	735.71
+Ana Hernandez	Inspector de Calidad	526.56
+Jorge Rodriguez	Inspector de Calidad	696.79
+Sofia Jimenez	Inspector de Calidad	411.87
+Jorge Gomez	Jefe de Almacen	989.9
+Roberto Hernandez	Encargado de Despacho	635.55
+Ana Gomez	Inspector de Calidad	523.47
+Sofia Perez	Gerente de Logistica	1346.85
+Pedro Gomez	Chofer de Carga	548.08
+Pedro Perez	Operador de Empaque	402.02
+Carmen Hernandez	Chofer de Carga	536.5
+Ana Fernandez	Jefe de Almacen	941.84
+Pedro Perez	Gerente de Logistica	1112.59
+Sofia Lopez	Inspector de Calidad	660.55
+Pedro Martinez	Repartidor	386.31
+Roberto Hernandez	Supervisor de Inventarios	726.37
+Ana Rodriguez	Repartidor	398.18
+Pedro Rodriguez	Auxiliar de Bodega	390.68
+Elena Perez	Operador de Montacargas	508.97
+Pedro Lopez	Auxiliar de Bodega	361.83
+Jorge Martinez	Encargado de Despacho	457.9
+Luis Hernandez	Repartidor	373.14
+Carlos Martinez	Inspector de Calidad	530.52
+Sofia Perez	Supervisor de Inventarios	644.27
+Carlos Ruiz	Operador de Montacargas	481.04
+Roberto Rodriguez	Jefe de Almacen	939.9
+Luis Hernandez	Jefe de Almacen	895.04
+Luis Ruiz	Supervisor de Inventarios	669.77
+Elena Ruiz	Encargado de Despacho	460.1
+Luis Lopez	Inspector de Calidad	426.31
+Sofia Rodriguez	Jefe de Almacen	713.83
+Pedro Ruiz	Operador de Empaque	397.44
+Carlos Fernandez	Encargado de Despacho	477.31
+Elena Gomez	Operador de Empaque	343.23
+Jorge Jimenez	Chofer de Carga	505.07
+Carlos Ruiz	Gerente de Logistica	1211.93
+Jorge Rodriguez	Supervisor de Inventarios	728.44
+Elena Jimenez	Jefe de Almacen	995.99
+Carmen Jimenez	Encargado de Despacho	563.31
+Jorge Ruiz	Jefe de Almacen	744.86
+Carlos Hernandez	Jefe de Almacen	991.89
+Carlos Gomez	Gerente de Logistica	1447.42
+Maria Jimenez	Chofer de Carga	522.58
+Roberto Fernandez	Operador de Montacargas	407.16
+Carlos Lopez	Jefe de Almacen	933.67
+Jorge Jimenez	Chofer de Carga	319.17
+Sofia Rodriguez	Operador de Montacargas	588.59
+Carlos Ruiz	Chofer de Carga	390.05
+Sofia Gomez	Supervisor de Inventarios	579.53
+Carlos Ruiz	Operador de Montacargas	473.78
+Maria Rodriguez	Operador de Montacargas	589.0
+Pedro Gomez	Inspector de Calidad	580.54
+Elena Vasquez	Inspector de Calidad	490.04
+Elena Fernandez	Chofer de Carga	502.18
+Maria Vasquez	Auxiliar de Bodega	301.49
+Luis Perez	Operador de Montacargas	476.36
+Luis Jimenez	Operador de Montacargas	361.86
+Ana Lopez	Inspector de Calidad	509.56
+Sofia Hernandez	Supervisor de Inventarios	779.55
+Sofia Vasquez	Inspector de Calidad	525.08
+Maria Rodriguez	Encargado de Despacho	698.11
+Ana Gomez	Inspector de Calidad	415.36
+Ana Gomez	Inspector de Calidad	468.64
+Luis Hernandez	Gerente de Logistica	1197.69
+Elena Ruiz	Operador de Montacargas	401.49
+Sofia Vasquez	Chofer de Carga	385.22
+Carmen Fernandez	Encargado de Despacho	451.69
+Sofia Vasquez	Auxiliar de Bodega	314.9
+Ana Gomez	Repartidor	475.77
+Luis Martinez	Inspector de Calidad	411.04
+Roberto Lopez	Chofer de Carga	415.08
+Sofia Lopez	Chofer de Carga	403.49
+Jorge Gomez	Inspector de Calidad	460.82
+Ana Perez	Chofer de Carga	383.24
+Pedro Martinez	Jefe de Almacen	926.29
+Pedro Fernandez	Gerente de Logistica	1202.12
+Elena Martinez	Auxiliar de Bodega	365.84
+Ana Martinez	Gerente de Logistica	1064.53
+Carmen Gomez	Chofer de Carga	348.9
+Carmen Vasquez	Auxiliar de Bodega	377.1
+Maria Ruiz	Encargado de Despacho	583.64
+Carmen Martinez	Gerente de Logistica	1082.24
+Carmen Ruiz	Encargado de Despacho	433.52
+Jorge Vasquez	Encargado de Despacho	643.62
+Carlos Rodriguez	Auxiliar de Bodega	298.84
+Ana Martinez	Chofer de Carga	516.03
+Pedro Gomez	Operador de Montacargas	537.37
+Pedro Gomez	Repartidor	485.85
+Ana Perez	Auxiliar de Bodega	386.78
+Roberto Fernandez	Gerente de Logistica	1476.21
+Elena Gomez	Supervisor de Inventarios	704.8
+Sofia Rodriguez	Jefe de Almacen	967.76
+Carlos Vasquez	Chofer de Carga	374.54
+Carmen Jimenez	Jefe de Almacen	652.87
+Elena Gomez	Operador de Empaque	308.73
+Jorge Lopez	Supervisor de Inventarios	743.6
+Luis Jimenez	Chofer de Carga	523.3
+Carmen Vasquez	Operador de Empaque	270.81
+Ana Lopez	Supervisor de Inventarios	788.53
+Maria Fernandez	Operador de Montacargas	329.02
+Roberto Rodriguez	Auxiliar de Bodega	305.43
+Carlos Fernandez	Operador de Montacargas	523.81
+Carmen Lopez	Jefe de Almacen	950.49
+Carmen Rodriguez	Jefe de Almacen	830.61
+Ana Rodriguez	Inspector de Calidad	663.19
+Carmen Jimenez	Operador de Empaque	366.15
+Sofia Perez	Encargado de Despacho	493.8
+Maria Vasquez	Operador de Empaque	334.43
+Sofia Fernandez	Encargado de Despacho	482.63
+Jorge Fernandez	Supervisor de Inventarios	758.15
+Maria Hernandez	Operador de Empaque	380.24
+Jorge Vasquez	Operador de Montacargas	345.91
+Carmen Martinez	Operador de Montacargas	390.5
+Pedro Vasquez	Auxiliar de Bodega	395.95
+Maria Rodriguez	Repartidor	270.24
+Luis Ruiz	Auxiliar de Bodega	330.08
+Carmen Fernandez	Chofer de Carga	391.27
+Carlos Lopez	Operador de Empaque	285.79
+Carmen Hernandez	Repartidor	253.96
+Pedro Fernandez	Jefe de Almacen	623.96
+Carlos Fernandez	Encargado de Despacho	413.67
+Ana Hernandez	Operador de Empaque	328.82
+Pedro Hernandez	Supervisor de Inventarios	571.9
+Pedro Jimenez	Operador de Montacargas	507.15
+Roberto Martinez	Supervisor de Inventarios	735.04
+Pedro Hernandez	Gerente de Logistica	1292.91
+Maria Perez	Supervisor de Inventarios	504.55
+Jorge Lopez	Inspector de Calidad	442.49
+Carmen Fernandez	Gerente de Logistica	1375.55
+Pedro Gomez	Auxiliar de Bodega	428.74
+Carmen Rodriguez	Auxiliar de Bodega	383.95
+Elena Hernandez	Auxiliar de Bodega	266.62
+Roberto Martinez	Jefe de Almacen	766.56
+Jorge Gomez	Auxiliar de Bodega	336.26
+Luis Hernandez	Auxiliar de Bodega	418.17
+Luis Martinez	Auxiliar de Bodega	344.55
+Pedro Perez	Encargado de Despacho	665.78
+Sofia Rodriguez	Auxiliar de Bodega	395.61
+Maria Ruiz	Operador de Empaque	267.5
+Roberto Rodriguez	Chofer de Carga	421.63
+Sofia Hernandez	Encargado de Despacho	424.11
+Jorge Lopez	Encargado de Despacho	541.94
+Luis Rodriguez	Inspector de Calidad	562.57
+Ana Jimenez	Chofer de Carga	417.28
+Maria Hernandez	Encargado de Despacho	496.55
+Roberto Martinez	Supervisor de Inventarios	752.42
+Roberto Vasquez	Chofer de Carga	370.26
+Luis Perez	Chofer de Carga	531.26
+Luis Hernandez	Encargado de Despacho	416.84
+Carlos Martinez	Operador de Montacargas	510.13
+Carmen Martinez	Repartidor	370.43
+Carlos Jimenez	Gerente de Logistica	1407.69
+Sofia Lopez	Repartidor	373.73
+Carmen Martinez	Supervisor de Inventarios	554.46
+Maria Gomez	Encargado de Despacho	465.04
+Ana Martinez	Encargado de Despacho	443.95
+Pedro Vasquez	Operador de Empaque	301.67
+Jorge Martinez	Repartidor	490.15
+Pedro Perez	Encargado de Despacho	604.44
+Ana Lopez	Inspector de Calidad	534.47
+Pedro Ruiz	Encargado de Despacho	531.18
+Sofia Ruiz	Operador de Empaque	280.41
+Sofia Hernandez	Encargado de Despacho	689.38
+Carmen Lopez	Jefe de Almacen	986.87
+Pedro Fernandez	Auxiliar de Bodega	271.2
+Jorge Fernandez	Supervisor de Inventarios	746.85
+Ana Perez	Inspector de Calidad	676.92
+Pedro Vasquez	Auxiliar de Bodega	412.27
+Carlos Lopez	Encargado de Despacho	465.07
+Luis Vasquez	Chofer de Carga	488.94
+Luis Martinez	Chofer de Carga	458.58
+Luis Jimenez	Inspector de Calidad	538.22
+Carmen Hernandez	Operador de Empaque	255.41
+Carlos Fernandez	Encargado de Despacho	434.26
+Carlos Gomez	Auxiliar de Bodega	310.4
+Jorge Fernandez	Gerente de Logistica	1119.84
+Maria Gomez	Repartidor	258.01
+Elena Vasquez	Jefe de Almacen	969.58
+Jorge Hernandez	Inspector de Calidad	511.9
+Carlos Lopez	Jefe de Almacen	841.64
+Pedro Jimenez	Encargado de Despacho	681.38
+Roberto Perez	Supervisor de Inventarios	742.85
+Jorge Hernandez	Supervisor de Inventarios	533.51
+Elena Hernandez	Gerente de Logistica	1435.74
+Roberto Hernandez	Supervisor de Inventarios	798.25
+Jorge Martinez	Jefe de Almacen	688.37
+Elena Martinez	Supervisor de Inventarios	592.82
+Jorge Rodriguez	Operador de Empaque	387.36
+Maria Rodriguez	Operador de Empaque	314.09
+Elena Rodriguez	Inspector de Calidad	632.73
+Elena Rodriguez	Gerente de Logistica	1267.1
+Ana Vasquez	Gerente de Logistica	1056.39
+Carmen Rodriguez	Operador de Empaque	312.58
+Roberto Lopez	Auxiliar de Bodega	283.81
+Carlos Lopez	Gerente de Logistica	1017.67
+Roberto Vasquez	Inspector de Calidad	403.45
+Carlos Hernandez	Jefe de Almacen	905.49
+Maria Hernandez	Inspector de Calidad	609.76
+Carmen Hernandez	Operador de Montacargas	420.2
+Sofia Lopez	Supervisor de Inventarios	539.85
+Sofia Gomez	Supervisor de Inventarios	608.64
+Luis Hernandez	Chofer de Carga	512.62
+Carmen Rodriguez	Encargado de Despacho	507.91
+Ana Martinez	Supervisor de Inventarios	718.24
+Carmen Lopez	Encargado de Despacho	666.4
+Elena Vasquez	Jefe de Almacen	747.51
+Roberto Perez	Gerente de Logistica	1295.14
+Elena Jimenez	Supervisor de Inventarios	704.75
+Elena Fernandez	Inspector de Calidad	599.49
+Carmen Perez	Operador de Montacargas	314.74
+Jorge Hernandez	Jefe de Almacen	718.74
+Sofia Ruiz	Operador de Montacargas	305.5
+Roberto Fernandez	Gerente de Logistica	1282.82
+Sofia Vasquez	Auxiliar de Bodega	424.55
+Roberto Fernandez	Operador de Empaque	250.79
+Maria Rodriguez	Auxiliar de Bodega	286.82
+Pedro Fernandez	Repartidor	467.66
+Maria Martinez	Supervisor de Inventarios	592.89
+Pedro Perez	Auxiliar de Bodega	433.99
+Luis Vasquez	Supervisor de Inventarios	621.53
+Pedro Vasquez	Gerente de Logistica	1466.4
+Roberto Jimenez	Encargado de Despacho	462.3
+Pedro Lopez	Jefe de Almacen	799.93
+Jorge Lopez	Inspector de Calidad	511.19
+Elena Fernandez	Jefe de Almacen	798.49
+Elena Lopez	Encargado de Despacho	435.86
+Pedro Fernandez	Operador de Montacargas	519.69
+Elena Martinez	Jefe de Almacen	838.6
+Carlos Rodriguez	Operador de Empaque	350.71
+Pedro Jimenez	Inspector de Calidad	680.38
+Maria Rodriguez	Gerente de Logistica	1172.01
+Maria Rodriguez	Operador de Montacargas	360.5
+Jorge Lopez	Repartidor	360.93
+Roberto Lopez	Jefe de Almacen	776.14
+Luis Vasquez	Chofer de Carga	485.87
+Carlos Gomez	Gerente de Logistica	1390.15
+Carmen Lopez	Inspector de Calidad	408.16
+Carlos Perez	Inspector de Calidad	467.63
+Roberto Lopez	Jefe de Almacen	957.36
+Roberto Jimenez	Repartidor	474.14
+Sofia Lopez	Inspector de Calidad	619.54
+Ana Gomez	Encargado de Despacho	642.71
+Carmen Gomez	Repartidor	384.71
+Elena Hernandez	Operador de Montacargas	343.6
+Luis Rodriguez	Gerente de Logistica	1040.92
+Jorge Martinez	Inspector de Calidad	465.53
+Carlos Martinez	Repartidor	263.96
+Sofia Gomez	Inspector de Calidad	672.07
+Jorge Hernandez	Chofer de Carga	382.22
+Carmen Vasquez	Repartidor	487.76
+Maria Fernandez	Chofer de Carga	496.34
+Jorge Jimenez	Jefe de Almacen	986.2
+Maria Rodriguez	Encargado de Despacho	583.73
+Maria Vasquez	Operador de Empaque	336.53
+Ana Perez	Auxiliar de Bodega	396.9
+Maria Hernandez	Operador de Empaque	356.63
+Jorge Fernandez	Encargado de Despacho	543.12
+Elena Rodriguez	Auxiliar de Bodega	399.9
+Pedro Ruiz	Gerente de Logistica	1333.44
+Maria Fernandez	Supervisor de Inventarios	747.94
+Carlos Vasquez	Repartidor	270.06
+Luis Hernandez	Supervisor de Inventarios	714.11
+Carmen Fernandez	Operador de Montacargas	308.48
+Luis Hernandez	Supervisor de Inventarios	509.41
+Pedro Hernandez	Encargado de Despacho	429.66
+Pedro Gomez	Auxiliar de Bodega	282.35
+Ana Fernandez	Gerente de Logistica	1073.26
+Sofia Jimenez	Inspector de Calidad	513.47
+Elena Gomez	Operador de Montacargas	562.62
+Maria Perez	Chofer de Carga	365.22
+Roberto Fernandez	Supervisor de Inventarios	532.57
+Maria Fernandez	Operador de Montacargas	503.61
+Sofia Martinez	Operador de Montacargas	429.63
+Elena Perez	Operador de Empaque	419.95
+Maria Vasquez	Jefe de Almacen	903.06
+Elena Ruiz	Encargado de Despacho	490.73
+Sofia Hernandez	Operador de Montacargas	351.35
+Maria Rodriguez	Operador de Montacargas	559.02
+Carlos Vasquez	Chofer de Carga	548.15
+Roberto Hernandez	Gerente de Logistica	1342.18
+Jorge Fernandez	Jefe de Almacen	680.2
+Luis Gomez	Supervisor de Inventarios	678.88
+Jorge Ruiz	Operador de Montacargas	556.38
+Pedro Hernandez	Operador de Montacargas	435.84
+Elena Hernandez	Jefe de Almacen	789.09
+Carmen Fernandez	Jefe de Almacen	611.17
+Luis Martinez	Auxiliar de Bodega	449.02
+Jorge Jimenez	Jefe de Almacen	650.81
+Sofia Lopez	Gerente de Logistica	1006.19
+Elena Fernandez	Inspector de Calidad	690.08
+Pedro Martinez	Repartidor	422.67
+Carmen Lopez	Supervisor de Inventarios	622.75
+Carmen Jimenez	Operador de Montacargas	511.48
+Pedro Hernandez	Supervisor de Inventarios	527.39
+Carmen Jimenez	Inspector de Calidad	407.51
+Luis Rodriguez	Jefe de Almacen	914.43
+Maria Perez	Auxiliar de Bodega	399.81
+Elena Fernandez	Chofer de Carga	440.79
+Sofia Jimenez	Repartidor	487.05
+Ana Lopez	Repartidor	387.71
+Roberto Fernandez	Operador de Montacargas	411.64
+Roberto Hernandez	Supervisor de Inventarios	787.79
+Luis Perez	Chofer de Carga	323.54
+Carmen Lopez	Repartidor	292.29
+Sofia Jimenez	Repartidor	424.03
+Pedro Martinez	Operador de Montacargas	512.39
+Sofia Ruiz	Operador de Montacargas	536.0
+Sofia Fernandez	Jefe de Almacen	744.49
+Roberto Perez	Encargado de Despacho	569.22
+Luis Rodriguez	Operador de Montacargas	397.75
+Jorge Rodriguez	Auxiliar de Bodega	293.93
+Carlos Vasquez	Chofer de Carga	318.51
+Jorge Vasquez	Chofer de Carga	388.31
+Carlos Jimenez	Jefe de Almacen	838.24
+Pedro Hernandez	Gerente de Logistica	1252.73
+Maria Hernandez	Operador de Empaque	302.93
+Ana Gomez	Inspector de Calidad	472.65
+Carmen Fernandez	Chofer de Carga	472.51
+Jorge Hernandez	Supervisor de Inventarios	580.04
+Ana Martinez	Repartidor	400.42
+Ana Ruiz	Repartidor	290.36
+Carlos Gomez	Repartidor	374.69
+Ana Ruiz	Chofer de Carga	383.93
+Pedro Rodriguez	Operador de Empaque	387.3
+Roberto Fernandez	Inspector de Calidad	605.75
+Maria Ruiz	Auxiliar de Bodega	426.52
+Ana Hernandez	Operador de Montacargas	419.4
+Luis Lopez	Gerente de Logistica	1361.32
+Luis Vasquez	Inspector de Calidad	513.2
+Elena Hernandez	Chofer de Carga	454.71
+Luis Rodriguez	Supervisor de Inventarios	564.3
+Sofia Martinez	Repartidor	465.59
+Sofia Lopez	Supervisor de Inventarios	736.19
+Pedro Martinez	Inspector de Calidad	574.91
+Roberto Perez	Supervisor de Inventarios	757.82
+Carlos Perez	Repartidor	451.7
+Pedro Lopez	Chofer de Carga	487.98
+Pedro Hernandez	Inspector de Calidad	684.33
+Sofia Martinez	Operador de Montacargas	427.84
+Ana Lopez	Chofer de Carga	394.54
+Carmen Martinez	Jefe de Almacen	999.35
+Luis Jimenez	Inspector de Calidad	450.76
+Carmen Jimenez	Gerente de Logistica	1040.74
+Pedro Vasquez	Chofer de Carga	513.35
+Carmen Ruiz	Encargado de Despacho	637.3
+Elena Perez	Gerente de Logistica	1394.13
+Ana Perez	Encargado de Despacho	474.7
+Roberto Jimenez	Operador de Montacargas	335.07
+Carlos Gomez	Operador de Empaque	307.93
+Carlos Martinez	Operador de Empaque	361.01
+Carmen Vasquez	Repartidor	383.0
+Elena Vasquez	Supervisor de Inventarios	518.29
+Ana Rodriguez	Inspector de Calidad	683.21
+Carlos Perez	Inspector de Calidad	623.7
+Roberto Ruiz	Operador de Montacargas	520.52
+Elena Vasquez	Chofer de Carga	465.18
+Elena Vasquez	Encargado de Despacho	586.46
+Luis Perez	Chofer de Carga	447.74
+Maria Vasquez	Chofer de Carga	539.66
+Sofia Martinez	Inspector de Calidad	674.17
+Roberto Hernandez	Encargado de Despacho	416.63
+Roberto Martinez	Operador de Empaque	438.76
+Luis Hernandez	Operador de Empaque	411.17
+Roberto Hernandez	Operador de Empaque	425.49
+Sofia Rodriguez	Repartidor	375.69
+Carmen Lopez	Operador de Empaque	304.43
+Ana Ruiz	Jefe de Almacen	995.15
+Jorge Jimenez	Gerente de Logistica	1131.93
+Roberto Jimenez	Auxiliar de Bodega	367.54
+Elena Gomez	Supervisor de Inventarios	599.43
+Maria Perez	Inspector de Calidad	497.19
+Elena Martinez	Operador de Montacargas	303.37
+Pedro Vasquez	Gerente de Logistica	1208.22
+Elena Hernandez	Operador de Montacargas	486.01
+Luis Gomez	Chofer de Carga	308.74
+Sofia Rodriguez	Operador de Empaque	419.48
+Carlos Ruiz	Jefe de Almacen	779.71
+Roberto Gomez	Jefe de Almacen	732.63
+Pedro Jimenez	Repartidor	274.77
+Luis Perez	Auxiliar de Bodega	357.71
+Jorge Hernandez	Jefe de Almacen	713.68
+Sofia Jimenez	Operador de Montacargas	506.24
+Sofia Fernandez	Chofer de Carga	437.81
+Pedro Vasquez	Chofer de Carga	438.04
+Jorge Jimenez	Repartidor	434.24
+Luis Lopez	Encargado de Despacho	413.86
+Roberto Martinez	Gerente de Logistica	1365.86
+Ana Martinez	Auxiliar de Bodega	283.03
+Sofia Fernandez	Chofer de Carga	506.85
+Ana Rodriguez	Operador de Empaque	262.64
+Roberto Gomez	Inspector de Calidad	520.46
+Roberto Jimenez	Inspector de Calidad	484.56
+Luis Rodriguez	Gerente de Logistica	1303.24
+Ana Gomez	Jefe de Almacen	769.62
+Elena Rodriguez	Encargado de Despacho	498.55
+Jorge Perez	Jefe de Almacen	966.96
+Roberto Lopez	Auxiliar de Bodega	390.66
+Carlos Perez	Jefe de Almacen	749.7
+Sofia Martinez	Jefe de Almacen	698.72
+Carlos Vasquez	Jefe de Almacen	712.34
+Roberto Ruiz	Auxiliar de Bodega	270.68
+Maria Fernandez	Repartidor	286.78
+Carmen Hernandez	Inspector de Calidad	548.73
+Elena Gomez	Gerente de Logistica	1371.69
+Carmen Martinez	Jefe de Almacen	750.11
+Sofia Vasquez	Operador de Empaque	384.4
+Jorge Gomez	Operador de Montacargas	328.85
+Jorge Perez	Inspector de Calidad	545.46
+Pedro Perez	Operador de Montacargas	306.83
+Luis Ruiz	Supervisor de Inventarios	511.8
+Elena Fernandez	Operador de Montacargas	472.45
+Carlos Rodriguez	Operador de Empaque	306.29
+Ana Rodriguez	Jefe de Almacen	962.64
+Elena Jimenez	Auxiliar de Bodega	265.35
+Ana Jimenez	Operador de Montacargas	357.71
+Elena Ruiz	Jefe de Almacen	931.54
+Roberto Ruiz	Operador de Montacargas	336.65
+Carlos Hernandez	Jefe de Almacen	680.74
+Carlos Perez	Chofer de Carga	417.78
+Carmen Fernandez	Operador de Empaque	404.46
+Sofia Jimenez	Operador de Montacargas	598.99
+Roberto Hernandez	Jefe de Almacen	907.1
+Pedro Hernandez	Inspector de Calidad	544.36
+Sofia Rodriguez	Gerente de Logistica	1147.91
+Maria Vasquez	Operador de Montacargas	307.48
+Luis Ruiz	Operador de Montacargas	599.17
+Carlos Vasquez	Gerente de Logistica	1304.74
+Jorge Gomez	Operador de Empaque	370.95
+Jorge Hernandez	Repartidor	361.9
+Jorge Rodriguez	Supervisor de Inventarios	583.73
+Pedro Jimenez	Auxiliar de Bodega	281.84
+Luis Vasquez	Operador de Empaque	423.63
+Carmen Gomez	Inspector de Calidad	527.96
+Pedro Jimenez	Operador de Montacargas	569.64
+Sofia Gomez	Supervisor de Inventarios	784.52
+Jorge Jimenez	Operador de Empaque	442.39
+Carlos Hernandez	Operador de Empaque	263.59
+Sofia Fernandez	Jefe de Almacen	940.53
+Luis Lopez	Gerente de Logistica	1245.75
+Carlos Vasquez	Repartidor	320.89
+Luis Vasquez	Gerente de Logistica	1127.37
+Luis Perez	Chofer de Carga	403.34
+Ana Hernandez	Operador de Empaque	403.48
+Ana Jimenez	Supervisor de Inventarios	728.92
+Jorge Rodriguez	Gerente de Logistica	1445.95
+Roberto Gomez	Gerente de Logistica	1397.23
+Roberto Ruiz	Auxiliar de Bodega	405.6
+Carmen Rodriguez	Repartidor	396.68
+Maria Ruiz	Operador de Montacargas	320.31
+Maria Vasquez	Encargado de Despacho	403.05
+Ana Perez	Chofer de Carga	374.03
+Elena Perez	Supervisor de Inventarios	570.37
+Sofia Rodriguez	Supervisor de Inventarios	798.47
+Ana Vasquez	Chofer de Carga	499.13
+Luis Jimenez	Operador de Empaque	278.56
+Luis Rodriguez	Encargado de Despacho	402.92
+Ana Hernandez	Inspector de Calidad	649.29
+Ana Ruiz	Operador de Montacargas	444.72
+Carlos Lopez	Operador de Empaque	275.92
+Carmen Perez	Auxiliar de Bodega	279.31
+Pedro Jimenez	Repartidor	413.23
+Luis Martinez	Auxiliar de Bodega	257.27
+Maria Rodriguez	Jefe de Almacen	848.29
+Ana Vasquez	Jefe de Almacen	662.86
+Ana Martinez	Auxiliar de Bodega	262.94
+Maria Vasquez	Chofer de Carga	412.82
+Maria Martinez	Gerente de Logistica	1122.81
+Pedro Jimenez	Repartidor	331.62
+Carlos Gomez	Gerente de Logistica	1359.74
+Luis Fernandez	Jefe de Almacen	757.49
+Ana Gomez	Chofer de Carga	388.81
+Maria Hernandez	Supervisor de Inventarios	636.87
+Maria Martinez	Encargado de Despacho	561.98
+Jorge Martinez	Jefe de Almacen	877.73
+Sofia Martinez	Jefe de Almacen	888.72
+Luis Vasquez	Operador de Montacargas	580.03
+Elena Vasquez	Operador de Empaque	440.65
+Pedro Jimenez	Jefe de Almacen	718.58
+Maria Perez	Encargado de Despacho	525.38
+Pedro Ruiz	Repartidor	446.09
+Jorge Jimenez	Encargado de Despacho	698.74
+Pedro Jimenez	Chofer de Carga	300.96
+Jorge Hernandez	Operador de Empaque	322.37
+Carlos Hernandez	Repartidor	466.4
+Carlos Lopez	Encargado de Despacho	644.3
+Elena Gomez	Gerente de Logistica	1086.3
+Roberto Rodriguez	Repartidor	338.41
+Elena Hernandez	Chofer de Carga	541.17
+Elena Martinez	Auxiliar de Bodega	292.12
+Pedro Jimenez	Operador de Empaque	364.04
+Jorge Ruiz	Repartidor	388.61
+Sofia Hernandez	Gerente de Logistica	1322.64
+Elena Perez	Operador de Empaque	326.87
+Ana Fernandez	Repartidor	404.47
+Elena Vasquez	Jefe de Almacen	689.33
+Luis Hernandez	Operador de Montacargas	536.71
+Carlos Vasquez	Operador de Montacargas	319.62
+Jorge Martinez	Inspector de Calidad	473.91
+Luis Vasquez	Operador de Montacargas	376.63
+Ana Gomez	Operador de Montacargas	511.26
+Carmen Jimenez	Jefe de Almacen	830.37
+Carlos Vasquez	Gerente de Logistica	1022.48
+Luis Gomez	Operador de Montacargas	376.32
+Elena Martinez	Chofer de Carga	371.92
+Roberto Lopez	Operador de Montacargas	512.05
+Carmen Hernandez	Auxiliar de Bodega	259.16
+Carmen Perez	Encargado de Despacho	620.49
+Pedro Rodriguez	Repartidor	321.32
+Maria Martinez	Jefe de Almacen	802.52
+Sofia Ruiz	Chofer de Carga	347.81
+Luis Hernandez	Operador de Montacargas	481.65
+Carlos Perez	Inspector de Calidad	539.19
+Luis Gomez	Inspector de Calidad	659.43
+Pedro Fernandez	Operador de Montacargas	494.42
+Jorge Lopez	Operador de Montacargas	415.0
+Sofia Vasquez	Operador de Empaque	425.44
+Carlos Jimenez	Repartidor	448.76
+Maria Hernandez	Operador de Empaque	349.23
+Elena Perez	Jefe de Almacen	967.89
+Ana Hernandez	Supervisor de Inventarios	784.88
+Elena Ruiz	Operador de Empaque	297.27
+Maria Perez	Jefe de Almacen	825.42
+Roberto Gomez	Chofer de Carga	524.01
+Ana Gomez	Inspector de Calidad	519.9
+Maria Perez	Encargado de Despacho	573.82
+Jorge Gomez	Encargado de Despacho	517.27
+Elena Hernandez	Chofer de Carga	314.42
+Elena Martinez	Repartidor	392.21
+Maria Jimenez	Chofer de Carga	412.71
+Roberto Lopez	Operador de Empaque	423.97
+Maria Ruiz	Auxiliar de Bodega	387.61
+Pedro Ruiz	Supervisor de Inventarios	554.23
+Carlos Gomez	Supervisor de Inventarios	751.33
+Carmen Hernandez	Supervisor de Inventarios	615.21
+Maria Rodriguez	Gerente de Logistica	1257.12
+Jorge Lopez	Inspector de Calidad	546.9
+Roberto Gomez	Operador de Empaque	348.53
+Elena Lopez	Gerente de Logistica	1227.1
+Ana Ruiz	Jefe de Almacen	823.39
+Jorge Hernandez	Encargado de Despacho	651.52
+Sofia Lopez	Encargado de Despacho	562.04
+Sofia Vasquez	Encargado de Despacho	508.15
+Sofia Ruiz	Encargado de Despacho	586.03
+Sofia Fernandez	Repartidor	303.18
+Carmen Vasquez	Supervisor de Inventarios	760.96
+Pedro Fernandez	Repartidor	259.58
+Pedro Martinez	Jefe de Almacen	838.62
+Carmen Gomez	Gerente de Logistica	1369.92
+Carlos Hernandez	Chofer de Carga	309.94
+Sofia Gomez	Jefe de Almacen	984.38
+Maria Fernandez	Jefe de Almacen	828.92
+Jorge Jimenez	Repartidor	441.74
+Elena Vasquez	Inspector de Calidad	456.52
+Luis Rodriguez	Auxiliar de Bodega	261.59
+Roberto Jimenez	Repartidor	387.96
+Roberto Perez	Jefe de Almacen	691.59
+Jorge Martinez	Auxiliar de Bodega	422.37
+Pedro Ruiz	Encargado de Despacho	632.43
+Jorge Martinez	Operador de Empaque	253.12
+Luis Jimenez	Encargado de Despacho	438.47
+Luis Lopez	Repartidor	410.34
+Pedro Hernandez	Jefe de Almacen	713.98
+Roberto Gomez	Supervisor de Inventarios	718.21
+Carlos Fernandez	Operador de Montacargas	381.83
+Carlos Vasquez	Supervisor de Inventarios	534.74
+Ana Vasquez	Gerente de Logistica	1283.4
+Jorge Fernandez	Encargado de Despacho	518.29
+Jorge Perez	Gerente de Logistica	1436.58
+Maria Rodriguez	Jefe de Almacen	605.73
+Carmen Jimenez	Auxiliar de Bodega	328.18
+Sofia Gomez	Repartidor	326.54
+Elena Vasquez	Operador de Empaque	417.37
+Carlos Jimenez	Chofer de Carga	379.06
+Maria Lopez	Jefe de Almacen	653.22
+Sofia Martinez	Supervisor de Inventarios	791.36
+Roberto Martinez	Auxiliar de Bodega	428.36
+Ana Vasquez	Inspector de Calidad	692.12
+Sofia Ruiz	Supervisor de Inventarios	557.22
+Pedro Jimenez	Chofer de Carga	531.7
+Luis Martinez	Jefe de Almacen	642.93
+Maria Martinez	Operador de Empaque	380.06
+Roberto Jimenez	Chofer de Carga	387.89
+Jorge Lopez	Encargado de Despacho	522.35
+Roberto Lopez	Jefe de Almacen	951.88
+Elena Fernandez	Jefe de Almacen	973.2
+Elena Lopez	Inspector de Calidad	549.66
+Jorge Perez	Repartidor	260.31
+Ana Rodriguez	Repartidor	454.45
+Pedro Hernandez	Auxiliar de Bodega	387.64
+Ana Gomez	Supervisor de Inventarios	696.19
+Pedro Jimenez	Operador de Empaque	412.74
+Maria Ruiz	Supervisor de Inventarios	795.3
+Carmen Jimenez	Jefe de Almacen	926.84
+Ana Ruiz	Operador de Empaque	300.42
+Pedro Lopez	Auxiliar de Bodega	338.16
+Jorge Gomez	Gerente de Logistica	1484.19
+Jorge Perez	Chofer de Carga	425.1
+Carlos Rodriguez	Jefe de Almacen	851.56
+Jorge Jimenez	Jefe de Almacen	616.3
+Luis Fernandez	Jefe de Almacen	991.11
+Elena Vasquez	Operador de Montacargas	436.27
+Carmen Vasquez	Gerente de Logistica	1234.57
+Pedro Rodriguez	Encargado de Despacho	587.64
+Jorge Perez	Encargado de Despacho	602.14
+Jorge Jimenez	Chofer de Carga	308.07
+Sofia Jimenez	Inspector de Calidad	526.89
+Carmen Gomez	Inspector de Calidad	585.67
+Roberto Ruiz	Operador de Empaque	426.95
+Elena Rodriguez	Chofer de Carga	474.65
+Roberto Martinez	Auxiliar de Bodega	444.61
+Ana Lopez	Supervisor de Inventarios	554.45
+Maria Perez	Gerente de Logistica	1443.79
+Luis Lopez	Operador de Montacargas	302.22
+Carlos Lopez	Auxiliar de Bodega	265.78
+Jorge Gomez	Chofer de Carga	545.4
+Sofia Fernandez	Operador de Montacargas	506.27
+Roberto Fernandez	Repartidor	378.87
+Elena Rodriguez	Inspector de Calidad	553.13
+Ana Rodriguez	Operador de Empaque	303.88
+Sofia Hernandez	Chofer de Carga	401.06
+Maria Hernandez	Inspector de Calidad	422.36
+Carlos Gomez	Jefe de Almacen	632.86
+Carlos Gomez	Auxiliar de Bodega	346.07
+Sofia Hernandez	Jefe de Almacen	962.4
+Carlos Vasquez	Operador de Montacargas	499.34
+Luis Perez	Supervisor de Inventarios	699.18
+Roberto Lopez	Inspector de Calidad	502.03
+Carlos Gomez	Chofer de Carga	465.68
+Ana Rodriguez	Chofer de Carga	478.09
+Elena Lopez	Auxiliar de Bodega	391.48
+Carlos Rodriguez	Operador de Empaque	319.56
+Sofia Rodriguez	Jefe de Almacen	698.0
+Elena Ruiz	Inspector de Calidad	561.06
+Luis Gomez	Chofer de Carga	515.1
+Elena Ruiz	Encargado de Despacho	551.13
+Ana Vasquez	Chofer de Carga	514.71
+Sofia Hernandez	Auxiliar de Bodega	309.82
+Ana Rodriguez	Gerente de Logistica	1108.0
+Maria Rodriguez	Repartidor	379.34
+Carmen Rodriguez	Operador de Empaque	297.27
+Roberto Hernandez	Inspector de Calidad	649.49
+Pedro Hernandez	Inspector de Calidad	608.51
+Luis Lopez	Chofer de Carga	321.77
+Pedro Perez	Chofer de Carga	479.46
+Sofia Perez	Jefe de Almacen	772.88
+Maria Lopez	Gerente de Logistica	1126.63
+Luis Lopez	Operador de Empaque	281.82
+Carmen Jimenez	Operador de Empaque	295.44
+Ana Jimenez	Repartidor	475.29
+Carlos Martinez	Repartidor	258.53
+Ana Martinez	Jefe de Almacen	872.81
+Carmen Martinez	Gerente de Logistica	1384.89
+Carlos Perez	Encargado de Despacho	521.97
+Jorge Lopez	Operador de Montacargas	420.73
+Carlos Hernandez	Auxiliar de Bodega	370.81
+Jorge Perez	Inspector de Calidad	623.71
+Elena Ruiz	Gerente de Logistica	1411.19
+Carmen Jimenez	Inspector de Calidad	586.58
+Jorge Lopez	Repartidor	260.6
+Ana Perez	Auxiliar de Bodega	364.67
+Elena Vasquez	Operador de Montacargas	552.11
+Roberto Vasquez	Auxiliar de Bodega	404.22
+Maria Gomez	Chofer de Carga	499.71
+Carlos Gomez	Operador de Empaque	412.59
+Ana Vasquez	Inspector de Calidad	627.28
+Ana Gomez	Jefe de Almacen	744.78
+Sofia Vasquez	Repartidor	390.14
+Sofia Hernandez	Encargado de Despacho	581.23
+Carmen Perez	Gerente de Logistica	1471.75
+Maria Fernandez	Jefe de Almacen	627.67
+Carmen Vasquez	Operador de Montacargas	448.95
+Carmen Jimenez	Repartidor	345.97
+Jorge Fernandez	Operador de Empaque	423.93
+Sofia Jimenez	Supervisor de Inventarios	521.95
+Pedro Martinez	Gerente de Logistica	1342.42
+Ana Martinez	Chofer de Carga	447.24
+Roberto Lopez	Chofer de Carga	483.39
+Elena Rodriguez	Repartidor	311.8
+Carlos Vasquez	Supervisor de Inventarios	545.46
+Roberto Lopez	Jefe de Almacen	978.25
+Maria Ruiz	Auxiliar de Bodega	379.85
+Maria Jimenez	Operador de Empaque	437.3
+Sofia Ruiz	Encargado de Despacho	559.06
+Jorge Ruiz	Operador de Empaque	367.74
+Carmen Martinez	Repartidor	271.23
+Pedro Perez	Repartidor	415.09
+Maria Rodriguez	Inspector de Calidad	513.46
+Elena Vasquez	Operador de Empaque	378.2
+Roberto Lopez	Operador de Empaque	372.19
+Roberto Rodriguez	Operador de Montacargas	447.34
+Roberto Martinez	Gerente de Logistica	1273.06
+Ana Martinez	Gerente de Logistica	1358.96
+Carlos Gomez	Supervisor de Inventarios	671.92
+Pedro Fernandez	Supervisor de Inventarios	616.36
+Pedro Martinez	Encargado de Despacho	559.04
+Ana Perez	Jefe de Almacen	795.77
+Roberto Perez	Encargado de Despacho	566.62
+Maria Hernandez	Operador de Montacargas	349.21
+Maria Jimenez	Jefe de Almacen	694.66
+Pedro Gomez	Encargado de Despacho	536.16
+Carmen Lopez	Jefe de Almacen	867.57
+Ana Jimenez	Operador de Montacargas	341.62
+Luis Martinez	Gerente de Logistica	1193.9
+Elena Martinez	Inspector de Calidad	497.37
+Elena Martinez	Supervisor de Inventarios	571.88
+Ana Gomez	Encargado de Despacho	686.71
+Jorge Hernandez	Encargado de Despacho	657.55
+Jorge Perez	Jefe de Almacen	618.53
+Elena Lopez	Chofer de Carga	329.76
+Luis Fernandez	Encargado de Despacho	565.32
+Carlos Ruiz	Chofer de Carga	312.66
+Maria Fernandez	Encargado de Despacho	536.12
+Carmen Perez	Operador de Empaque	295.13
+Pedro Gomez	Chofer de Carga	312.65
+Carlos Perez	Repartidor	397.26
+Carmen Jimenez	Encargado de Despacho	646.7
+Luis Jimenez	Repartidor	498.07
+Pedro Gomez	Inspector de Calidad	698.41
+Luis Vasquez	Operador de Montacargas	521.88
+Carmen Hernandez	Encargado de Despacho	540.28
+Jorge Martinez	Supervisor de Inventarios	725.98
+Elena Gomez	Jefe de Almacen	612.67
+Carmen Gomez	Gerente de Logistica	1159.91
+Jorge Hernandez	Encargado de Despacho	616.66
+Sofia Ruiz	Repartidor	297.52
+Ana Ruiz	Jefe de Almacen	773.89
+Ana Rodriguez	Jefe de Almacen	937.8
+Pedro Hernandez	Jefe de Almacen	680.21
+Roberto Vasquez	Operador de Montacargas	472.98
+Pedro Rodriguez	Jefe de Almacen	902.82
+Maria Hernandez	Repartidor	382.22
+Carmen Gomez	Auxiliar de Bodega	363.16
+Maria Perez	Chofer de Carga	330.2
+Jorge Gomez	Chofer de Carga	507.77
+Sofia Hernandez	Operador de Montacargas	378.74
+Carmen Hernandez	Operador de Montacargas	548.98
+Sofia Martinez	Gerente de Logistica	1424.08
+Pedro Ruiz	Chofer de Carga	483.85
+Elena Ruiz	Operador de Empaque	250.08
+Elena Fernandez	Repartidor	419.98
+Ana Martinez	Operador de Empaque	374.0
+Luis Hernandez	Repartidor	290.31
+Elena Ruiz	Jefe de Almacen	971.44
+Jorge Jimenez	Jefe de Almacen	906.82
+Sofia Vasquez	Supervisor de Inventarios	750.64
+Ana Ruiz	Jefe de Almacen	839.83
+Elena Vasquez	Chofer de Carga	364.19
+Carlos Lopez	Operador de Montacargas	313.55
+Carmen Perez	Encargado de Despacho	504.23
+Carlos Gomez	Inspector de Calidad	580.79
+Ana Fernandez	Encargado de Despacho	627.57
+Pedro Vasquez	Operador de Empaque	274.69
+Ana Vasquez	Supervisor de Inventarios	558.52
+Maria Hernandez	Auxiliar de Bodega	293.27
+Ana Martinez	Encargado de Despacho	474.08
+Elena Gomez	Repartidor	258.27
+Maria Rodriguez	Encargado de Despacho	431.02
+Luis Hernandez	Auxiliar de Bodega	349.67
+Roberto Vasquez	Jefe de Almacen	960.11
+Elena Ruiz	Operador de Empaque	321.41
+Luis Hernandez	Jefe de Almacen	909.45
+Roberto Jimenez	Repartidor	303.18
+Elena Martinez	Operador de Empaque	259.21
+Luis Jimenez	Auxiliar de Bodega	361.03
+Carlos Vasquez	Gerente de Logistica	1162.16
+Luis Gomez	Gerente de Logistica	1006.61
+Roberto Lopez	Repartidor	457.13
+Elena Martinez	Inspector de Calidad	502.2
+Elena Gomez	Jefe de Almacen	830.63
+Pedro Martinez	Supervisor de Inventarios	731.34
+Carlos Hernandez	Jefe de Almacen	724.95
+Carmen Martinez	Operador de Empaque	366.87
+Pedro Lopez	Operador de Empaque	426.82
+Sofia Fernandez	Gerente de Logistica	1127.05
+Roberto Ruiz	Chofer de Carga	310.92
+Elena Martinez	Auxiliar de Bodega	431.25
+Luis Vasquez	Encargado de Despacho	611.5
+Pedro Jimenez	Jefe de Almacen	688.85
+Luis Rodriguez	Jefe de Almacen	917.8
+Maria Perez	Encargado de Despacho	532.87
+Maria Hernandez	Operador de Montacargas	510.65
+Carlos Perez	Chofer de Carga	339.93
+Carlos Vasquez	Supervisor de Inventarios	639.84
+Pedro Hernandez	Auxiliar de Bodega	402.69
+Jorge Martinez	Encargado de Despacho	476.05
+Jorge Perez	Inspector de Calidad	699.17
+Carmen Ruiz	Operador de Empaque	352.77
+Jorge Ruiz	Operador de Empaque	437.46
+Sofia Hernandez	Gerente de Logistica	1475.89
+Jorge Vasquez	Repartidor	258.48
+Ana Martinez	Chofer de Carga	417.97
+Sofia Ruiz	Auxiliar de Bodega	384.83
+Sofia Perez	Auxiliar de Bodega	365.89
+Maria Lopez	Operador de Montacargas	438.45
+Luis Fernandez	Gerente de Logistica	1294.4
+Sofia Lopez	Operador de Montacargas	337.17
+Jorge Hernandez	Chofer de Carga	372.26
+Sofia Jimenez	Supervisor de Inventarios	603.67
+Carmen Martinez	Repartidor	479.07
+Jorge Lopez	Gerente de Logistica	1236.91
+Carmen Hernandez	Inspector de Calidad	521.79
+Maria Rodriguez	Auxiliar de Bodega	342.22
+Jorge Martinez	Jefe de Almacen	698.13
+Carmen Perez	Operador de Montacargas	564.67
+Maria Jimenez	Auxiliar de Bodega	271.44
+Roberto Rodriguez	Gerente de Logistica	1454.1
+Maria Gomez	Repartidor	330.42
+Pedro Vasquez	Inspector de Calidad	410.97
+Sofia Vasquez	Jefe de Almacen	673.22
+Jorge Gomez	Inspector de Calidad	445.15
+Carlos Martinez	Chofer de Carga	534.41
+Luis Hernandez	Operador de Montacargas	528.56
+Luis Vasquez	Inspector de Calidad	467.56
+Roberto Ruiz	Operador de Empaque	307.62
+Elena Perez	Supervisor de Inventarios	720.69
+Roberto Fernandez	Chofer de Carga	340.02
+Roberto Jimenez	Encargado de Despacho	557.01
+Carmen Fernandez	Repartidor	397.32
+Maria Lopez	Operador de Empaque	278.25
+Sofia Lopez	Operador de Empaque	444.44
+Carmen Vasquez	Repartidor	366.61
+Roberto Perez	Inspector de Calidad	605.07
+Pedro Rodriguez	Gerente de Logistica	1345.75
+Pedro Perez	Inspector de Calidad	421.08
+Jorge Jimenez	Encargado de Despacho	488.53
+Maria Jimenez	Operador de Empaque	433.49
+Elena Vasquez	Inspector de Calidad	653.93
+Elena Martinez	Supervisor de Inventarios	544.18
+Sofia Vasquez	Gerente de Logistica	1201.22
+Maria Vasquez	Operador de Montacargas	577.05
+Jorge Jimenez	Auxiliar de Bodega	303.63
+Luis Lopez	Supervisor de Inventarios	574.08
+Pedro Perez	Jefe de Almacen	898.43
+Sofia Rodriguez	Inspector de Calidad	679.53
+Roberto Ruiz	Operador de Empaque	270.37
+Luis Gomez	Jefe de Almacen	714.31
+Ana Hernandez	Operador de Montacargas	557.23
+Pedro Ruiz	Operador de Montacargas	447.64
+Luis Martinez	Operador de Montacargas	337.0
+Carmen Vasquez	Encargado de Despacho	566.58
+Elena Hernandez	Auxiliar de Bodega	298.91
+Jorge Vasquez	Gerente de Logistica	1088.28
+Pedro Fernandez	Operador de Empaque	425.04
+Carmen Fernandez	Operador de Montacargas	317.63
+Roberto Perez	Jefe de Almacen	737.79
+Maria Perez	Operador de Empaque	375.77
+Carmen Fernandez	Repartidor	452.47
+Carmen Lopez	Encargado de Despacho	436.75
+Sofia Gomez	Auxiliar de Bodega	388.51
+Elena Lopez	Repartidor	362.11
+Ana Jimenez	Gerente de Logistica	1430.65
+Sofia Gomez	Operador de Empaque	270.56
+Carmen Ruiz	Supervisor de Inventarios	773.26
+Carmen Lopez	Supervisor de Inventarios	700.82
+Elena Fernandez	Operador de Empaque	392.69
+Roberto Perez	Encargado de Despacho	620.8
+Maria Lopez	Encargado de Despacho	535.38
+Pedro Martinez	Auxiliar de Bodega	394.8
+Luis Perez	Supervisor de Inventarios	651.08
+Carmen Perez	Jefe de Almacen	776.68
+Carlos Gomez	Supervisor de Inventarios	773.84
+Sofia Rodriguez	Auxiliar de Bodega	288.3
+Jorge Fernandez	Gerente de Logistica	1404.16
+Roberto Vasquez	Auxiliar de Bodega	323.37
+Sofia Ruiz	Gerente de Logistica	1179.57
+Sofia Martinez	Auxiliar de Bodega	373.72
+Luis Martinez	Operador de Montacargas	403.62
+Ana Ruiz	Chofer de Carga	505.14
+Sofia Hernandez	Operador de Empaque	287.49
+Sofia Jimenez	Supervisor de Inventarios	707.94
+Elena Perez	Gerente de Logistica	1244.96
+Pedro Hernandez	Encargado de Despacho	610.72
+Luis Ruiz	Operador de Empaque	310.61
+Carmen Lopez	Gerente de Logistica	1208.64
+Luis Martinez	Auxiliar de Bodega	369.25
+Ana Gomez	Supervisor de Inventarios	506.6
+Elena Martinez	Repartidor	257.3
+Luis Vasquez	Operador de Montacargas	327.64
+Ana Vasquez	Operador de Montacargas	431.81
+Pedro Ruiz	Repartidor	296.85
+Ana Gomez	Supervisor de Inventarios	500.79
+Carlos Jimenez	Operador de Empaque	434.45
+Luis Ruiz	Supervisor de Inventarios	584.63
+Jorge Ruiz	Repartidor	399.64
+Maria Jimenez	Supervisor de Inventarios	560.95
+Ana Hernandez	Chofer de Carga	382.42
+Sofia Rodriguez	Chofer de Carga	379.34
+Luis Fernandez	Inspector de Calidad	492.49
+Elena Fernandez	Inspector de Calidad	401.94
+Roberto Fernandez	Auxiliar de Bodega	388.58
+Carlos Lopez	Auxiliar de Bodega	395.03
+Jorge Ruiz	Supervisor de Inventarios	621.54
+Maria Vasquez	Repartidor	455.85
+Ana Perez	Supervisor de Inventarios	568.1
+Elena Ruiz	Operador de Montacargas	416.31
+Luis Lopez	Supervisor de Inventarios	573.55
+Pedro Vasquez	Encargado de Despacho	500.69
+Carlos Fernandez	Chofer de Carga	346.44
+Carmen Ruiz	Repartidor	256.82
+Sofia Fernandez	Auxiliar de Bodega	377.91
+Carmen Rodriguez	Chofer de Carga	519.46
+Sofia Ruiz	Jefe de Almacen	962.74
+Roberto Hernandez	Inspector de Calidad	578.87
+Luis Martinez	Operador de Montacargas	525.12
+Pedro Fernandez	Jefe de Almacen	608.87
+Elena Hernandez	Inspector de Calidad	434.55
+Ana Fernandez	Chofer de Carga	494.5
+Sofia Ruiz	Repartidor	466.47
+Roberto Lopez	Encargado de Despacho	445.82
+Carmen Rodriguez	Chofer de Carga	493.96
+Jorge Hernandez	Supervisor de Inventarios	585.9
+Roberto Hernandez	Encargado de Despacho	444.39
+Roberto Ruiz	Repartidor	454.54
+Luis Rodriguez	Encargado de Despacho	599.69
+Pedro Jimenez	Operador de Empaque	355.82
+Pedro Rodriguez	Jefe de Almacen	935.27
+Maria Rodriguez	Encargado de Despacho	637.73
+Luis Jimenez	Auxiliar de Bodega	288.78
+Sofia Fernandez	Jefe de Almacen	910.12
+Pedro Perez	Gerente de Logistica	1465.73
+Pedro Fernandez	Gerente de Logistica	1080.6
+Sofia Vasquez	Operador de Montacargas	390.09
+Pedro Lopez	Operador de Empaque	346.52
+Maria Lopez	Operador de Montacargas	312.6
+Pedro Lopez	Supervisor de Inventarios	751.23
+Sofia Ruiz	Auxiliar de Bodega	344.69
+Jorge Fernandez	Gerente de Logistica	1317.24
+Sofia Jimenez	Chofer de Carga	466.21
+Luis Martinez	Jefe de Almacen	880.0
+Elena Jimenez	Supervisor de Inventarios	647.4
+Jorge Hernandez	Repartidor	485.79
+Carlos Martinez	Inspector de Calidad	439.13
+Carlos Gomez	Jefe de Almacen	937.81
+Sofia Martinez	Auxiliar de Bodega	313.33
+Carmen Lopez	Operador de Empaque	369.05
+Carmen Jimenez	Auxiliar de Bodega	436.79
+Sofia Rodriguez	Inspector de Calidad	678.71
+Carlos Ruiz	Supervisor de Inventarios	682.84
+Sofia Rodriguez	Operador de Montacargas	550.43
+Roberto Fernandez	Encargado de Despacho	541.16
+Jorge Hernandez	Gerente de Logistica	1206.03
+Carmen Fernandez	Encargado de Despacho	422.58
+Roberto Jimenez	Operador de Montacargas	568.56
+Roberto Ruiz	Operador de Montacargas	396.56
+Maria Gomez	Encargado de Despacho	680.24
+Carlos Rodriguez	Auxiliar de Bodega	325.1
+Carmen Rodriguez	Encargado de Despacho	695.85
+Luis Hernandez	Repartidor	426.23
+Ana Gomez	Supervisor de Inventarios	513.45
+Carmen Vasquez	Jefe de Almacen	711.56
+Luis Ruiz	Jefe de Almacen	635.3
+Jorge Martinez	Operador de Empaque	414.74
+Elena Jimenez	Repartidor	376.55
+Pedro Rodriguez	Encargado de Despacho	615.73
+Ana Perez	Inspector de Calidad	533.21
+Jorge Rodriguez	Operador de Montacargas	453.17
+Roberto Ruiz	Chofer de Carga	313.49
+Maria Gomez	Jefe de Almacen	989.9
+Elena Martinez	Encargado de Despacho	639.93
+Pedro Ruiz	Auxiliar de Bodega	381.8
+Ana Rodriguez	Chofer de Carga	475.51
+Jorge Fernandez	Auxiliar de Bodega	337.83
+Pedro Ruiz	Encargado de Despacho	646.29
+Maria Gomez	Operador de Empaque	349.99
+Ana Ruiz	Supervisor de Inventarios	687.03
+Maria Vasquez	Repartidor	475.28
+Luis Hernandez	Jefe de Almacen	899.24
+Jorge Hernandez	Operador de Montacargas	436.07
+Maria Martinez	Auxiliar de Bodega	346.72
+Pedro Ruiz	Repartidor	386.26
+Carmen Jimenez	Auxiliar de Bodega	259.94
+Pedro Fernandez	Supervisor de Inventarios	630.16
+Carlos Lopez	Chofer de Carga	359.35
+Roberto Vasquez	Supervisor de Inventarios	638.58
+Carmen Rodriguez	Operador de Montacargas	310.94
+Carmen Fernandez	Repartidor	434.24
+Ana Rodriguez	Supervisor de Inventarios	632.54
+Elena Gomez	Inspector de Calidad	426.16
+Carmen Martinez	Operador de Montacargas	475.94
+Elena Jimenez	Supervisor de Inventarios	609.3
+Luis Vasquez	Chofer de Carga	520.42
+Carmen Fernandez	Repartidor	474.98
+Luis Rodriguez	Chofer de Carga	450.74
+Carmen Jimenez	Operador de Empaque	442.55
+Roberto Rodriguez	Operador de Empaque	364.59
+Sofia Vasquez	Repartidor	420.54
+Carlos Gomez	Encargado de Despacho	646.7
+Jorge Jimenez	Encargado de Despacho	637.87
+Pedro Fernandez	Repartidor	483.04
+Carlos Gomez	Gerente de Logistica	1490.12
+Carlos Rodriguez	Operador de Empaque	295.71
+Jorge Ruiz	Chofer de Carga	303.17
+Ana Fernandez	Operador de Empaque	285.77
+Maria Rodriguez	Supervisor de Inventarios	723.36
+Carmen Vasquez	Operador de Empaque	366.15
+Sofia Jimenez	Encargado de Despacho	473.56
+Roberto Fernandez	Operador de Montacargas	586.97
+Roberto Gomez	Supervisor de Inventarios	759.35
+Roberto Gomez	Encargado de Despacho	629.54
+Elena Vasquez	Gerente de Logistica	1302.49
+Jorge Hernandez	Operador de Empaque	289.65
+Maria Vasquez	Jefe de Almacen	870.75
+Carmen Hernandez	Inspector de Calidad	546.6
+Jorge Gomez	Chofer de Carga	541.48
+Luis Vasquez	Jefe de Almacen	826.38
+Maria Lopez	Gerente de Logistica	1083.77
+Roberto Rodriguez	Inspector de Calidad	694.11
+Sofia Jimenez	Encargado de Despacho	640.5
+Roberto Ruiz	Jefe de Almacen	605.98
+Ana Ruiz	Chofer de Carga	519.45
+Maria Jimenez	Repartidor	392.78
+Roberto Vasquez	Repartidor	344.42
+Carmen Gomez	Auxiliar de Bodega	345.11
+Roberto Perez	Gerente de Logistica	1298.6
+Pedro Lopez	Encargado de Despacho	480.89
+Carmen Hernandez	Repartidor	342.1
+Maria Rodriguez	Encargado de Despacho	621.97
+Maria Rodriguez	Supervisor de Inventarios	763.97
+Carmen Lopez	Operador de Empaque	291.3
+Maria Vasquez	Chofer de Carga	386.8
+Ana Fernandez	Encargado de Despacho	495.76
+Jorge Ruiz	Auxiliar de Bodega	323.24
+Jorge Gomez	Encargado de Despacho	650.94
+Sofia Perez	Chofer de Carga	378.14
+Luis Jimenez	Operador de Montacargas	356.81
+Luis Fernandez	Repartidor	441.87
+Roberto Fernandez	Chofer de Carga	376.06
+Ana Fernandez	Auxiliar de Bodega	397.18
+Jorge Gomez	Repartidor	286.05
+Carmen Hernandez	Gerente de Logistica	1116.43
+Roberto Hernandez	Supervisor de Inventarios	604.82
+Jorge Perez	Inspector de Calidad	571.44
+Roberto Martinez	Gerente de Logistica	1438.64
+Elena Martinez	Operador de Empaque	308.44
+Ana Ruiz	Auxiliar de Bodega	410.18
+Pedro Martinez	Supervisor de Inventarios	673.79
+Carlos Fernandez	Chofer de Carga	430.26
+Sofia Fernandez	Auxiliar de Bodega	387.82
+Carmen Vasquez	Auxiliar de Bodega	318.51
+Carmen Hernandez	Supervisor de Inventarios	561.14
+Jorge Perez	Chofer de Carga	439.29
+Maria Martinez	Chofer de Carga	376.44
+Sofia Vasquez	Auxiliar de Bodega	366.01
+Pedro Perez	Inspector de Calidad	675.02
+Roberto Rodriguez	Operador de Empaque	340.07
+Ana Vasquez	Supervisor de Inventarios	630.72
+Carlos Martinez	Encargado de Despacho	597.12
+Maria Lopez	Operador de Montacargas	550.3
+Elena Hernandez	Supervisor de Inventarios	737.96
+Ana Lopez	Gerente de Logistica	1035.9
+Sofia Perez	Chofer de Carga	447.14
+Sofia Rodriguez	Auxiliar de Bodega	300.91
+Roberto Ruiz	Gerente de Logistica	1062.06
+Ana Lopez	Auxiliar de Bodega	390.88
+Jorge Perez	Encargado de Despacho	607.35
+Elena Rodriguez	Operador de Empaque	278.13
+Carlos Ruiz	Chofer de Carga	311.08
+Ana Ruiz	Gerente de Logistica	1436.36
+Maria Jimenez	Jefe de Almacen	721.87
+Roberto Fernandez	Encargado de Despacho	448.32
+Pedro Lopez	Chofer de Carga	400.81
+Jorge Lopez	Supervisor de Inventarios	788.97
+Maria Hernandez	Repartidor	311.62
+Ana Jimenez	Repartidor	451.64
+Luis Ruiz	Operador de Empaque	312.29
+Luis Jimenez	Auxiliar de Bodega	298.85
+Carmen Lopez	Auxiliar de Bodega	342.71
+Elena Jimenez	Supervisor de Inventarios	648.35
+Ana Gomez	Operador de Empaque	349.16
+Maria Hernandez	Encargado de Despacho	497.08
+Sofia Jimenez	Encargado de Despacho	417.49
+Roberto Vasquez	Auxiliar de Bodega	330.08
+Jorge Ruiz	Jefe de Almacen	763.31
+Jorge Martinez	Jefe de Almacen	884.96
+Carmen Rodriguez	Auxiliar de Bodega	321.29
+Maria Perez	Inspector de Calidad	440.26
+Carmen Rodriguez	Operador de Montacargas	460.8
+Carlos Martinez	Gerente de Logistica	1001.35
+Carmen Vasquez	Operador de Montacargas	517.71
+Ana Martinez	Operador de Empaque	339.03
+Carlos Fernandez	Jefe de Almacen	967.71
+Carmen Ruiz	Auxiliar de Bodega	310.16
+Jorge Jimenez	Inspector de Calidad	625.79
+Elena Gomez	Gerente de Logistica	1182.08
+Pedro Martinez	Repartidor	341.32
+Luis Hernandez	Auxiliar de Bodega	295.37
+Jorge Hernandez	Gerente de Logistica	1020.85
+Jorge Martinez	Operador de Montacargas	502.59
+Carmen Fernandez	Supervisor de Inventarios	730.02
+Elena Rodriguez	Jefe de Almacen	948.46
+Elena Fernandez	Operador de Montacargas	370.96
+Maria Rodriguez	Gerente de Logistica	1186.36
+Maria Rodriguez	Encargado de Despacho	429.76
+Luis Jimenez	Operador de Empaque	282.32
+Pedro Rodriguez	Jefe de Almacen	890.44
+Carlos Vasquez	Operador de Empaque	403.68
+Carmen Hernandez	Repartidor	302.6
+Luis Fernandez	Operador de Montacargas	549.54
+Maria Ruiz	Gerente de Logistica	1107.66
+Luis Perez	Inspector de Calidad	638.9
+Elena Fernandez	Supervisor de Inventarios	520.98
+Ana Rodriguez	Auxiliar de Bodega	276.3
+Jorge Rodriguez	Supervisor de Inventarios	760.16
+Elena Vasquez	Jefe de Almacen	776.07
+Ana Fernandez	Operador de Montacargas	505.25
+Luis Rodriguez	Chofer de Carga	332.47
+Luis Hernandez	Inspector de Calidad	660.79
+Roberto Vasquez	Repartidor	415.56
+Elena Perez	Inspector de Calidad	496.46
+Jorge Vasquez	Auxiliar de Bodega	343.37
+Elena Vasquez	Chofer de Carga	406.25
+Pedro Gomez	Auxiliar de Bodega	365.62
+Carmen Rodriguez	Auxiliar de Bodega	426.9
+Ana Fernandez	Jefe de Almacen	795.98
+Jorge Jimenez	Operador de Montacargas	316.17
+Carmen Gomez	Supervisor de Inventarios	764.38
+Carlos Rodriguez	Operador de Montacargas	433.43
+Maria Vasquez	Operador de Empaque	253.17
+Luis Hernandez	Chofer de Carga	398.52
+Carlos Jimenez	Operador de Montacargas	516.04
+Carlos Jimenez	Inspector de Calidad	525.53
+Roberto Gomez	Operador de Montacargas	353.45
+Luis Vasquez	Jefe de Almacen	789.76
+Luis Martinez	Chofer de Carga	306.42
+Carmen Lopez	Operador de Montacargas	408.53
+Luis Gomez	Gerente de Logistica	1198.03
+Roberto Fernandez	Jefe de Almacen	855.68
+Ana Lopez	Operador de Empaque	326.9
+Carmen Fernandez	Supervisor de Inventarios	547.5
+Jorge Hernandez	Operador de Empaque	362.71
+Ana Jimenez	Operador de Montacargas	553.56
+Pedro Jimenez	Jefe de Almacen	649.38
+Carmen Ruiz	Auxiliar de Bodega	264.43
+Jorge Ruiz	Operador de Montacargas	443.55
+Roberto Perez	Auxiliar de Bodega	313.45
+Carmen Fernandez	Jefe de Almacen	918.88
+Ana Lopez	Inspector de Calidad	535.79
+Ana Gomez	Jefe de Almacen	776.59
+Carmen Rodriguez	Chofer de Carga	329.24
+Maria Jimenez	Operador de Empaque	376.75
+Roberto Ruiz	Auxiliar de Bodega	379.29
+Ana Ruiz	Jefe de Almacen	733.08
+Luis Gomez	Supervisor de Inventarios	561.12
+Ana Perez	Operador de Montacargas	348.14
+Roberto Vasquez	Inspector de Calidad	575.81
+Sofia Perez	Inspector de Calidad	437.32
+Sofia Fernandez	Gerente de Logistica	1207.12
+Roberto Fernandez	Repartidor	323.39
+Ana Hernandez	Repartidor	273.17
+Luis Fernandez	Operador de Empaque	256.97
+Carmen Hernandez	Chofer de Carga	452.87
+Roberto Gomez	Chofer de Carga	305.96
+Roberto Jimenez	Chofer de Carga	523.06
+Luis Lopez	Auxiliar de Bodega	263.1
+Ana Perez	Repartidor	429.91
+Pedro Hernandez	Operador de Empaque	305.88
+Luis Perez	Auxiliar de Bodega	315.79
+Ana Hernandez	Jefe de Almacen	919.72
+Ana Ruiz	Repartidor	276.77
+Jorge Lopez	Gerente de Logistica	1277.21
+Roberto Gomez	Operador de Empaque	413.62
+Carlos Rodriguez	Operador de Montacargas	528.85
+Pedro Martinez	Encargado de Despacho	641.63
+Jorge Gomez	Supervisor de Inventarios	541.63
+Carmen Martinez	Jefe de Almacen	720.01
+Pedro Gomez	Auxiliar de Bodega	435.38
+Carmen Hernandez	Inspector de Calidad	441.06
+Maria Vasquez	Supervisor de Inventarios	759.51
+Pedro Perez	Gerente de Logistica	1249.6
+Sofia Fernandez	Gerente de Logistica	1450.49
+Pedro Jimenez	Auxiliar de Bodega	434.03
+Sofia Jimenez	Gerente de Logistica	1233.63
+Maria Vasquez	Inspector de Calidad	617.34
+Roberto Gomez	Operador de Montacargas	408.64
+Elena Fernandez	Supervisor de Inventarios	625.15
+Elena Lopez	Inspector de Calidad	509.98
+Maria Fernandez	Jefe de Almacen	875.92
+Sofia Gomez	Gerente de Logistica	1424.87
+Maria Lopez	Inspector de Calidad	479.65
+Ana Lopez	Auxiliar de Bodega	414.05
+Jorge Ruiz	Inspector de Calidad	614.8
+Carmen Gomez	Gerente de Logistica	1230.39
+Carmen Rodriguez	Auxiliar de Bodega	441.83
+Sofia Lopez	Encargado de Despacho	561.19
+Maria Fernandez	Operador de Montacargas	340.66
+Carmen Lopez	Chofer de Carga	455.56
+Carmen Fernandez	Encargado de Despacho	461.94
+Carlos Martinez	Supervisor de Inventarios	773.07
+Sofia Rodriguez	Supervisor de Inventarios	726.97
+Carmen Perez	Operador de Empaque	361.67
+Roberto Jimenez	Jefe de Almacen	663.84
+Roberto Gomez	Inspector de Calidad	545.13
+Ana Martinez	Inspector de Calidad	613.55
+Maria Rodriguez	Operador de Empaque	407.98
+Carlos Perez	Jefe de Almacen	974.03
+Roberto Rodriguez	Chofer de Carga	453.29
+Jorge Martinez	Chofer de Carga	393.85
+Elena Rodriguez	Encargado de Despacho	552.53
+Jorge Vasquez	Chofer de Carga	408.3
+Luis Gomez	Supervisor de Inventarios	509.56
+Maria Hernandez	Operador de Empaque	355.79
+Ana Ruiz	Operador de Empaque	253.2
+Luis Gomez	Operador de Montacargas	386.07
+Ana Gomez	Operador de Empaque	311.24
+Carmen Ruiz	Operador de Empaque	266.93
+Jorge Fernandez	Inspector de Calidad	572.79
+Carmen Perez	Operador de Montacargas	541.76
+Roberto Lopez	Auxiliar de Bodega	295.22
+Ana Hernandez	Jefe de Almacen	805.34
+Pedro Jimenez	Auxiliar de Bodega	317.3
+Maria Lopez	Inspector de Calidad	628.38
+Elena Fernandez	Operador de Montacargas	344.57
+Maria Lopez	Jefe de Almacen	733.47
+Maria Hernandez	Gerente de Logistica	1061.58
+Jorge Ruiz	Jefe de Almacen	788.26
+Pedro Rodriguez	Inspector de Calidad	510.25
+Maria Gomez	Jefe de Almacen	835.68
+Carmen Gomez	Encargado de Despacho	572.76
+Carmen Rodriguez	Jefe de Almacen	837.49
+Elena Jimenez	Operador de Empaque	407.17
+Luis Gomez	Repartidor	334.34
+Carlos Fernandez	Operador de Empaque	341.22
+Jorge Gomez	Repartidor	380.36
+Maria Rodriguez	Operador de Empaque	311.72
+Ana Hernandez	Jefe de Almacen	905.21
+Ana Jimenez	Jefe de Almacen	857.8
+Carmen Hernandez	Operador de Montacargas	472.14
+Sofia Perez	Gerente de Logistica	1335.02
+Sofia Martinez	Jefe de Almacen	835.61
+Elena Lopez	Auxiliar de Bodega	265.08
+Sofia Jimenez	Operador de Montacargas	451.87
+Sofia Martinez	Repartidor	485.5
+Roberto Martinez	Operador de Montacargas	512.37
+Roberto Rodriguez	Auxiliar de Bodega	321.17
+Sofia Perez	Supervisor de Inventarios	612.15
+Carmen Ruiz	Auxiliar de Bodega	293.97
+Carmen Vasquez	Operador de Montacargas	557.83
+Carmen Hernandez	Jefe de Almacen	628.37
+Maria Vasquez	Encargado de Despacho	441.5
+Carmen Rodriguez	Encargado de Despacho	612.29
+Sofia Perez	Auxiliar de Bodega	343.09
+Roberto Gomez	Gerente de Logistica	1397.62
+Sofia Rodriguez	Supervisor de Inventarios	664.69
+Jorge Fernandez	Supervisor de Inventarios	622.39
+Elena Fernandez	Inspector de Calidad	591.47
+Carlos Rodriguez	Supervisor de Inventarios	581.33
+Carlos Jimenez	Supervisor de Inventarios	714.87
+Roberto Jimenez	Chofer de Carga	504.93
+Maria Fernandez	Supervisor de Inventarios	580.13
+Sofia Gomez	Supervisor de Inventarios	621.8
+Maria Jimenez	Repartidor	462.55
+Luis Hernandez	Supervisor de Inventarios	542.51
+Ana Perez	Chofer de Carga	322.67
+Pedro Gomez	Chofer de Carga	411.36
+Carmen Gomez	Operador de Empaque	286.76
+Pedro Fernandez	Jefe de Almacen	661.92
+Luis Ruiz	Operador de Montacargas	563.29
+Pedro Fernandez	Inspector de Calidad	694.23
+Carmen Vasquez	Repartidor	365.27
+Maria Fernandez	Jefe de Almacen	913.44
+Sofia Rodriguez	Jefe de Almacen	688.66
+Pedro Vasquez	Supervisor de Inventarios	681.8
+Pedro Jimenez	Auxiliar de Bodega	383.51
+Carlos Perez	Operador de Empaque	303.3
+Carmen Gomez	Auxiliar de Bodega	389.09
+Carmen Hernandez	Chofer de Carga	383.2
+Sofia Perez	Supervisor de Inventarios	775.8
+Elena Ruiz	Operador de Empaque	364.05
+Elena Vasquez	Repartidor	309.99
+Elena Martinez	Repartidor	470.74
+Ana Martinez	Repartidor	299.31
+Carmen Perez	Jefe de Almacen	639.85
+Luis Perez	Operador de Montacargas	554.88
+Roberto Fernandez	Inspector de Calidad	465.08
+Roberto Perez	Gerente de Logistica	1273.31
+Luis Ruiz	Jefe de Almacen	907.55
+Carlos Ruiz	Operador de Empaque	306.05
+Pedro Fernandez	Repartidor	489.32
+Pedro Fernandez	Operador de Montacargas	468.72
+Elena Lopez	Supervisor de Inventarios	768.87
+Ana Vasquez	Chofer de Carga	499.49
+Pedro Perez	Supervisor de Inventarios	723.63
+Roberto Perez	Repartidor	311.6
+Roberto Martinez	Supervisor de Inventarios	621.19
+Maria Lopez	Gerente de Logistica	1360.79
+Sofia Lopez	Jefe de Almacen	752.43
+Sofia Fernandez	Inspector de Calidad	460.41
+Pedro Fernandez	Inspector de Calidad	551.52
+Roberto Fernandez	Jefe de Almacen	640.94
+Ana Martinez	Supervisor de Inventarios	589.75
+Sofia Fernandez	Repartidor	415.6
+Luis Ruiz	Repartidor	318.93
+Pedro Martinez	Operador de Montacargas	506.76
+Roberto Gomez	Chofer de Carga	488.89
+Carmen Jimenez	Chofer de Carga	363.08
+Carlos Ruiz	Chofer de Carga	364.31
+Elena Perez	Auxiliar de Bodega	337.05
+Maria Perez	Repartidor	492.79
+Carmen Lopez	Repartidor	496.31
+Maria Hernandez	Jefe de Almacen	987.88
+Roberto Martinez	Gerente de Logistica	1205.04
+Maria Perez	Operador de Montacargas	313.3
+Carmen Lopez	Auxiliar de Bodega	348.02
+Elena Ruiz	Encargado de Despacho	690.43
+Luis Vasquez	Jefe de Almacen	714.94
+Carlos Ruiz	Chofer de Carga	438.57
+Pedro Gomez	Chofer de Carga	456.99
+Jorge Fernandez	Operador de Montacargas	311.06
+Carmen Perez	Operador de Empaque	335.69
+Jorge Martinez	Jefe de Almacen	798.57
+Roberto Gomez	Chofer de Carga	457.55
+Jorge Hernandez	Supervisor de Inventarios	619.89
+Roberto Gomez	Chofer de Carga	337.25
+Maria Fernandez	Chofer de Carga	356.83
+Ana Gomez	Encargado de Despacho	515.76
+Elena Jimenez	Encargado de Despacho	516.83
+Jorge Jimenez	Auxiliar de Bodega	381.22
+Ana Lopez	Operador de Empaque	376.7
+Maria Hernandez	Inspector de Calidad	547.89
+Luis Perez	Supervisor de Inventarios	770.34
+Sofia Vasquez	Jefe de Almacen	727.64
+Elena Vasquez	Gerente de Logistica	1241.08
+Ana Rodriguez	Gerente de Logistica	1394.09
+Elena Vasquez	Supervisor de Inventarios	540.74
+Maria Martinez	Encargado de Despacho	648.82
+Roberto Jimenez	Operador de Montacargas	358.1
+Jorge Lopez	Operador de Empaque	349.96
+Luis Ruiz	Gerente de Logistica	1317.16
+Carlos Lopez	Repartidor	426.49
+Jorge Gomez	Operador de Montacargas	443.33
+Carlos Jimenez	Chofer de Carga	460.59
+Carmen Fernandez	Gerente de Logistica	1358.92
+Ana Fernandez	Jefe de Almacen	671.58
+Elena Jimenez	Operador de Montacargas	421.83
+Pedro Martinez	Encargado de Despacho	645.27
+Carlos Ruiz	Jefe de Almacen	893.51
+Ana Vasquez	Operador de Empaque	428.86
+Ana Ruiz	Inspector de Calidad	465.32
+Elena Hernandez	Encargado de Despacho	433.6
+Jorge Rodriguez	Encargado de Despacho	531.71
+Jorge Gomez	Repartidor	278.98
+Sofia Fernandez	Operador de Montacargas	314.99
+Sofia Rodriguez	Operador de Montacargas	567.06
+Pedro Jimenez	Operador de Montacargas	471.1
+Jorge Jimenez	Supervisor de Inventarios	673.63
+Carmen Rodriguez	Chofer de Carga	416.81
+Carmen Hernandez	Repartidor	252.96
+Jorge Martinez	Supervisor de Inventarios	556.19
+Luis Hernandez	Encargado de Despacho	628.3
+Sofia Jimenez	Operador de Montacargas	548.11
+Luis Martinez	Inspector de Calidad	495.35
+Jorge Vasquez	Jefe de Almacen	672.18
+Elena Ruiz	Operador de Empaque	395.79
+Carmen Vasquez	Gerente de Logistica	1081.97
+Luis Gomez	Encargado de Despacho	483.26
+Maria Martinez	Jefe de Almacen	711.32
+Ana Hernandez	Repartidor	344.2
+Jorge Fernandez	Encargado de Despacho	646.37
+Luis Martinez	Operador de Empaque	295.85
+Elena Gomez	Jefe de Almacen	734.75
+Ana Hernandez	Repartidor	419.72
+Carmen Perez	Supervisor de Inventarios	731.04
+Pedro Rodriguez	Encargado de Despacho	579.31
+Sofia Lopez	Supervisor de Inventarios	776.8
+Luis Martinez	Inspector de Calidad	449.39
+Pedro Perez	Inspector de Calidad	452.59
+Elena Rodriguez	Jefe de Almacen	946.81
+Ana Jimenez	Chofer de Carga	353.91
+Jorge Fernandez	Repartidor	494.62
+Roberto Hernandez	Encargado de Despacho	458.11
+Ana Jimenez	Encargado de Despacho	617.79
+Ana Fernandez	Auxiliar de Bodega	362.26
+Luis Perez	Operador de Empaque	352.4
+Elena Perez	Gerente de Logistica	1070.35
+Maria Perez	Auxiliar de Bodega	426.98
+Pedro Ruiz	Operador de Empaque	369.35
+Roberto Perez	Jefe de Almacen	967.08
+Jorge Ruiz	Chofer de Carga	380.2
+Carmen Martinez	Operador de Montacargas	473.45
+Carlos Martinez	Auxiliar de Bodega	328.72
+Jorge Vasquez	Supervisor de Inventarios	561.26
+Maria Ruiz	Operador de Empaque	399.87
+Pedro Jimenez	Inspector de Calidad	623.45
+Maria Rodriguez	Auxiliar de Bodega	343.86
+Elena Ruiz	Gerente de Logistica	1180.36
+Ana Martinez	Encargado de Despacho	683.87
+Ana Fernandez	Operador de Empaque	365.27
+Sofia Martinez	Encargado de Despacho	601.34
+Carlos Martinez	Chofer de Carga	341.12
+Pedro Vasquez	Operador de Montacargas	413.29
+Carmen Rodriguez	Jefe de Almacen	713.87
+Elena Vasquez	Encargado de Despacho	556.88
+Sofia Gomez	Auxiliar de Bodega	289.18
+Maria Rodriguez	Auxiliar de Bodega	268.74
+Roberto Hernandez	Jefe de Almacen	814.92
+Elena Rodriguez	Supervisor de Inventarios	716.18
+Ana Rodriguez	Supervisor de Inventarios	763.93
+Luis Lopez	Auxiliar de Bodega	361.41
+Luis Perez	Gerente de Logistica	1306.95
+Luis Ruiz	Operador de Empaque	438.94
+Ana Rodriguez	Operador de Empaque	369.17
+Roberto Gomez	Gerente de Logistica	1459.37
+Roberto Vasquez	Gerente de Logistica	1170.58
+Maria Lopez	Auxiliar de Bodega	400.28
+Elena Ruiz	Inspector de Calidad	542.69
+Luis Jimenez	Encargado de Despacho	663.75
+Luis Jimenez	Auxiliar de Bodega	279.66
+Carlos Lopez	Gerente de Logistica	1321.56
+Roberto Martinez	Encargado de Despacho	692.71
+Luis Rodriguez	Operador de Empaque	312.64
+Maria Hernandez	Chofer de Carga	308.73
+Pedro Gomez	Gerente de Logistica	1373.51
+Maria Perez	Supervisor de Inventarios	638.96
+Roberto Fernandez	Chofer de Carga	322.07
+Carmen Martinez	Inspector de Calidad	685.89
+Carmen Fernandez	Jefe de Almacen	792.44
+Luis Rodriguez	Operador de Montacargas	544.34
+Luis Rodriguez	Jefe de Almacen	641.16
+Carmen Ruiz	Chofer de Carga	345.78
+Roberto Rodriguez	Chofer de Carga	422.13
+Carmen Jimenez	Supervisor de Inventarios	687.33
+Elena Gomez	Supervisor de Inventarios	767.45
+Carlos Hernandez	Supervisor de Inventarios	706.34
+Jorge Vasquez	Gerente de Logistica	1152.53
+Maria Ruiz	Operador de Empaque	446.25
+Roberto Jimenez	Inspector de Calidad	411.38
+Carlos Martinez	Jefe de Almacen	664.84
+Jorge Vasquez	Chofer de Carga	369.87
+Maria Vasquez	Encargado de Despacho	420.71
+Carlos Martinez	Jefe de Almacen	994.5
+Sofia Gomez	Gerente de Logistica	1455.54
+Roberto Jimenez	Chofer de Carga	374.48
+Luis Ruiz	Operador de Montacargas	411.41
+Carlos Lopez	Operador de Montacargas	419.19
+Maria Martinez	Gerente de Logistica	1148.34
+Ana Rodriguez	Operador de Montacargas	598.91
+Sofia Perez	Inspector de Calidad	599.81
+Roberto Gomez	Encargado de Despacho	440.34
+Carmen Fernandez	Encargado de Despacho	661.32
+Jorge Hernandez	Auxiliar de Bodega	366.22
+Roberto Ruiz	Encargado de Despacho	421.31
+Jorge Rodriguez	Chofer de Carga	398.97
+Carmen Hernandez	Auxiliar de Bodega	270.72
+Ana Perez	Repartidor	304.11
+Ana Fernandez	Supervisor de Inventarios	695.61
+Sofia Rodriguez	Auxiliar de Bodega	286.07
+Maria Hernandez	Repartidor	370.73
+Carlos Rodriguez	Auxiliar de Bodega	362.77
+Pedro Jimenez	Encargado de Despacho	460.43
+Elena Ruiz	Supervisor de Inventarios	679.44
+Carmen Gomez	Encargado de Despacho	486.6
+Elena Vasquez	Inspector de Calidad	440.67
+Ana Fernandez	Repartidor	285.59
+Carlos Gomez	Operador de Empaque	423.98
+Elena Vasquez	Encargado de Despacho	467.71
+Maria Perez	Operador de Empaque	376.27
+Maria Martinez	Operador de Montacargas	308.39
+Pedro Martinez	Gerente de Logistica	1251.87
+Maria Ruiz	Encargado de Despacho	642.79
+Roberto Fernandez	Operador de Empaque	399.66
+Luis Ruiz	Auxiliar de Bodega	288.43
+Carlos Ruiz	Operador de Montacargas	339.28
+Ana Martinez	Gerente de Logistica	1198.41
+Roberto Martinez	Supervisor de Inventarios	547.3
+Elena Rodriguez	Inspector de Calidad	527.37
+Sofia Lopez	Chofer de Carga	341.32
+Ana Vasquez	Inspector de Calidad	562.24
+Carmen Vasquez	Repartidor	493.43
+Jorge Martinez	Operador de Montacargas	487.26
+Carlos Rodriguez	Auxiliar de Bodega	417.43
+Luis Gomez	Jefe de Almacen	860.25
+Roberto Fernandez	Repartidor	357.66
+Roberto Vasquez	Chofer de Carga	413.89
+Sofia Perez	Repartidor	447.73
+Maria Lopez	Supervisor de Inventarios	680.28
+Roberto Ruiz	Chofer de Carga	304.37
+Jorge Perez	Operador de Empaque	366.13
+Maria Gomez	Auxiliar de Bodega	403.11
+Elena Lopez	Chofer de Carga	444.63
+Maria Jimenez	Chofer de Carga	378.87
+Elena Fernandez	Supervisor de Inventarios	763.24
+Pedro Martinez	Inspector de Calidad	512.3
+Sofia Vasquez	Encargado de Despacho	512.86
+Ana Rodriguez	Operador de Montacargas	378.15
+Ana Perez	Supervisor de Inventarios	714.2
+Carlos Rodriguez	Operador de Empaque	335.23
+Elena Hernandez	Jefe de Almacen	667.28
+Jorge Rodriguez	Auxiliar de Bodega	434.79
+Ana Rodriguez	Chofer de Carga	542.47
+Sofia Gomez	Operador de Montacargas	342.17
+Ana Vasquez	Encargado de Despacho	445.65
+Ana Perez	Chofer de Carga	495.9
+Ana Gomez	Repartidor	452.52
+Maria Jimenez	Jefe de Almacen	631.77
+Maria Ruiz	Operador de Montacargas	379.67
+Carmen Fernandez	Chofer de Carga	519.49
+Sofia Ruiz	Auxiliar de Bodega	338.36
+Pedro Gomez	Jefe de Almacen	928.23
+Ana Jimenez	Operador de Empaque	305.62
+Roberto Gomez	Operador de Empaque	394.54
+Maria Fernandez	Operador de Empaque	448.88
+Pedro Fernandez	Operador de Montacargas	312.1
+Ana Fernandez	Encargado de Despacho	699.79
+Roberto Fernandez	Auxiliar de Bodega	315.9
+Sofia Rodriguez	Gerente de Logistica	1159.36
+Carmen Hernandez	Gerente de Logistica	1300.42
+Ana Ruiz	Jefe de Almacen	764.42
+Carlos Perez	Operador de Empaque	364.12
+Ana Rodriguez	Gerente de Logistica	1119.2
+Jorge Rodriguez	Encargado de Despacho	651.79
+Carlos Perez	Operador de Montacargas	412.18
+Luis Martinez	Jefe de Almacen	612.71
+Roberto Lopez	Auxiliar de Bodega	444.77
+Carlos Vasquez	Operador de Montacargas	576.6
+Elena Martinez	Operador de Montacargas	354.31
+Sofia Martinez	Inspector de Calidad	414.17
+Carmen Jimenez	Supervisor de Inventarios	535.96
+Sofia Perez	Encargado de Despacho	619.22
+Ana Jimenez	Operador de Montacargas	490.4
+Carlos Jimenez	Gerente de Logistica	1382.04
+Elena Hernandez	Operador de Montacargas	390.93
+Carmen Vasquez	Repartidor	301.3
+Sofia Rodriguez	Encargado de Despacho	414.81
