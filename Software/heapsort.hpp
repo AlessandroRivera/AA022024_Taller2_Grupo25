@@ -1,47 +1,28 @@
-#include <iostream> 
+#ifndef HEAPSORT_HPP
+#define HEAPSORT_HPP
 
-using namespace std;
+#include "heap.hpp"
 
-// Funciones para la implementación del Max Heap
-void construirMaxHeap(Empleado *array, int tamano);
+// Declaraciones de funciones
 void maxHeapify(Empleado *array, int i, int tamano);
-void ordenarHeap(Empleado *array, int n);
+void construirMaxHeap(Empleado *array, int tamano);
+void ordenarHeap(Empleado *array, int tamano);
 
-void construirMaxHeap(Empleado *array, int tamano)
-{
+// Construir un MaxHeap para ordenar
+void construirMaxHeap(Empleado *array, int tamano){
     for (int i = tamano / 2 - 1; i >= 0; i--)
         maxHeapify(array, i, tamano);
 }
 
-void maxHeapify(Empleado *array, int i, int tamano)
-{
-    int mayor = i; 
-    int izquierda = 2 * i + 1; 
-    int derecha = 2 * i + 2; 
+// Funcion para ordenar usando el heap
+void ordenarHeap(Empleado *array, int tamano){
+    construirMaxHeap(array, tamano);
 
-    // Verifica si el hijo izquierdo es mayor
-    if (izquierda < tamano && array[izquierda].ingreso > array[mayor].ingreso)
-        mayor = izquierda;
-
-    // Verifica si el hijo derecho es mayor
-    if (derecha < tamano && array[derecha].ingreso > array[mayor].ingreso)
-        mayor = derecha;
-
-    // Si el mayor no es el padre
-    if (mayor != i) 
+    for (int i = tamano - 1; i > 0; i--)
     {
-        swap(array[i], array[mayor]); // Intercambia
-        maxHeapify(array, mayor, tamano); // Recursivamente aplica maxHeapify
+        swap(array[0], array[i]); // Mueve el mayor al final del array
+        maxHeapify(array, 0, i);  // Ajusta el heap
     }
 }
 
-void ordenarHeap(Empleado *array, int n)
-{
-    construirMaxHeap(array, n); // Construir el heap
-
-    for (int i = n - 1; i > 0; i--)
-    {
-        swap(array[0], array[i]); // Intercambia el primero (mayor) con el último
-        maxHeapify(array, 0, i); // Aplica maxHeapify en el resto
-    }
-}
+#endif 

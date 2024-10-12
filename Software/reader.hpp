@@ -7,9 +7,8 @@
 
 using namespace std;
 
-// Define la estructura para almacenar la información del empleado
-struct Empleado
-{
+// Define la estructura para almacenar la informacion del empleado
+struct Empleado{
     string nombre, puesto;
     float ingreso;
 };
@@ -44,4 +43,4 @@ void cargar_datos(Empleado *datos, const int filas = 1000)
     archivo.close();
 }
 
-#endif // READER_HPP
+#endif 
