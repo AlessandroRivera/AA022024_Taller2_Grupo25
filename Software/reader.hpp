@@ -14,7 +14,7 @@ struct Empleado{
 };
 
 // Carga los datos de los empleados desde el archivo
-void cargar_datos(Empleado *datos, const int filas = 1000)
+void cargar_datos(Empleado *datos, const int filas = 2000)
 {
     string nombre, puesto, ingresoStr;
     const int numFilas = filas;
